@@ -2,7 +2,7 @@
 
 1. **Click the “Create” button**
 
-![](../../.gitbook/assets/d477ff574dac82f201064fa9dfd2070.png)
+![](<../../.gitbook/assets/image (36).png>)
 
 **2. Choose the type of query**
 
@@ -10,13 +10,11 @@
 * Custom query: use multiple data tables by joining to create a chart
 * Native query: for advanced users, make your own data table by writing SQL queries
 
-![](<../../.gitbook/assets/ab35148616f40449d8dab2cc1118cf1 (1).png>)
-
-&#x20;                                             &#x20;
+![](<../../.gitbook/assets/image (31).png>)
 
 **3. Choose the Footprint table and pick your starting data**
 
-![](<../../.gitbook/assets/2 (1).png>) ![](<../../.gitbook/assets/3 (1).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 **4. To find the data you need, you can:**
 
@@ -24,14 +22,7 @@ A. check through the table name (eg: if you want to do the analysis of Pair, you
 
 B. check the fields contained inside the table
 
-* pick a table and enter the edit page
-* click the triangle button representing Preview
-* check if you need this table to contain the fields
-* If no, back to the step “ⅰ”, choose another table to find your field (or you can raise your question on our discord)
-
-![](<../../.gitbook/assets/4 (1).png>)
-
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 &#x20;**5. Edit and filter the data**
 
@@ -43,14 +34,14 @@ B. check the fields contained inside the table
 * Row limit: you can limit the row of your result
 * Visualize: visualize your table into a chart
 
-![](<../../.gitbook/assets/6 (1).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **6. Table Visualization**
 
 * Choose a visualization: pick the way to show your data (line, bar, combo, ..etc.)
 * &#x20;Done
 
-![](../../.gitbook/assets/7.png) ![](../../.gitbook/assets/8.png)
+![](<../../.gitbook/assets/image (30).png>)
 
 **7 Visualization Setting**
 
@@ -61,7 +52,7 @@ B. check the fields contained inside the table
   * Labels: to set the label of the X & Y axis
 * Done
 
-![](../../.gitbook/assets/9.png) ![](../../.gitbook/assets/10.png)****
+![](<../../.gitbook/assets/image (29).png>)
 
 **8. Save**
 
@@ -71,7 +62,7 @@ B. check the fields contained inside the table
   * select the Collection: choose the location you want to save your result
 * Save
 
-![](../../.gitbook/assets/11.png)![](../../.gitbook/assets/12.png)****
+![](<../../.gitbook/assets/image (34).png>)![](<../../.gitbook/assets/image (32).png>)
 
 **9. Shortcut to create a dashboard**
 
