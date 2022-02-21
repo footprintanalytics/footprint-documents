@@ -6,9 +6,8 @@
 
 **2. Choose the type of query**
 
-* Simple query: use just one data table to create a chart
-* Custom query: use multiple data tables by joining to create a chart
-* Native query: for advanced users, make your own data table by writing SQL queries
+* New Chart: use just one data table to create a chart
+* SQL Query: for advanced users, make your own data table by writing SQL queries
 
 ![](<../../.gitbook/assets/image (31).png>)
 
