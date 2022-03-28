@@ -45,7 +45,6 @@
 * [🎮 GameFi Data](data-tables/gamefi-data.md)
 * [🎭 Social Data](data-tables/social-data.md)
 * [🧑🌾 Yield Aggregator Data](data-tables/yield-aggregator-data.md)
-* [Page 1](data-tables/page-1.md)
 
 ***
 
