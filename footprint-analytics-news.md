@@ -6,6 +6,8 @@ Footprint Analytics, which closed a $1.5 million seed round led by IOSG Ventures
 
 Joined by NGC, Arkstream, Youbi, SevenX Ventures, Puzzle, and angels Jary Ngan (Delphi Digital) and Avi Zurlo (Delphi Digital), the funding round will be used to ramp up marketing and cover more chains as well as protocols.
 
+More Info: [Link](https://news.bitcoin.com/footprint-analytics-raises-1-5-million-to-build-accessible-cross-chain-analytics-tool/)
+
 ![](.gitbook/assets/1648455598\(1\).jpg)
 
 
