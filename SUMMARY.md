@@ -3,6 +3,7 @@
 * [👣 Footprint Analytics](README.md)
 * [🐾 Functionality and Features](functionality-and-features.md)
 * [🔥 Footprint Highlights](footprint-highlights.md)
+* [🗞 Footprint Analytics News](footprint-analytics-news.md)
 
 ## 🚩 Getting Started
 
@@ -33,6 +34,7 @@
 
 ## 🔠 DATA TABLES
 
+* [🧿 Data Features](data-tables/data-features.md)
 * [⛓ Ethereum Data](data-tables/ethereum-data.md)
 * [🪙 Token Data](data-tables/token-data.md)
 * [🔀 DeFi](data-tables/defi.md)
@@ -43,6 +45,7 @@
 * [🎮 GameFi Data](data-tables/gamefi-data.md)
 * [🎭 Social Data](data-tables/social-data.md)
 * [🧑🌾 Yield Aggregator Data](data-tables/yield-aggregator-data.md)
+* [Page 1](data-tables/page-1.md)
 
 ***
 
