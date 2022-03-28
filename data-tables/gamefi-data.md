@@ -1,4 +1,4 @@
-# GameFi Data
+# 🎮 GameFi Data
 
 **gamefi\_daily\_stats**
 

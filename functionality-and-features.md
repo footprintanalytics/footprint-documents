@@ -1,4 +1,4 @@
-# Functionality and Features
+# 🐾 Functionality and Features
 
 ## Footprint Prep
 

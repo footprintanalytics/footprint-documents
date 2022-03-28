@@ -1,4 +1,4 @@
-# Social Data
+# 🎭 Social Data
 
 **socialfi\_daily\_stats**
 

@@ -1,4 +1,4 @@
-# Footprint Highlights
+# 🔥 Footprint Highlights
 
 #### **No coding or technical requirements**
 

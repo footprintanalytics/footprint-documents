@@ -6,4 +6,4 @@ If you have a third numeric field, you can also create a bubble chart. Select th
 
 Scatterplots and bubble charts also have similar chart options as line, bar, and area charts, including the option to display trend or goal lines.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](../../.gitbook/assets/1648454095\(1\).jpg)

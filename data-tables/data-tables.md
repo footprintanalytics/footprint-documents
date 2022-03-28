@@ -1,4 +1,4 @@
-# DEX Data
+# 💱 DEX Data
 
 #### dex\_pair\_daily\_stats&#x20;
 

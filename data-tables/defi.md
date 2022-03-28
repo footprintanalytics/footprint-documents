@@ -1,4 +1,4 @@
-# DeFi
+# 🔀 DeFi
 
 #### defi\_protocol\_info
 

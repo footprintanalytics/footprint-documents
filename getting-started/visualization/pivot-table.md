@@ -7,7 +7,7 @@ description: >-
 
 # Pivot Table
 
-Pivot tables work for simple and custom questions with summarized data for all other officially supported databases. They don’t work for questions that lack aggregate data, and they don’t work for questions written in SQL, as Metabase would need to modify your SQL code in order to calculate subtotals. If you really need to use SQL, the workaround here is to create your question in two steps: First ,do all of the complex things you need to do in SQL, save the results as a question, then use that saved SQL question as the starting point for a new GUI question which summarizes that data. See Picking your starting data.
+Pivot tables work for simple and custom questions with summarized data for all other officially supported databases. They don’t work for questions that lack aggregate data, and they don’t work for questions written in SQL, as Footprint would need to modify your SQL code in order to calculate subtotals. If you really need to use SQL, the workaround here is to create your question in two steps: First ,do all of the complex things you need to do in SQL, save the results as a question, then use that saved SQL question as the starting point for a new GUI question which summarizes that data. See Picking your starting data.
 
 Coming soon.
 
@@ -26,12 +26,12 @@ From the Orders table, we’ve summarized by the count of orders and the average
 
 ![](../../.gitbook/assets/5d09be3c944755af6082342051613e5.png)
 
-We’ve assigned the fields User → State and Created At to table rows, and assigned the Product -> Category field to generate our columns: Doohickey, Gadget, and so on. We can drag and drop dimensions between the row and column buckets, and add aggregations to the table values bucket. For example, if we assign a field to the columns bucket, Metabase will pivot that field and render each unique value of that field as a column heading.
+We’ve assigned the fields User → State and Created At to table rows, and assigned the Product -> Category field to generate our columns: Doohickey, Gadget, and so on. We can drag and drop dimensions between the row and column buckets, and add aggregations to the table values bucket. For example, if we assign a field to the columns bucket, Footprint will pivot that field and render each unique value of that field as a column heading.
 
-You can put multiple fields in the “rows” and “columns” buckets, but note that the order of the fields changes how Metabase displays the table: each additional field will nest within the previous field.
+You can put multiple fields in the “rows” and “columns” buckets, but note that the order of the fields changes how Footprint displays the table: each additional field will nest within the previous field.
 
-Where it makes sense, Metabase will automatically include subtotals for grouped rows. For example, as in the image above, because we’ve grouped our rows first by State, then by Created At, Metabase will list each year for each State, and aggregate the metric(s) for that subgroup. For orders placed in Wisconsin, Metabase would sum the count of orders for each category, and find the average annual order total in each product category in Wisconsin.
+Where it makes sense, Footprint will automatically include subtotals for grouped rows. For example, as in the image above, because we’ve grouped our rows first by State, then by Created At, Footprint will list each year for each State, and aggregate the metric(s) for that subgroup. For orders placed in Wisconsin, Footprint would sum the count of orders for each category, and find the average annual order total in each product category in Wisconsin.
 
-To collapse a group on a pivot table, you can click on the minus (–) button next to the group’s heading (or the plus (+) button to expand it). When you save a pivot table, Metabase will remember which groups were expanded and which were collapsed.
+To collapse a group on a pivot table, you can click on the minus (–) button next to the group’s heading (or the plus (+) button to expand it). When you save a pivot table, Footprint will remember which groups were expanded and which were collapsed.
 
 For more, check out How to create a pivot table to summarize your data.

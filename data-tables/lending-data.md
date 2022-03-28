@@ -1,4 +1,4 @@
-# Lending Data
+# 🔁 Lending Data
 
 #### lending\_assets\_daily\_stats
 

@@ -1,4 +1,4 @@
-# Visualization Charts
+# 📊 Visualization Charts
 
 {% content-ref url="line.md" %}
 [line.md](line.md)
@@ -60,12 +60,12 @@
 [pivot-table.md](pivot-table.md)
 {% endcontent-ref %}
 
-{% content-ref url="map.md" %}
-[map.md](map.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="circle.md" %}
-[circle.md](circle.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 

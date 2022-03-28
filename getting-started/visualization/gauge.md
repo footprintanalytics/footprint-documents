@@ -1,6 +1,6 @@
 # Gauge
 
-Gauges allow you to show a single number in the context of a set of colored ranges that you can specify. By default, when you choose the Gauge visualization, Metabase will create red, yellow, and green ranges for you.
+Gauges allow you to show a single number in the context of a set of colored ranges that you can specify. By default, when you choose the Gauge visualization, Footprint will create red, yellow, and green ranges for you.
 
 ![](../../.gitbook/assets/5d62cce86f6a1bd50e7ab705f597429.png)
 

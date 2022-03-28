@@ -1,19 +1,19 @@
 # Table of contents
 
-* [👣 Welcome to Footprint](README.md)
-* [Functionality and Features](functionality-and-features.md)
-* [Footprint Highlights](footprint-highlights.md)
+* [👣 Footprint Analytics](README.md)
+* [🐾 Functionality and Features](functionality-and-features.md)
+* [🔥 Footprint Highlights](footprint-highlights.md)
 
-## Getting Started
+## 🚩 Getting Started
 
-* [Tutorial](getting-started/tutorial/README.md)
+* [🤲 Tutorial](getting-started/tutorial/README.md)
   * [How to sign up for a Footprint account](getting-started/tutorial/how-to-sign-up-and-read-a-dashboard.md)
   * [Components of Footprint](getting-started/tutorial/components-of-footprint.md)
   * [How to read a Footprint dashboard](getting-started/tutorial/how-to-read-a-footprint-dashboard.md)
   * [How to create your first analysis chart](getting-started/tutorial/how-to-create-your-analysis-chart.md)
   * [How to create a dashboard](getting-started/tutorial/how-to-create-a-dashboard.md)
   * [How to make your dashboard public](getting-started/tutorial/how-to-make-your-dashboard-public.md)
-* [Visualization Charts](getting-started/visualization/README.md)
+* [📊 Visualization Charts](getting-started/visualization/README.md)
   * [Line charts](getting-started/visualization/line.md)
   * [Bar chart](getting-started/visualization/bar.md)
   * [Combo chart](getting-started/visualization/combo.md)
@@ -29,38 +29,30 @@
   * [Numbers](getting-started/visualization/numbers.md)
   * [Table](getting-started/visualization/table.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
-  * [Map](getting-started/visualization/map.md)
-  * [Circle](getting-started/visualization/circle.md)
+* [📚 Template](getting-started/template.md)
 
-## DATA TABLES
+## 🔠 DATA TABLES
 
-* [Ethereum Data](data-tables/ethereum-data.md)
-* [Token Data](data-tables/token-data.md)
-* [DeFi](data-tables/defi.md)
-* [DEX Data](data-tables/data-tables.md)
-* [Lending Data](data-tables/lending-data.md)
-* [Pools Data](data-tables/pools-data.md)
-* [NFT Data](data-tables/nft-data.md)
-* [GameFi Data](data-tables/gamefi-data.md)
-* [Social Data](data-tables/social-data.md)
-* [Yield Aggregator Data](data-tables/yield-aggregator-data.md)
-
-## Label
-
-* [Footprint Label](label/footprint-label.md)
-
-## API
-
-* [API Overview](api/api-overview.md)
+* [⛓ Ethereum Data](data-tables/ethereum-data.md)
+* [🪙 Token Data](data-tables/token-data.md)
+* [🔀 DeFi](data-tables/defi.md)
+* [💱 DEX Data](data-tables/data-tables.md)
+* [🔁 Lending Data](data-tables/lending-data.md)
+* [🏊♂ Pools Data](data-tables/pools-data.md)
+* [🖼 NFT Data](data-tables/nft-data.md)
+* [🎮 GameFi Data](data-tables/gamefi-data.md)
+* [🎭 Social Data](data-tables/social-data.md)
+* [🧑🌾 Yield Aggregator Data](data-tables/yield-aggregator-data.md)
 
 ***
 
-* [Pricing](https://www.footprint.network/pricing)
+* [💲 Pricing](https://www.footprint.network/pricing)
 
 ## Community
 
-* [Discord](ttps://discord.gg/3HYaR6USM7)
+* [🤖 Discord](ttps://discord.gg/3HYaR6USM7)
+* [🚀 Telegram](https://t.me/Footprint\_Analytics)
 
 ***
 
-* [Medium](https://medium.com/@footprintofficial)
+* [📰 Medium](https://medium.com/@footprintofficial)

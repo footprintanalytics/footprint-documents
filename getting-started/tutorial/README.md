@@ -1,4 +1,4 @@
-# Tutorial
+# 🤲 Tutorial
 
 {% content-ref url="how-to-sign-up-and-read-a-dashboard.md" %}
 [how-to-sign-up-and-read-a-dashboard.md](how-to-sign-up-and-read-a-dashboard.md)

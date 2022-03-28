@@ -1,10 +1,12 @@
-# Welcome to Footprint
+---
+description: One Step Closer to Blockchain Insights
+---
 
-## What is Footprint
+# 👣 Footprint Analytics
 
-Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.&#x20;
+Footprint Analytics is an all-in-one analysis platform to visualize blockchain data and discover insights.&#x20;
 
-The product puts user experience first—whether you’re an analyst, data scientist, developer, student, teacher, or executive. It provides an intuitive, drag-and-drop interface for interactive data queries. &#x20;
+It cleans and integrates on-chain data so users of any experience level can quickly start researching tokens, projects and protocols. With over a thousand dashboard templates plus a drag-and-drop interface, anyone can build their own customized charts in minutes. Uncover blockchain data and discover the value trend behind the project.
 
 
 

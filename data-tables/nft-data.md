@@ -1,4 +1,4 @@
-# NFT Data
+# 🖼 NFT Data
 
 **nft\_daily\_stats**
 

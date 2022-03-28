@@ -1,3 +1,0 @@
-# Footprint Label
-
-Coming soon.
