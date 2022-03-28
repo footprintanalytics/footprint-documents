@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Footprint](README.md)
+* [👣 Welcome to Footprint](README.md)
 * [Functionality and Features](functionality-and-features.md)
 * [Footprint Highlights](footprint-highlights.md)
 
