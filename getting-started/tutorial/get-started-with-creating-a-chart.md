@@ -38,7 +38,7 @@ Step 4: Save chart, you can also change the chart name and add description.
 
 Unlike one-click duplication, you need to create your own charts step by step. For creative graphs or data, this is a more flexible way to go.
 
-Use case: Let's make a line chart of the number of Ethereum transactions per day.
+**Use case**: Let's make a line chart of the number of Ethereum transactions per day.
 
 Step 1: Click on **Create** and select **New chart**.
 
