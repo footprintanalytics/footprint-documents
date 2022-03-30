@@ -8,7 +8,7 @@
 ## 🚩 Getting Started
 
 * [🤲 Tutorial](getting-started/tutorial/README.md)
-  * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
+  * [🔎 Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
   * [How to sign up for a Footprint account](getting-started/tutorial/how-to-sign-up-and-read-a-dashboard.md)
   * [Components of Footprint](getting-started/tutorial/components-of-footprint.md)
   * [How to read a Footprint dashboard](getting-started/tutorial/how-to-read-a-footprint-dashboard.md)
