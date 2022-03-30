@@ -24,7 +24,7 @@ Step 2: Select the template **Avalanche: Token Price & Trading Volume**.
 
 ![](<../../.gitbook/assets/0 (1)>)
 
-Step 3: Change the Filters in the upper left corner of the chart, change the filters to sol .
+Step 3: Change the **Filters** in the upper left corner of the chart, change the filters to **sol** .
 
 ![](<../../.gitbook/assets/2 (2)>)
 
