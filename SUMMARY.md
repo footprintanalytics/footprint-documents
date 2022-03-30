@@ -7,7 +7,7 @@
 
 ## 🚩 Getting Started
 
-* [🤲 Tutorial](getting-started/tutorial/README.md)
+* [🤲 Untitled](getting-started/tutorial/README.md)
   * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
   * [How to read a Footprint dashboard](getting-started/tutorial/how-to-read-a-footprint-dashboard.md)
   * [How to create a dashboard](getting-started/tutorial/how-to-create-a-dashboard.md)

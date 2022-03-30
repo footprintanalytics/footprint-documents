@@ -1,9 +1,5 @@
 # 📊 Visualization Charts
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="bar.md" %}
 [bar.md](bar.md)
 {% endcontent-ref %}
@@ -58,14 +54,6 @@
 
 {% content-ref url="pivot-table.md" %}
 [pivot-table.md](pivot-table.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
