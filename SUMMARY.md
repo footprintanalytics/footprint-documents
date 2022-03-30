@@ -48,5 +48,6 @@
 ## Community
 
 * [🤖 Discord](ttps://discord.gg/3HYaR6USM7)
+* [🐦 Twitter](https://twitter.com/Footprint\_DeFi)
 * [🚀 Telegram](https://t.me/Footprint\_Analytics)
 * [📰 Medium](https://medium.com/@footprintofficial)
