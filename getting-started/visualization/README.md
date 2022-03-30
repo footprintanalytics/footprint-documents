@@ -1,7 +1,7 @@
 # 📊 Visualization Charts
 
-{% content-ref url="line.md" %}
-[line.md](line.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="bar.md" %}
