@@ -4,7 +4,7 @@ description: >-
   basic examples.
 ---
 
-# 🔎 Get Started with Creating a Chart
+# Get Started with Creating a Chart
 
 Footprint Analytics is a simple and powerful analytics tool which allows anyone to analyze on-chain data without technical requirements.
 

@@ -1,19 +1,19 @@
 # 🤲 Tutorial
 
-{% content-ref url="how-to-sign-up-and-read-a-dashboard.md" %}
-[how-to-sign-up-and-read-a-dashboard.md](how-to-sign-up-and-read-a-dashboard.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components-of-footprint.md" %}
-[components-of-footprint.md](components-of-footprint.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-read-a-footprint-dashboard.md" %}
 [how-to-read-a-footprint-dashboard.md](how-to-read-a-footprint-dashboard.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-create-your-analysis-chart.md" %}
-[how-to-create-your-analysis-chart.md](how-to-create-your-analysis-chart.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-create-a-dashboard.md" %}

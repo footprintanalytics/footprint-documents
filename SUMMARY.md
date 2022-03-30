@@ -8,14 +8,12 @@
 ## 🚩 Getting Started
 
 * [🤲 Tutorial](getting-started/tutorial/README.md)
-  * [🔎 Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
-  * [How to sign up for a Footprint account](getting-started/tutorial/how-to-sign-up-and-read-a-dashboard.md)
-  * [Components of Footprint](getting-started/tutorial/components-of-footprint.md)
+  * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
   * [How to read a Footprint dashboard](getting-started/tutorial/how-to-read-a-footprint-dashboard.md)
-  * [How to create your first analysis chart](getting-started/tutorial/how-to-create-your-analysis-chart.md)
   * [How to create a dashboard](getting-started/tutorial/how-to-create-a-dashboard.md)
   * [How to make your dashboard public](getting-started/tutorial/how-to-make-your-dashboard-public.md)
 * [📊 Visualization Charts](getting-started/visualization/README.md)
+  * [Line charts](getting-started/visualization/line-charts.md)
   * [Bar chart](getting-started/visualization/bar.md)
   * [Combo chart](getting-started/visualization/combo.md)
   * [Area chart](getting-started/visualization/area.md)
@@ -30,7 +28,6 @@
   * [Numbers](getting-started/visualization/numbers.md)
   * [Table](getting-started/visualization/table.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
-  * [📈 Line charts](getting-started/visualization/line-charts.md)
 * [📚 Template](getting-started/template.md)
 
 ## 🔠 DATA TABLES

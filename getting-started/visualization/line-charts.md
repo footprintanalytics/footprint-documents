@@ -2,7 +2,7 @@
 description: Guide to Line Charts.
 ---
 
-# 📈 Line charts
+# Line charts
 
 **Line charts** are used for plotting data captured in a sequence, whether the sequence is the passage of time or steps in a process or flow. line charts are typically used to plot a time series: a set of markers connected by lines, with the x-axis showing time and the y-axis plotting the value of a metric at each moment
 
