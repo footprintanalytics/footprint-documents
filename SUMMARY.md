@@ -1,9 +1,6 @@
 # Table of contents
 
 * [👣 Footprint Analytics](README.md)
-* [🐾 Functionality and Features](functionality-and-features.md)
-* [🔥 Footprint Highlights](footprint-highlights.md)
-* [🗞 Footprint Analytics News](footprint-analytics-news.md)
 
 ## 🚩 Getting Started
 
