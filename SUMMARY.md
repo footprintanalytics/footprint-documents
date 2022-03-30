@@ -2,7 +2,7 @@
 
 * [👣 Footprint Analytics](README.md)
 
-## 🚩 Getting Started
+## Getting Started
 
 * [🤲 Tutorials](getting-started/tutorial/README.md)
   * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
@@ -27,7 +27,7 @@
   * [Pivot Table](getting-started/visualization/pivot-table.md)
 * [📚 Template](getting-started/template.md)
 
-## 🔠 DATA TABLES
+## DATA TABLES
 
 * [🧿 Data Features](data-tables/data-features.md)
 * [⛓ Ethereum Data](data-tables/ethereum-data.md)
@@ -43,13 +43,10 @@
 
 ***
 
-* [💲 Pricing](https://www.footprint.network/pricing)
+* [PRICING](https://www.footprint.network/pricing)
 
 ## Community
 
 * [🤖 Discord](ttps://discord.gg/3HYaR6USM7)
 * [🚀 Telegram](https://t.me/Footprint\_Analytics)
-
-***
-
 * [📰 Medium](https://medium.com/@footprintofficial)
