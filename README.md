@@ -67,7 +67,3 @@ Footprint Analytics, which closed a $1.5 million seed round led by IOSG Ventures
 
 #### [Footprint: Becoming the world’s go-to source of on-chain DeFi data](https://ambcrypto.com/footprint-becoming-the-worlds-go-to-source-of-on-chain-defi-data/)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
