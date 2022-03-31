@@ -29,7 +29,7 @@ Footprint Analytics gets logs directly from chains and parses the contracts:
 
 Data you can explore on Footprint Analytics currently:
 
-1. 6 Chains: **Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Arbitrum,Celo and loTeX**
+1. 8 Chains: **Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Arbitrum,Celo and loTeX**
 2. Multiple fields data: **NFT, GameFi, DeFi**
 
 We also support the parsing of contracts on the chain, and you can submit your contract address to get the on-chain data on Footprint Analytics. Feel free to contact the admin on Telegram or Discord.
