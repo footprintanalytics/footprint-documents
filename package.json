@@ -1,0 +1,22 @@
+{
+  "name": "footprint",
+  "version": "1.0.0",
+  "description": "## What is Footprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/footprint-network/footprint-documents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/footprint-network/footprint-documents/issues"
+  },
+  "homepage": "https://github.com/footprint-network/footprint-documents#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
