@@ -19,12 +19,11 @@
   * [Scatterplots and bubble charts](getting-started/visualization/scatter.md)
   * [Pie/Donut chart](getting-started/visualization/pie.md)
   * [Funnel](getting-started/visualization/funnel.md)
-  * [Trend](getting-started/visualization/trend.md)
   * [Progress bars](getting-started/visualization/progress-bars.md)
   * [Gauge](getting-started/visualization/gauge.md)
-  * [Numbers](getting-started/visualization/numbers.md)
   * [Table](getting-started/visualization/table.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
+  * [Numbers and Trend](getting-started/visualization/numbers-and-trend.md)
 * [📚 Template](getting-started/template.md)
 
 ## DATA TABLES

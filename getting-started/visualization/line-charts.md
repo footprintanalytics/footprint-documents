@@ -12,7 +12,7 @@ Let's plot the number of transactions on Ethereum for each month. Click on the *
 
 As soon as you change the grouping, Footprint updates the chart.
 
-![](<../../.gitbook/assets/0 (3)>)
+![](<../../.gitbook/assets/0 (3) (1)>)
 
 #### **Customizing Your Line Chart** <a href="#_9o63tr9edzo7" id="_9o63tr9edzo7"></a>
 
