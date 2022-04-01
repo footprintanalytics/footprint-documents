@@ -46,18 +46,18 @@ Step 4: Click on **Summarize**, Footprint defaults to counting the records, clic
 
 Next, we’ll want to group the TVL by day. In the Group by section, mouse over the **Day** field, click on the **by day** to add the grouping, and click on **Done**.
 
-![](../../.gitbook/assets/5)
+![](<../../.gitbook/assets/5 (1)>)
 
 Step 5: Click on Visualization in the top right to bring up the Visualization sidebar. Choose Number, and select the **Field** to show as Sum of tvl.
 
-![](<../../.gitbook/assets/6 (2)>)
+![](<../../.gitbook/assets/6 (2) (1)>)
 
 Step 6：If you need to remove the decimal places, you can set the minimum number of decimal places to **0**. To abbreviate 1000000 to 1M, you can multiply it by **0.000001**, and add the suffix **M**.
 
-![](../../.gitbook/assets/7)
+![](<../../.gitbook/assets/7 (1)>)
 
 Step 7： Click **Visualization**, and choose **Trend**.
 
-![](../../.gitbook/assets/8)
+![](<../../.gitbook/assets/8 (1)>)
 
 Now, your number chart is done, don't forget to save your chart.
