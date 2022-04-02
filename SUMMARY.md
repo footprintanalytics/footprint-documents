@@ -11,6 +11,7 @@
   * [How to Create a New Dashboard](getting-started/tutorial/how-to-create-a-new-dashboard.md)
 * [📊 Visualization Charts](getting-started/visualization/README.md)
   * [Line charts](getting-started/visualization/line-charts.md)
+  * [Copy of Line charts](getting-started/visualization/copy-of-line-charts.md)
   * [Bar chart](getting-started/visualization/bar.md)
   * [Combo chart](getting-started/visualization/combo.md)
   * [Area chart](getting-started/visualization/area.md)
