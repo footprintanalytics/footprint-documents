@@ -54,7 +54,7 @@ y-axis = sum of tvl;
 
 category = chain;
 
-![](<../../.gitbook/assets/6 (3)>)
+![](<../../.gitbook/assets/6 (3) (1)>)
 
 Save to complete the creation of the chart.
 

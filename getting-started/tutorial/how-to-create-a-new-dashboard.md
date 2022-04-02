@@ -38,7 +38,7 @@ You can organize and make your dashboard more clear and good-looking. Combine di
 
 This is a great tool to display the Markdown or something else you want to present, such as illustrate the logic of metrics calculation and add introduction text to the dashboard.
 
-![](<../../.gitbook/assets/5 (1)>)
+![](<../../.gitbook/assets/5 (1) (1)>)
 
 **Tips**: Both charts and text boxes can be edited the position and size.
 
