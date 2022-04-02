@@ -36,21 +36,21 @@ Step 1：Click on **Create** and select **New chart**. /Create your new chart.
 
 Step 2：Search for **TVL** in the search box and select the data table **defi\_daily\_stats**
 
-![](<../../.gitbook/assets/3 (4)>)
+![](<../../.gitbook/assets/3 (4) (1)>)
 
 Step3：Click **Filter**, select **name**, search for **Curve** in the search box.
 
-![](<../../.gitbook/assets/4 (2)>)
+![](<../../.gitbook/assets/4 (2) (1)>)
 
 Step 4: Click on **Summarize**, Footprint defaults to counting the records, click on **Count** and change it to **Sum of** and select the **TVL**.
 
 Next, we’ll want to group the TVL by day. In the Group by section, mouse over the **Day** field, click on the **by day** to add the grouping, and click on **Done**.
 
-![](<../../.gitbook/assets/5 (1)>)
+![](<../../.gitbook/assets/5 (1) (1)>)
 
 Step 5: Click on Visualization in the top right to bring up the Visualization sidebar. Choose Number, and select the **Field** to show as Sum of tvl.
 
-![](<../../.gitbook/assets/6 (2) (1)>)
+![](<../../.gitbook/assets/6 (2) (1) (1)>)
 
 Step 6：If you need to remove the decimal places, you can set the minimum number of decimal places to **0**. To abbreviate 1000000 to 1M, you can multiply it by **0.000001**, and add the suffix **M**.
 

@@ -26,7 +26,7 @@ The **Display tab** lets you change the line color and style, handle missing val
 
 For time series, toggle the trend line option and Footprint will auto-calculate a trend line. You can also add a goal line by specifying a value and a label.
 
-![](<../../.gitbook/assets/1 (3) (1)>)
+![](<../../.gitbook/assets/1 (3) (1) (1)>)
 
 #### **Axes Tab**
 

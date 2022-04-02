@@ -24,6 +24,7 @@
   * [Table](getting-started/visualization/table.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
   * [Numbers and Trend](getting-started/visualization/numbers-and-trend.md)
+  * [Dynamic Pie Chart](getting-started/visualization/dynamic-pie-chart.md)
 * [📚 Template](getting-started/template.md)
 
 ## DATA TABLES

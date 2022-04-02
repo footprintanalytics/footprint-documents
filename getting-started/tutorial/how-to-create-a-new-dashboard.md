@@ -6,7 +6,7 @@ description: Guide to create a new dashboard.
 
 Dashboards help to inform decisions. Dashboards are the combination of charts, and generally include different types of charts, like line charts, pie charts, and bar charts, etc. These charts are combined into a dashboard that shows the current data situation needed.
 
-![](<../../.gitbook/assets/0 (1)>)
+![](<../../.gitbook/assets/0 (1) (1)>)
 
 In Footprint Analytics, dashboards are pages where you can organize charts and text cards in a grid. This article will talk about how to use tools which Footprint provides.
 
@@ -14,7 +14,7 @@ Let's begin to create a dashboard.
 
 Step1. Click **Create**, here we select **New dashboard**. Then，add the charts you need.
 
-![](<../../.gitbook/assets/1 (3)>)
+![](<../../.gitbook/assets/1 (3) (1)>)
 
 ![](<../../.gitbook/assets/2 (2)>)
 
@@ -28,7 +28,7 @@ After adding the charts you need, you can decorate and adjust your dashboard by 
 
 You can organize and make your dashboard more clear and good-looking. Combine different charts, put related data charts together to tell a story with data and improve readability.
 
-![](<../../.gitbook/assets/3 (5)>)
+![](<../../.gitbook/assets/3 (5) (1)>)
 
 ![](<../../.gitbook/assets/4 (3)>)
 
@@ -38,7 +38,7 @@ You can organize and make your dashboard more clear and good-looking. Combine di
 
 This is a great tool to display the Markdown or something else you want to present, such as illustrate the logic of metrics calculation and add introduction text to the dashboard.
 
-![](../../.gitbook/assets/5)
+![](<../../.gitbook/assets/5 (1)>)
 
 **Tips**: Both charts and text boxes can be edited the position and size.
 
@@ -46,7 +46,7 @@ This is a great tool to display the Markdown or something else you want to prese
 
 Click **Visualization options** (the top right corner of the chart) for detailed editing, you can quickly modify settings such as Display, Axes, Labels, etc of charts or text boxes.
 
-![](<../../.gitbook/assets/6 (2)>)
+![](<../../.gitbook/assets/6 (2) (1)>)
 
 ![](../../.gitbook/assets/7)
 

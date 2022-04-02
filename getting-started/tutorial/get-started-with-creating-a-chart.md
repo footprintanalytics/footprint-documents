@@ -22,7 +22,7 @@ Step 1: Click on **Create** and select **New chart**.
 
 Step 2: Select the template **Avalanche: Token Price & Trading Volume**.
 
-![](<../../.gitbook/assets/0 (1) (1) (1)>)
+![](<../../.gitbook/assets/0 (1) (1) (1) (1)>)
 
 Step 3: Change the **Filters** in the upper left corner of the chart, change the filters to **sol** .
 
@@ -48,7 +48,7 @@ Step 2: Select the data table **ethereum\_transactions**.
 
 Step 3: Since in the “ethereum\_transactions” table, there is one record for each transaction, you can directly count the number of records and group by day. Click **Summarize** in the upper right corner, pick Count of rows, and for group-by field choose **block\_timestamp** which needs to be grouped **by day**.
 
-![](<../../.gitbook/assets/5 (1) (1)>)
+![](<../../.gitbook/assets/5 (1) (1) (1)>)
 
 Step 4: You can see the line chart is ready, and then click **Done** to save this setting.
 
