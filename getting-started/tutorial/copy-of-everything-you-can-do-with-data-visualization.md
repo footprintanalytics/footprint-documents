@@ -4,7 +4,7 @@ description: >-
   and more.
 ---
 
-# Everything You Can Do With Data Visualization
+# Copy of Everything You Can Do With Data Visualization
 
 Tables are often what you need when you’re working with a lot of fields. The table visualization in Footprint Analytics comes packed with features. In this article, we’ll explore some frequently used and useful functions.
 

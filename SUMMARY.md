@@ -6,13 +6,15 @@
 
 * [🤲 Tutorials](getting-started/tutorial/README.md)
   * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
+  * [How to Create a New Dashboard](getting-started/tutorial/how-to-create-a-new-dashboard.md)
+  * [Copy of Everything You Can Do With Data Visualization](getting-started/tutorial/copy-of-everything-you-can-do-with-data-visualization.md)
   * [How to read a Footprint dashboard](getting-started/tutorial/how-to-read-a-footprint-dashboard.md)
   * [How to make your dashboard public](getting-started/tutorial/how-to-make-your-dashboard-public.md)
-  * [How to Create a New Dashboard](getting-started/tutorial/how-to-create-a-new-dashboard.md)
-  * [Everything You Can Do With Data Visualization](getting-started/tutorial/everything-you-can-do-with-data-visualization.md)
 * [📊 Visualization Charts](getting-started/visualization/README.md)
   * [Line charts](getting-started/visualization/line-charts.md)
   * [Bar chart](getting-started/visualization/bar.md)
+  * [Dynamic Pie Chart](getting-started/visualization/dynamic-pie-chart.md)
+  * [Numbers and Trend](getting-started/visualization/numbers-and-trend.md)
   * [Combo chart](getting-started/visualization/combo.md)
   * [Area chart](getting-started/visualization/area.md)
   * [Row chart](getting-started/visualization/row.md)
@@ -24,8 +26,6 @@
   * [Gauge](getting-started/visualization/gauge.md)
   * [Table](getting-started/visualization/table.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
-  * [Numbers and Trend](getting-started/visualization/numbers-and-trend.md)
-  * [Dynamic Pie Chart](getting-started/visualization/dynamic-pie-chart.md)
 * [📚 Template](getting-started/template.md)
 
 ## DATA TABLES
