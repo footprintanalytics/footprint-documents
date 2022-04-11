@@ -30,7 +30,7 @@ You can organize and make your dashboard more clear and good-looking. Combine di
 
 ![](<../../.gitbook/assets/3 (5) (1)>)
 
-![](<../../.gitbook/assets/4 (3)>)
+![](<../../.gitbook/assets/4 (3) (1)>)
 
 **Tips**：Drag the bottom right corner of the chart to resize it.
 
@@ -38,7 +38,7 @@ You can organize and make your dashboard more clear and good-looking. Combine di
 
 This is a great tool to display the Markdown or something else you want to present, such as illustrate the logic of metrics calculation and add introduction text to the dashboard.
 
-![](<../../.gitbook/assets/5 (1) (1)>)
+![](<../../.gitbook/assets/5 (1) (1) (1)>)
 
 **Tips**: Both charts and text boxes can be edited the position and size.
 
@@ -46,9 +46,9 @@ This is a great tool to display the Markdown or something else you want to prese
 
 Click **Visualization options** (the top right corner of the chart) for detailed editing, you can quickly modify settings such as Display, Axes, Labels, etc of charts or text boxes.
 
-![](<../../.gitbook/assets/6 (2) (1)>)
+![](<../../.gitbook/assets/6 (2) (1) (1)>)
 
-![](../../.gitbook/assets/7)
+![](<../../.gitbook/assets/7 (1)>)
 
 * **Adding Filters to the Dashboard**
 
@@ -67,11 +67,11 @@ Because the filters are done by the dashboard's filter, so the basic chart doesn
 
 If the charts you select have filters, you can delete the filters manually in **Advanced.**
 
-![](../../.gitbook/assets/8)
+![](<../../.gitbook/assets/8 (1)>)
 
 Step2. For multiple charts, you can add a filter linkage. Click on **add a filter** on the top right corner, and select the type of filter you would like. You can choose **Time**, **ID**, and **Other Categories**.
 
-![](../../.gitbook/assets/9)
+![](<../../.gitbook/assets/9 (2)>)
 
 Step3. Select the chart you need to associate with and set the Default Value. All the charts that need to be associated should be added.
 

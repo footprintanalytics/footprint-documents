@@ -2,7 +2,7 @@
 description: Guide to Line Charts.
 ---
 
-# Line charts
+# Line Chart
 
 **Line charts** are used for plotting data captured in a sequence, whether the sequence is the passage of time or steps in a process or flow. line charts are typically used to plot a time series: a set of markers connected by lines, with the x-axis showing time and the y-axis plotting the value of a metric at each moment
 
@@ -12,7 +12,7 @@ Let's plot the number of transactions on Ethereum for each month. Click on the *
 
 As soon as you change the grouping, Footprint updates the chart.
 
-![](<../../.gitbook/assets/0 (3) (1)>)
+![](<../../.gitbook/assets/0 (3) (1) (1)>)
 
 #### **Customizing Your Line Chart** <a href="#_9o63tr9edzo7" id="_9o63tr9edzo7"></a>
 

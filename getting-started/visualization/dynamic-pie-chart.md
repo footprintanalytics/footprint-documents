@@ -22,7 +22,7 @@ Here you can filter the data, select the data interval, the type, etc you need.
 
 Click **Filter**, in this case, we choose **day** and **chain**.(day-Previous 30 Days, chain-Algorand, Arbitrum,Astar, Aurora, Avalanche, Binance, CSC)
 
-![](<../../.gitbook/assets/2 (6)>)
+![](<../../.gitbook/assets/2 (6) (1)>)
 
 Step3: Add summarize.
 
@@ -30,7 +30,7 @@ Here you can choose the metrics you need, then choose the field to group by. Not
 
 Click **Summarize**, in this case, we choose **sum of tvl**, group by **chain** and **day** (This operation displays data by day).
 
-![](<../../.gitbook/assets/3 (4)>)
+![](<../../.gitbook/assets/3 (4) (1)>)
 
 Step4: Sort field.
 
@@ -44,7 +44,7 @@ Step 5: Visualize.
 
 Click **visualize**, choose **Dynamic Pie**.Then, select the fields corresponding to x-axis, y-axis and category as required.
 
-![](<../../.gitbook/assets/5 (2)>)
+![](<../../.gitbook/assets/5 (2) (1)>)
 
 In this case, we choose:
 

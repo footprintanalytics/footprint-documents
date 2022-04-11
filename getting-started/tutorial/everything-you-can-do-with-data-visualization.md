@@ -4,7 +4,7 @@ description: >-
   and more.
 ---
 
-# Copy of Everything You Can Do With Data Visualization
+# Everything You Can Do with Data Visualization
 
 Tables are often what you need when you’re working with a lot of fields. The table visualization in Footprint Analytics comes packed with features. In this article, we’ll explore some frequently used and useful functions.
 
@@ -16,7 +16,7 @@ You can select which columns you’d like to include in the table. Remove the co
 
 You can click and drag the columns to change their order.
 
-![](<../../.gitbook/assets/1 (4)>)
+![](<../../.gitbook/assets/1 (4) (1)>)
 
 * **Conditional Formatting**
 
@@ -34,7 +34,7 @@ You can highlight cells or rows based on the values they contain, which makes it
 
 * **Column Settings**
 
-You can change settings for each of the columns by clicking on column’s **gears icon.**
+You can change settings for each of the columns by clicking on column’s **gears icon.Example**
 
 **Add Link**
 
@@ -42,7 +42,7 @@ You can add a **link** to the field, the link you add here defaults to the analy
 
 ![](<../../.gitbook/assets/4 (5)>)
 
-![](<../../.gitbook/assets/5 (1)>)
+![](<../../.gitbook/assets/5 (1) (1)>)
 
 #### **Mini Bar** <a href="#_iwffkaye5oyt" id="_iwffkaye5oyt"></a>
 
@@ -50,6 +50,6 @@ For scalar values, you can add a **mini bar chart** to show the value’s positi
 
 ![](<../../.gitbook/assets/6 (3)>)
 
-![](<../../.gitbook/assets/7 (1)>)
+![](<../../.gitbook/assets/7 (1) (1)>)
 
 Unfinished and to be updated.
