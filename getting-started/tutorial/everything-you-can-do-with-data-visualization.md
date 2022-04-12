@@ -6,7 +6,7 @@ description: >-
 
 # Everything You Can Do with Data Visualization
 
-Tables are often what you need when you’re working with a lot of fields. The table visualization in Footprint Analytics comes packed with features. In this article, we’ll explore some frequently used and useful functions.
+[Tables](https://www.footprint.network/guest/dashboard/retention-analysis-of-game-fi-fp-85425534-fd53-4bd1-8c28-0e82198533c2?gamefi\_name=bomb-crypto) are often what you need when you’re working with a lot of fields. The table visualization in Footprint Analytics comes packed with features. In this article, we’ll explore some frequently used and useful functions.
 
 * #### **Adding, Removing, and Editing Columns** <a href="#_jd3lygjvwg0e" id="_jd3lygjvwg0e"></a>
 
