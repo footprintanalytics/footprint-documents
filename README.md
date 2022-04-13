@@ -1,5 +1,7 @@
 ---
 description: One Step Closer to Blockchain Insights
+cover: .gitbook/assets/Docs封面图2-1.jpg
+coverY: 0
 ---
 
 # 👣 Footprint Analytics
