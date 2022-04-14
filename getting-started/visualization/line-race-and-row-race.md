@@ -91,3 +91,7 @@ And you can set the display to change Animation Speed, Y-axis Maximum and Y-axis
 ![](<../../.gitbook/assets/11 (1)>)
 
 Then, your chart is done, don’t forget to save it.
+
+Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
+
+Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)

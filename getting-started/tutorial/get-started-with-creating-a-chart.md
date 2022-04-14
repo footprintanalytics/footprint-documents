@@ -55,3 +55,7 @@ Step 4: You can see the line chart is ready, and then click **Done** to save thi
 ![](../../.gitbook/assets/6)
 
 Step 5: Don't forget to save your chart.
+
+Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
+
+Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)

@@ -53,3 +53,7 @@ For scalar values, you can add a **mini bar chart** to show the value’s positi
 ![](<../../.gitbook/assets/7 (1) (1)>)
 
 Unfinished and to be updated.
+
+Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
+
+Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)
