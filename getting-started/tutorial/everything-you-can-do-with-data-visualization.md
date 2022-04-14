@@ -40,7 +40,7 @@ You can change settings for each of the columns by clicking on column’s **gear
 
 You can add a **link** to the field, the link you add here defaults to the analysis content of Footprint, so here generally add the columns corresponding to the dashboard or database.
 
-![](<../../.gitbook/assets/4 (5)>)
+![](<../../.gitbook/assets/4 (5) (1)>)
 
 ![](<../../.gitbook/assets/5 (1) (1)>)
 

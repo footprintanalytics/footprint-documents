@@ -14,7 +14,7 @@ Let's begin to create a dashboard.
 
 Step1. Click **Create**, here we select **New dashboard**. Then，add the charts you need.
 
-![](<../../.gitbook/assets/1 (3) (1)>)
+![](<../../.gitbook/assets/1 (3) (1) (1)>)
 
 ![](<../../.gitbook/assets/2 (2)>)
 
@@ -28,7 +28,7 @@ After adding the charts you need, you can decorate and adjust your dashboard by 
 
 You can organize and make your dashboard more clear and good-looking. Combine different charts, put related data charts together to tell a story with data and improve readability.
 
-![](<../../.gitbook/assets/3 (5) (1)>)
+![](<../../.gitbook/assets/3 (5) (1) (1)>)
 
 ![](<../../.gitbook/assets/4 (3) (1)>)
 

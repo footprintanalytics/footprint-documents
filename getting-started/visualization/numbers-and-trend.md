@@ -26,7 +26,7 @@ The Trend visualization is great for displaying how a single number has changed 
 
 By default, Trends will display increases as green (i.e. good) and decreases as red (bad). If your number is something where an increase is bad and a decrease is good (such as Bounce Rate, or Costs), you can reverse this behavior in the visualization settings:
 
-![](<../../.gitbook/assets/2 (4)>)
+![](<../../.gitbook/assets/2 (4) (1)>)
 
 **Use Case**
 
