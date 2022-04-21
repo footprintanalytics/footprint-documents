@@ -34,7 +34,7 @@ You can highlight cells or rows based on the values they contain, which makes it
 
 * **Column Settings**
 
-You can change settings for each of the columns by clicking on column’s **gears icon.Example**
+You can change settings for each of the columns by clicking on column’s **gears icon.**
 
 **Add Link**
 
