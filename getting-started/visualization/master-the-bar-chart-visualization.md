@@ -34,7 +34,7 @@ If the data you’re visualizing can be broken down into multiple categories wit
 
 You can adjust this setting in the **Display** section of the **Settings sidebar**, by selecting **Stack** or **Stack - 100%**.
 
-#### ![](<../../.gitbook/assets/2 (5)>) <a href="#_fj4eqkxzv8bu" id="_fj4eqkxzv8bu"></a>
+![](<../../.gitbook/assets/2 (5)>)
 
 * **Set a Goal:** You can add a **goal line** that specifies where you want numbers to be.
 
