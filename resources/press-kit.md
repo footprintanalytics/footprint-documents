@@ -10,10 +10,13 @@ description: Get the Footprint Analytics brand assets and feel free to use it.
 
 ## Vertical Logo
 
-![](../.gitbook/assets/logo1.png)
-
-![](../.gitbook/assets/logo1-墨稿.png)
+![](../.gitbook/assets/logo1.png) ![](<../.gitbook/assets/logo1-墨稿 (1).png>)
 
 ## Footprint Icon
 
 ![](../.gitbook/assets/180.png)
+
+{% file src="../.gitbook/assets/Footprint Analytics-logo.rar" %}
+
+## All Logos
+
