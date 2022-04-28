@@ -50,3 +50,7 @@
 * [🐦 Twitter](https://twitter.com/Footprint\_DeFi)
 * [🚀 Telegram](https://t.me/Footprint\_Analytics)
 * [📰 Medium](https://medium.com/@footprintofficial)
+
+## RESOURCES
+
+* [🐾 Press Kit](resources/press-kit.md)
