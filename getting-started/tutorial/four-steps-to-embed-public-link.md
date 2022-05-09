@@ -1,3 +1,7 @@
+---
+description: How to integrate our chart into your website in four simple steps.
+---
+
 # Four Steps to Embed Public Link
 
 * **Step1: Click the share button**
