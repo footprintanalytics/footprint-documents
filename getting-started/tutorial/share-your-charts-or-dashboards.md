@@ -20,7 +20,7 @@ Click the button, you can set your chart to private.
 
 Click the button, you can choose to remove the watermark or not.
 
-![](<../../.gitbook/assets/2 (4)>)
+![](<../../.gitbook/assets/2 (4) (1)>)
 
 Before you choose to remove the watermark:
 

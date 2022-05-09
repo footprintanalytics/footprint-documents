@@ -14,7 +14,7 @@ In this article, we will use an example to talk about how to create and edit a b
 
 Create a new chart, after choosing the data, click on the **Visualization** button in the upper right and choose **Bar**.
 
-![](<../../.gitbook/assets/0 (2)>)
+![](<../../.gitbook/assets/0 (2) (1)>)
 
 ### **Bar Chart settings** <a href="#_1cak7yv028o6" id="_1cak7yv028o6"></a>
 

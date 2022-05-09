@@ -14,7 +14,7 @@ Step1: Create a new chart.
 
 Select the data **defi-daily-stats**.Then click **Advanced.**
 
-![](<../../.gitbook/assets/1 (5)>)
+![](<../../.gitbook/assets/1 (5) (1)>)
 
 Step2: Add filters.
 

@@ -6,7 +6,7 @@ description: Guide to create a new dashboard.
 
 Dashboards help to inform decisions. Dashboards are the combination of charts, and generally include different types of charts, like line charts, pie charts, and bar charts, etc. These charts are combined into a dashboard that shows the current data situation needed.
 
-![](<../../.gitbook/assets/0 (1) (1)>)
+![](<../../.gitbook/assets/0 (1) (1) (1)>)
 
 In Footprint Analytics, dashboards are pages where you can organize charts and text cards in a grid. This article will talk about how to use tools which Footprint provides.
 

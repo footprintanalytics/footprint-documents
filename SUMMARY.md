@@ -9,6 +9,7 @@
   * [How to Create a New Dashboard](getting-started/tutorial/how-to-create-a-new-dashboard.md)
   * [Everything You Can Do with Data Visualization](getting-started/tutorial/everything-you-can-do-with-data-visualization.md)
   * [Share Your Charts or Dashboards](getting-started/tutorial/share-your-charts-or-dashboards.md)
+  * [Four Steps to Embed Public Link](getting-started/tutorial/four-steps-to-embed-public-link.md)
 * [📊 Visualization Charts](getting-started/visualization/README.md)
   * [Line Chart](getting-started/visualization/line-chart.md)
   * [Dynamic Pie Chart](getting-started/visualization/dynamic-pie-chart.md)

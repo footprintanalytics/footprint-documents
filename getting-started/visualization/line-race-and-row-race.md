@@ -18,7 +18,7 @@ Step1: Select the data **nft-marketplaces-daily-stats** and add filters.
 
 In this case, we make a comparison of trading volume of 3 NFT trading market in the past 30 days. So, we choose **protocol-name** and **day**.
 
-![](<../../.gitbook/assets/1 (1)>)
+![](<../../.gitbook/assets/1 (1) (1)>)
 
 ![](<../../.gitbook/assets/2 (6) (1)>)
 

@@ -22,7 +22,7 @@ Step 1: Click on **Create** and select **New chart**.
 
 Step 2: Select the template **Avalanche: Token Price & Trading Volume**.
 
-![](<../../.gitbook/assets/0 (1) (1) (1) (1)>)
+![](<../../.gitbook/assets/0 (1) (1) (1) (1) (1)>)
 
 Step 3: Change the **Filters** in the upper left corner of the chart, change the filters to **sol** .
 
