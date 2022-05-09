@@ -6,7 +6,7 @@ description: Dynamic Pie Chart Operation Tutorial
 
 While the Line Chart is suitable for data with a trend over time, the Pie Chart shows the percentage of a category in the whole, and the Dynamic Pie Chart combines them both.In Dynamic Pie Chart, you can visualize the trend of an metric's value and trend of its distribution over a certain time frame.You can see how the values and pie charts change over time,instead of a new pie chart created every day.
 
-![](<../../.gitbook/assets/0 (4) (1)>)
+![](<../../.gitbook/assets/0 (4) (1) (1)>)
 
 **Use case:** Dynamic Charts - TVL of Different Chains
 
@@ -22,7 +22,7 @@ Here you can filter the data, select the data interval, the type, etc you need.
 
 Click **Filter**, in this case, we choose **day** and **chain**.(day-Previous 30 Days, chain-Algorand, Arbitrum,Astar, Aurora, Avalanche, Binance, CSC)
 
-![](<../../.gitbook/assets/2 (6) (1)>)
+![](<../../.gitbook/assets/2 (6) (1) (1)>)
 
 Step3: Add summarize.
 
@@ -44,7 +44,7 @@ Step 5: Visualize.
 
 Click **visualize**, choose **Dynamic Pie**.Then, select the fields corresponding to x-axis, y-axis and category as required.
 
-![](<../../.gitbook/assets/5 (2) (1)>)
+![](<../../.gitbook/assets/5 (2) (1) (1)>)
 
 In this case, we choose:
 

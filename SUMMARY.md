@@ -22,6 +22,8 @@
   * [Gauge](getting-started/visualization/gauge.md)
   * [Pivot Table](getting-started/visualization/pivot-table.md)
 * [📚 Template](getting-started/template.md)
+* [💡 Use Case](getting-started/use-case/README.md)
+  * [Use Case](getting-started/use-case/use-case.md)
 
 ## DATA TABLES
 

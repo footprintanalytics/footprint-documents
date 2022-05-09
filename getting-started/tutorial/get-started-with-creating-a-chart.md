@@ -30,7 +30,7 @@ Step 3: Change the **Filters** in the upper left corner of the chart, change the
 
 Then, the chart is done.
 
-![](<../../.gitbook/assets/3 (2) (1)>)
+![](<../../.gitbook/assets/3 (2) (1) (1)>)
 
 Step 4: Save chart, you can also change the chart name and add description.
 

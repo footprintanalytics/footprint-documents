@@ -20,7 +20,7 @@ In this case, we make a comparison of trading volume of 3 NFT trading market in 
 
 ![](<../../.gitbook/assets/1 (1)>)
 
-![](<../../.gitbook/assets/2 (6)>)
+![](<../../.gitbook/assets/2 (6) (1)>)
 
 Step2: Add summarize.
 
@@ -34,7 +34,7 @@ Step 3: Visualize.
 
 Click **Visualize**, choose **Line Race**.Then, select the fields corresponding to x-axis, y-axis and category as required.
 
-![](<../../.gitbook/assets/4 (4)>)
+![](<../../.gitbook/assets/4 (4) (1)>)
 
 In this case, we choose:
 
@@ -46,7 +46,7 @@ Category = protocol-name;
 
 OK, the chart is done.
 
-![](<../../.gitbook/assets/5 (2)>)
+![](<../../.gitbook/assets/5 (2) (1)>)
 
 Save to complete the creation of the chart.
 
@@ -54,7 +54,7 @@ Save to complete the creation of the chart.
 
 Row race sometimes is more suitable for multiple metrics than line race. Gives you a clearer view of how the rankings change for each metric.
 
-![](<../../.gitbook/assets/6 (4)>)
+![](<../../.gitbook/assets/6 (4) (1)>)
 
 **Use case:** Row Race - Comparison of Sum of tvl
 

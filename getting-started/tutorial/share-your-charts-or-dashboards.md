@@ -6,7 +6,7 @@ description: Guide to share your charts or dashboards
 
 After saving your charts or dashboards, click **share** in the upper right corner and choose the way you want to to share and set your chart.
 
-![](<../../.gitbook/assets/0 (4)>)
+![](<../../.gitbook/assets/0 (4) (1)>)
 
 ### **Setting**
 
@@ -14,7 +14,7 @@ After saving your charts or dashboards, click **share** in the upper right corne
 
 Click the button, you can set your chart to private.
 
-![](<../../.gitbook/assets/1 (3)>)
+![](<../../.gitbook/assets/1 (3) (1)>)
 
 * Remove watermark (This function is only for paid users)
 

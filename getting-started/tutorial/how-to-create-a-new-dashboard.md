@@ -14,7 +14,7 @@ Let's begin to create a dashboard.
 
 Step1. Click **Create**, here we select **New dashboard**. Then，add the charts you need.
 
-![](<../../.gitbook/assets/1 (3) (1) (1)>)
+![](<../../.gitbook/assets/1 (3) (1) (1) (1)>)
 
 ![](<../../.gitbook/assets/2 (2)>)
 

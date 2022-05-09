@@ -26,7 +26,7 @@ The **Display tab** lets you change the line color and style, handle missing val
 
 For time series, toggle the trend line option and Footprint will auto-calculate a trend line. You can also add a goal line by specifying a value and a label.
 
-![](<../../.gitbook/assets/1 (3) (1) (1) (1)>)
+![](<../../.gitbook/assets/1 (3) (1) (1) (1) (1)>)
 
 #### **Axes Tab**
 
@@ -42,7 +42,7 @@ When your chart has several series, you can hover over the name of a series in t
 
 When you hover over the line of the chart, you can see the information of the line.
 
-![](<../../.gitbook/assets/3 (2)>)
+![](<../../.gitbook/assets/3 (2) (1)>)
 
 Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
 
