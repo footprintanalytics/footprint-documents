@@ -17,4 +17,4 @@ description: How to integrate our chart into your website in four simple steps.
     &#x20;_(coming soon)_
 * **Step4: Insert the codes into your website**
 
-![](<../../.gitbook/assets/2 (4)>)
+![](<../../.gitbook/assets/2 (4) (1)>)

@@ -1,65 +1,83 @@
----
-description: Dynamic Pie Chart Operation Tutorial
----
-
 # Dynamic Pie Chart
 
-While the Line Chart is suitable for data with a trend over time, the Pie Chart shows the percentage of a category in the whole, and the Dynamic Pie Chart combines them both.In Dynamic Pie Chart, you can visualize the trend of an metric's value and trend of its distribution over a certain time frame.You can see how the values and pie charts change over time,instead of a new pie chart created every day.
+The Line Chart is best suited for data that displays a trend over time, meanwhile the Pie Chart indicates the proportion of a category in the total. The Dynamic Pie Chart combines the two categories.
 
-![](<../../.gitbook/assets/0 (4) (1) (1)>)
+This guide will walk you through the process of creating a Dynamic Pie Chart and demonstrating how to put it to use.
 
-**Use case:** Dynamic Charts - TVL of Different Chains
+In this article:
 
-Step1: Create a new chart.
+* Dynamic Pie Chart
+  * The Use Case of Dynamic Pie Chart
 
-Select the data **defi-daily-stats**.Then click **Advanced.**
+### Dynamic Pie Chart <a href="#_yvin0ihc0chz" id="_yvin0ihc0chz"></a>
 
-![](<../../.gitbook/assets/1 (5) (1)>)
+In a Dynamic Pie Chart, you can see how a metric's value changes over time, as well as how the metric's distribution changes. Instead of creating a new pie chart every day, you can examine how the values and pie charts evolve over time.
 
-Step2: Add filters.
+![](<../../.gitbook/assets/0 (12)>)
 
-Here you can filter the data, select the data interval, the type, etc you need.
+The gif above demonstrates what a Dynamic Pie Chart looks like.
 
-Click **Filter**, in this case, we choose **day** and **chain**.(day-Previous 30 Days, chain-Algorand, Arbitrum,Astar, Aurora, Avalanche, Binance, CSC)
+### The Use case of Dynamic Pie Chart <a href="#_aagx6b7qffl9" id="_aagx6b7qffl9"></a>
 
-![](<../../.gitbook/assets/2 (6) (1) (1)>)
+Using _Dynamic Chart - TVL of Different Chains_ as an example is the purpose of this section. You'll also learn how to create your own Dynamic Pie Chart and the properties you'll need to do so.
 
-Step3: Add summarize.
+The Dynamic Pie Chart uses the following setup properties:
 
-Here you can choose the metrics you need, then choose the field to group by. Note the choice of units for the time type field.
+![](<../../.gitbook/assets/1 (13)>)
 
-Click **Summarize**, in this case, we choose **sum of tvl**, group by **chain** and **day** (This operation displays data by day).
+| Number | Configuration Property | Description                                                                                                                                                                                                                                                     |
+| ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Filter                 | This feature allows you to add filters to the data, select the data interval, the data type, etc.                                                                                                                                                               |
+| 2      | Summarize              | This feature allows you to summarize the metrics you need, then choose the field to group by, as well as note the choice of units for the time type field.                                                                                                      |
+| 3      | Join Data              | This feature allows you to combine data between two or more datasets.                                                                                                                                                                                           |
+| 4      | Custom Column          | This feature allows you to customize your own columns.                                                                                                                                                                                                          |
+| 5      | Sort                   | This feature allows the data to be sorted in chronological order, name, or others. When you sort the name, the arrow up means the data is sorted from smallest to largest, and the arrow down means the opposite. If you choose to sort by time, it is similar. |
+| 6      | Row Limit              | This feature allows you to select the limit of the row.                                                                                                                                                                                                         |
 
-![](<../../.gitbook/assets/3 (4) (1)>)
+To create a Dynamic Pie Chart using the data from _Dynamic Chart - TVL of Different Chains:_
 
-Step4: Sort field.
+Step 1: Click on **Create** and Select **New Chart**.
 
-This operation is so that the data can be sorted in chronological order, name or others.When you select the name sort, the arrow up means the data is sorted from smallest to largest, and the arrow down means the opposite.If you choose the time sort, it is similar.
+Step 2: Select the data **defi\_protocol\_daily\_stats**. Click **Advanced** next to the **Visualization** tab on the top right corner of the screen.
 
-Click **Sort**, in this case, we choose **Sum of tvl** and **day**.
+![](<../../.gitbook/assets/2 (6)>)
 
-![](<../../.gitbook/assets/4 (2)>)
+The gif above demonstrates Step 1 and Step 2.
 
-Step 5: Visualize.
+Step 3: Click **Filters**, then, for this use case, click on **day-previous 30 Days,** then click **Add**. **** Click the **+ Icon**, select **chain** and click the first five **chains**.
 
-Click **visualize**, choose **Dynamic Pie**.Then, select the fields corresponding to x-axis, y-axis and category as required.
+![](<../../.gitbook/assets/3 (11)>)
 
-![](<../../.gitbook/assets/5 (2) (1) (1) (1)>)
+The gif above demonstrates Step 3 in choosing the filters.
 
-In this case, we choose:
+Step 4: Click **Summarize**, in this case, we choose the **sum of TVL**, group by **chain** and **day** (This operation displays data by day).
 
-x-axis = day;
+![](<../../.gitbook/assets/4 (9)>)
 
-y-axis = sum of tvl;
+The gif above demonstrates Step 4 in creating the summary of the dataset.
 
-category = chain;
+Step 5: Click **Sort** next to **Join Data**, and select the **Sum of TVL**. Then click on the **+ Icon** and select **Day**.
 
-![](<../../.gitbook/assets/6 (3) (1)>)
+![](<../../.gitbook/assets/5 (6)>)
 
-Save to complete the creation of the chart.
+The gif above demonstrates Step 5 in sorting the dataset.
 
-**Tips: Dynamic Pie Chart is used to filter at least two metrics, if you only have one metric, it will be meaningless.**
+Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
+![](<../../.gitbook/assets/6 (4)>)
 
-Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)
+The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
+
+In this use case, we choose
+
+* **x-axis** = day;
+* **y-axis** = sum of tvl;
+* **category** = chain;
+
+![](<../../.gitbook/assets/7 (2)>)
+
+The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
+
+Your Dynamic Pie Chart is now complete; make sure to save it.
+
+_**Note**: In order for a Dynamic Pie Chart to be useful, you must have at least two metrics to filter._

@@ -25,7 +25,7 @@ In this article:
 
 The charts in this section are taken from the _Tokenomics of (Token)_ dashboard. The charts show information on the daily top 10 addresses for Tokens, where you can see data such as the address distribution of token balance and the inflows and outflows of tokens among other things.
 
-![The image above shows information on the daily top 10 addresses for Tokens in a dashboard](<../../.gitbook/assets/0 (4)>)
+![The image above shows information on the daily top 10 addresses for Tokens in a dashboard](<../../.gitbook/assets/0 (4) (1)>)
 
 ### [Address](https://www.footprint.network/guest/dashboard/Address-Analysis-of-GameFi-Project-fp-77828d1e-35bc-4b6c-90e9-7777e7c6902d?gamefi\_name=decentral-games) <a href="#_2jrhe975kffo" id="_2jrhe975kffo"></a>
 
@@ -35,7 +35,7 @@ This chart is from the dashboard _Address Analysis of GameFi Project_, showing n
 
 This chart is from the dashboard of _Chain Overview_, showing the number of protocols by chain.
 
-![The image above shows a row chart detailing the number of protocols by chain](<../../.gitbook/assets/2 (6)>)
+![The image above shows a row chart detailing the number of protocols by chain](<../../.gitbook/assets/2 (6) (1)>)
 
 ### [GameFi](https://www.footprint.network/guest/dashboard/Ethereum-GameFi-Tracker-fp-60abcc01-61e2-4daf-9f90-1cf4d30e9b28?chain=Ethereum\&date\_filter=past30days) <a href="#_gu57b4mu338c" id="_gu57b4mu338c"></a>
 
@@ -47,7 +47,7 @@ This chart is from the dashboard of _Ethereum GameFi Tracker_, showing the ranki
 
 This chart is from the dashboard of _Chain Overview_, showing the market share of tvl by chain.
 
-![The image above shows a pie chart of the market share of tvl by chain](<../../.gitbook/assets/4 (4)>)
+![The image above shows a pie chart of the market share of tvl by chain](<../../.gitbook/assets/4 (4) (1)>)
 
 
 
@@ -63,7 +63,7 @@ Example：[Curve Dashboard](https://www.footprint.network/guest/dashboard/Curve-
 
 This is a dashboard about Curve, in which all of the important metrics have been assembled in one place. We can see that the creator is showing us a few at a-glance counters, which tell us the most important information in simple numbers.
 
-![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2) (1)>)
+![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2) (1) (1)>)
 
 ### Sector Dashboard <a href="#_1gxuova099h4" id="_1gxuova099h4"></a>
 
@@ -73,7 +73,7 @@ Example：[DEX Industry Dashboard](https://www.footprint.network/guest/dashboard
 
 This is a dashboard about the DEX industry. It includes an analysis of Volume and Number of Transactions.
 
-![The image above shows a dashboard about the DEX Industry that updates in real time](<../../.gitbook/assets/6 (4)>)
+![The image above shows a dashboard about the DEX Industry that updates in real time](<../../.gitbook/assets/6 (4) (1)>)
 
 ### Ecosystem Dashboard <a href="#_n0lv613tob6" id="_n0lv613tob6"></a>
 
@@ -83,5 +83,5 @@ Example：[Polygon Dashboard](https://www.footprint.network/guest/dashboard/Poly
 
 This is the dashboard about Polygon, in which you can also check general metrics such as TVL and Market Cap.
 
-![The image above shows a dashboard that includes general metrics you can also access](<../../.gitbook/assets/7 (3)>)
+![The image above shows a dashboard that includes general metrics you can also access](<../../.gitbook/assets/7 (3) (1)>)
 
