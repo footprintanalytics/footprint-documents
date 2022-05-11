@@ -79,7 +79,7 @@ Step3. Select the chart you need to associate with and set the Default Value. Al
 
 If you don't need the filters, you can remove it by clicking **Remove.**
 
-![](../../.gitbook/assets/11)
+![](<../../.gitbook/assets/11 (1)>)
 
 Step4. Save.
 

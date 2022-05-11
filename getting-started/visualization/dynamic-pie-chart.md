@@ -44,7 +44,7 @@ Step 5: Visualize.
 
 Click **visualize**, choose **Dynamic Pie**.Then, select the fields corresponding to x-axis, y-axis and category as required.
 
-![](<../../.gitbook/assets/5 (2) (1) (1)>)
+![](<../../.gitbook/assets/5 (2) (1) (1) (1)>)
 
 In this case, we choose:
 

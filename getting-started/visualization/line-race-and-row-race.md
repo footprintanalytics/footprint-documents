@@ -10,7 +10,7 @@ Line Race and Row Race are advanced applications of line charts, which can make 
 
 It is used for plotting data captured in several sequences.&#x20;
 
-![](<../../.gitbook/assets/0 (3)>)
+![](<../../.gitbook/assets/0 (3) (1)>)
 
 **Use case:** Line Race - Comparison of Volumes
 
@@ -46,7 +46,7 @@ Category = protocol-name;
 
 OK, the chart is done.
 
-![](<../../.gitbook/assets/5 (2) (1)>)
+![](<../../.gitbook/assets/5 (2) (1) (1)>)
 
 Save to complete the creation of the chart.
 
@@ -84,11 +84,11 @@ Y-axis = chain;
 
 Time = day;
 
-![](<../../.gitbook/assets/10 (1)>)
+![](<../../.gitbook/assets/10 (1) (1)>)
 
 And you can set the display to change Animation Speed, Y-axis Maximum and Y-axis Emphasize.
 
-![](<../../.gitbook/assets/11 (1)>)
+![](<../../.gitbook/assets/11 (1) (1)>)
 
 Then, your chart is done, don’t forget to save it.
 

@@ -26,7 +26,7 @@ You can highlight cells or rows based on the values they contain, which makes it
 
 **Single color:** When you want to color cells if the value in cells meets a certain criteria, use the single color option.
 
-![](<../../.gitbook/assets/2 (3) (1)>)
+![](<../../.gitbook/assets/2 (3) (1) (1)>)
 
 **Color range:** If you want to show the value’s relative position in the range of values for a column (or multiple columns), use the color range option.
 

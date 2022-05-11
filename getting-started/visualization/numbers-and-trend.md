@@ -8,7 +8,7 @@ When you only have one value, especially for static numbers, or at least a numbe
 
 Keep in mind that a single number may lack context, so it’s best used on a dashboard that provides that, such as Curve's TVL yesterday and the day before.
 
-![](<../../.gitbook/assets/0 (3) (1)>)
+![](<../../.gitbook/assets/0 (3) (1) (1)>)
 
 #### **Numbers** <a href="#_kxwvyl9xtjdb" id="_kxwvyl9xtjdb"></a>
 

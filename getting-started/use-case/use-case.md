@@ -63,7 +63,7 @@ Example：[Curve Dashboard](https://www.footprint.network/guest/dashboard/Curve-
 
 This is a dashboard about Curve, in which all of the important metrics have been assembled in one place. We can see that the creator is showing us a few at a-glance counters, which tell us the most important information in simple numbers.
 
-![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2)>)
+![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2) (1)>)
 
 ### Sector Dashboard <a href="#_1gxuova099h4" id="_1gxuova099h4"></a>
 
