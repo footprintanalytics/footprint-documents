@@ -45,7 +45,7 @@ Step 6: Click on **Update** and your chart will rearrange itself accordingly.
 
 Step 7: Make sure you click on **Save** to finalize your chart.
 
-![](<../../.gitbook/assets/5 (2)>)
+![](<../../.gitbook/assets/5 (2) (1)>)
 
 The image above walks users through choosing filters for charts based on Steps 4 to 7.
 
@@ -59,7 +59,7 @@ Step 8: Change the chart **Name** and the **Description** before clicking **Save
 
 The image above highlights the Name, Description and Save button that users can change when saving a chart.
 
-![](../../.gitbook/assets/8)
+![](<../../.gitbook/assets/8 (1)>)
 
 The gif above demonstrates how to save a chart as shown in Steps 7 and 8.
 
@@ -69,7 +69,7 @@ Then, the chart is done. You can access charts you’ve made under **My Analytic
 
 The image above shows users where to find any charts they have created.
 
-![](<../../.gitbook/assets/10 (4)>)
+![](<../../.gitbook/assets/10 (4) (1)>)
 
 The gif above demonstrates how users can find previously-made charts.
 
@@ -93,27 +93,27 @@ Step 3: Select the data table **ethereum\_transactions**.
 
 The image above shows users which graph to select and where to find the graph for the purpose of our example in this article.
 
-![](<../../.gitbook/assets/13 (1)>)
+![](<../../.gitbook/assets/13 (1) (1)>)
 
 The gif above demonstrates Steps 1 to 3, the process of getting to ethereum\_transactions for the purpose of this guide.
 
 Step 3: In the “ethereum\_transactions” table, there is one record for each transaction, which means you can directly count the number of records and group by day. Click **Summarize** in the upper right corner, and then pick **Count of rows**.
 
-![](../../.gitbook/assets/14)
+![](<../../.gitbook/assets/14 (2)>)
 
 The image above shows users how to summarize by count of rows according to Steps 1 to 3.
 
 Step 4: Under the **Group-by** field, scroll down and select **block\_timestamp**, which needs to be grouped **by day**.
 
-![](<../../.gitbook/assets/15 (2)>)
+![](<../../.gitbook/assets/15 (2) (1)>)
 
 The image above shows users to scroll down for block\_timestamp under the Group-by field for Step 4.
 
-![](<../../.gitbook/assets/16 (2)>)
+![](<../../.gitbook/assets/16 (2) (1)>)
 
 The image above is a continuation of Step 4, showing users how to select by day under block\_timestamp.
 
-![](<../../.gitbook/assets/17 (1)>)
+![](<../../.gitbook/assets/17 (1) (1)>)
 
 The gif above combines Steps 3 and 4, navigating how to select Count of rows and block\_timestamp by day.
 

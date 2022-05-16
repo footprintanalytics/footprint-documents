@@ -34,7 +34,7 @@ If the data you’re visualizing can be broken down into multiple categories wit
 
 You can adjust this setting in the **Display** section of the **Settings sidebar**, by selecting **Stack** or **Stack - 100%**.
 
-![](<../../.gitbook/assets/2 (5) (1)>)
+![](<../../.gitbook/assets/2 (5) (1) (1)>)
 
 * **Set a Goal:** You can add a **goal line** that specifies where you want numbers to be.
 
@@ -80,7 +80,7 @@ With the **Show lines and marks** options you can change the way the categories 
 
 And you can click **Auto y-axis range** or **Use a split y-axis when necessary** to change the chart **** if you need.
 
-![](<../../.gitbook/assets/8 (1)>)
+![](<../../.gitbook/assets/8 (1) (1)>)
 
 #### **Labels** <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
 
@@ -88,7 +88,7 @@ Select the **Labels** in the **Settings sidebar**.
 
 Here, you can choose to show labels or not, or use the text boxes to enter the desired label for each axis.In this example, we show the label on x-axis to name and label on y-axis to volume.
 
-![](../../.gitbook/assets/9)
+![](<../../.gitbook/assets/9 (1)>)
 
 Tips: It may take some back-and-forth to figure out which display settings are suitable for your data, so try a few different options to see what works best for you.
 

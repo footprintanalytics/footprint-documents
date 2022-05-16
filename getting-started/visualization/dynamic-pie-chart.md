@@ -40,7 +40,7 @@ Step 1: Click on **Create** and Select **New Chart**.
 
 Step 2: Select the data **defi\_protocol\_daily\_stats**. Click **Advanced** next to the **Visualization** tab on the top right corner of the screen.
 
-![](<../../.gitbook/assets/2 (6)>)
+![](<../../.gitbook/assets/2 (6) (1)>)
 
 The gif above demonstrates Step 1 and Step 2.
 
@@ -64,7 +64,7 @@ The gif above demonstrates Step 5 in sorting the dataset.
 
 Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-![](<../../.gitbook/assets/6 (4)>)
+![](<../../.gitbook/assets/6 (4) (1)>)
 
 The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
 

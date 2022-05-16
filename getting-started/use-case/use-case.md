@@ -35,7 +35,7 @@ This chart is from the dashboard _Address Analysis of GameFi Project_, showing n
 
 This chart is from the dashboard of _Chain Overview_, showing the number of protocols by chain.
 
-![The image above shows a row chart detailing the number of protocols by chain](<../../.gitbook/assets/2 (6) (1)>)
+![The image above shows a row chart detailing the number of protocols by chain](<../../.gitbook/assets/2 (6) (1) (1)>)
 
 ### [GameFi](https://www.footprint.network/guest/dashboard/Ethereum-GameFi-Tracker-fp-60abcc01-61e2-4daf-9f90-1cf4d30e9b28?chain=Ethereum\&date\_filter=past30days) <a href="#_gu57b4mu338c" id="_gu57b4mu338c"></a>
 
@@ -63,7 +63,7 @@ Example：[Curve Dashboard](https://www.footprint.network/guest/dashboard/Curve-
 
 This is a dashboard about Curve, in which all of the important metrics have been assembled in one place. We can see that the creator is showing us a few at a-glance counters, which tell us the most important information in simple numbers.
 
-![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2) (1) (1)>)
+![The image above shows a dashboard of multiple charts in one place](<../../.gitbook/assets/5 (2) (1) (1) (1)>)
 
 ### Sector Dashboard <a href="#_1gxuova099h4" id="_1gxuova099h4"></a>
 
@@ -73,7 +73,7 @@ Example：[DEX Industry Dashboard](https://www.footprint.network/guest/dashboard
 
 This is a dashboard about the DEX industry. It includes an analysis of Volume and Number of Transactions.
 
-![The image above shows a dashboard about the DEX Industry that updates in real time](<../../.gitbook/assets/6 (4) (1)>)
+![The image above shows a dashboard about the DEX Industry that updates in real time](<../../.gitbook/assets/6 (4) (1) (1)>)
 
 ### Ecosystem Dashboard <a href="#_n0lv613tob6" id="_n0lv613tob6"></a>
 

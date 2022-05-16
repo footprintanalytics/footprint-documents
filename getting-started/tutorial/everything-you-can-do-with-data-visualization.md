@@ -49,7 +49,7 @@ Step 3: Click on **Columns**.
 
 Step 4: Scroll to your desired column and click on the **x** icon.
 
-![](<../../.gitbook/assets/1 (12)>)
+![](<../../.gitbook/assets/1 (12) (1)>)
 
 The gif above demonstrates how to remove an unwanted column from your Table.
 
@@ -81,7 +81,7 @@ Step 3: Click on **Conditional Formatting**.
 
 Step 4: Click on **Add a Rule** and set as desired. To access or edit existing rules, scroll down and click on your desired rule.
 
-![](<../../.gitbook/assets/3 (8)>)
+![](<../../.gitbook/assets/3 (8) (1)>)
 
 You can highlight cells or rows based on the values they contain, which makes it easier for you to see value ranges and outliers. There are two types of conditional formatting: **Single Color** and **Color Range**.
 
@@ -127,7 +127,7 @@ The gif above demonstrates Steps 1 to 3 of how to link your URLs into your Table
 
 For scalar values, you can add a **Mini Bar Chart** to show the value’s position within the range of values in the column. This function only applies to values or numbers.
 
-![](<../../.gitbook/assets/9 (1)>)
+![](<../../.gitbook/assets/9 (1) (1)>)
 
 The image above shows Mini Bar Charts next to numerical data in a Table.
 

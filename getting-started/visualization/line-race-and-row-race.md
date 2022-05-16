@@ -1,82 +1,115 @@
 ---
-description: Guide to Create a Line Race and Row Race
+description: How to Create a Line Race and Row Race
 ---
 
 # Line Race and Row Race
 
-Line Race and Row Race are advanced applications of line charts, which can make your charts more vivid and visual.
+Line Race and Row Race are advanced applications of line charts. They provide and present your data in different ways, which can make your charts more vivid and visual. The main difference that sets them apart from line charts and most other charts, is that they are animated to help better show the process and progress of the data.
 
-* **Line Race**
+This article will guide you through Line Races and Row Races as well as walk you through some use cases.
 
-It is used for plotting data captured in several sequences.&#x20;
+In this article:
 
-![](<../../.gitbook/assets/0 (3) (1) (1)>)
+* Line Race
+* Row Race
 
-**Use case:** Line Race - Comparison of Volumes
+### Line Race <a href="#_at8t0ip1t34l" id="_at8t0ip1t34l"></a>
 
-Step1: Select the data **nft-marketplaces-daily-stats** and add filters.
+Line Races are used for plotting data captured in several sequences.&#x20;
 
-In this case, we make a comparison of trading volume of 3 NFT trading market in the past 30 days. So, we choose **protocol-name** and **day**.
+![The gif above demonstrates an example of a line race as time goes by.](<../../.gitbook/assets/0 (8)>)
 
-![](<../../.gitbook/assets/1 (1) (1) (1)>)
+Use case: **** Line Race - Comparison of Volumes
 
-![](<../../.gitbook/assets/2 (6) (1) (1)>)
+Step 1: Click Create on the top right corner of the screen. A pop-up menu will appear. Click on New Chart.
 
-Step2: Add summarize.
+Step 2: Click on NFT from the list on the left. Select **nft-marketplaces-daily-stats.**
 
-Here you can choose the metrics you need, then choose the field to group by. Note the choice of units for the time type field.
+Step 3: In this case, we will be making a comparison of the _trading volume of 3 NFT trading markets in the past 30 days_. Click on **Filter**, then click on **protocol\_name**. Search and select **OpenSea**, **X2Y2**, and **LooksRare**, then click **Add filter**.
 
-Click **Summarize**, in this case, we choose **sum of volume**, group by **protocol-name** and **day** (This operation displays data by day).
+![The image above shows where to find the protocol\_name under Filter.](<../../.gitbook/assets/1 (12)>)
 
-![](<../../.gitbook/assets/3 (1) (1)>)
+![The image above shows the three protocol\_names we will be using for our example.](<../../.gitbook/assets/2 (8)>)
 
-Step 3: Visualize.
+![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../.gitbook/assets/3 (7)>)
 
-Click **Visualize**, choose **Line Race**.Then, select the fields corresponding to x-axis, y-axis and category as required.
+Step 4: Click on **Filter**, and this time click on **day**.
 
-![](<../../.gitbook/assets/4 (4) (1) (1)>)
+![The image above shows where to find the day option under Filter.](<../../.gitbook/assets/4 (10)>)
 
-In this case, we choose:
+Step 5: Select **Previous**, **30** and **Days**, then click on **Add filter**.
+
+![The image shows what the filter selection would look like for Step 5.](<../../.gitbook/assets/5 (2)>)
+
+![The gif above demonstrates how to filter by the previous 30 days based on Step 5.](<../../.gitbook/assets/6 (4)>)
+
+Step 6: Click on Advanced, then click on Summarize..
+
+Step 7: Here you can choose the metrics you need, then choose the field to group by. Click on the **Pick the metric you want to see** button. Select **sum of**, then select **volume**.
+
+Step 8: Click on the **Pick a column to group by** button. Select **protocol\_name**. Click on the green **+ button** and select **day,** and then select **by day** (This operation displays data by day).
+
+Step 9: Click on **Visualize** on the bottom left corner of the screen.
+
+![The image above shows users how to summarize their data under the Advanced tab.](<../../.gitbook/assets/7 (7)>)
+
+![The gif above demonstrates Steps 7 and 8 in using the Summarize function.](<../../.gitbook/assets/8 (6)>)
+
+Step 3: Under **Visualization**, choose **Line Race**.Then, select the fields corresponding to x-axis, y-axis and category as required. Click on **Done**.
+
+![The image above shows users where to find the Line Race option under Visualization.](../../.gitbook/assets/9)
+
+In this case, we choose the following settings for our chart:
 
 X-axis = day;
 
 Y-axis = sum of volume;
 
-Category = protocol-name;
+Category = protocol-name.
 
-OK, the chart is done.
+![The image above shows how our completed Line Race chart would look like.](<../../.gitbook/assets/10 (6)>)
 
-![](<../../.gitbook/assets/5 (2) (1) (1) (1)>)
+_**Note**: The Line Race chart is only available for membership holders._
 
 Save to complete the creation of the chart.
 
-* **Row Race**
+### Row Race <a href="#_hsu6ddk5iop" id="_hsu6ddk5iop"></a>
 
-Row race sometimes is more suitable for multiple metrics than line race. Gives you a clearer view of how the rankings change for each metric.
+Row races are sometimes more suitable for multiple metrics than line races. It gives you a clearer view of how the rankings change for each metric.
 
-![](<../../.gitbook/assets/6 (4) (1) (1)>)
+![The image above shows an example of what a Row Race looks like.](<../../.gitbook/assets/11 (2)>)
 
-**Use case:** Row Race - Comparison of Sum of tvl
 
-Step1: Select the data **defi-daily-stats** and add filters.
 
-In this case, we make a comparison of the sum of tv of 10 chain, the time is after March 31, 2021. So, we choose **chain** and **day**.
+Use case: Row Race - Comparison of Sum of TVL
 
-![](<../../.gitbook/assets/7 (3)>)
+Step 1: Click on **Create**, then click on **New Chart**.
 
-Step2: Add summarize.
+Step 2: Select the data **defi-daily-stats** under the **DeFi** drop-down list found on the left side of the screen.
 
-Click **Summarize**, in this case, we choose **sum of tvl**, group by **chain** and **day** (This operation displays data by day).
+Step 3: In this case, we will be making a comparison of the sum of TVL using 10 chains after March 31, 2021. Click on **Filter** on the top right corner, and then click on **chain**. Search and select the **chains Heco, Solana, PolyNetwork, Tron, Fantom, Stacks, Kava, Avalanche, Optimism,** and **Celo.**
 
-![](<../../.gitbook/assets/8 (2)>)
+![The image above shows users where to find the chain filter based on Step 3.](<../../.gitbook/assets/12 (5)>)
 
-Step 3: Visualize.
+Step 4: Click on **Filter**, and then day. Select **After** and choose **May 31, 2021** for our example.
 
-Click **Visualize**, choose **Row Race**.Then, select the fields corresponding to x-axis, y-axis and category as required.
+![The image above shows users where the day filter from Step 4 can be found.](<../../.gitbook/assets/13 (4)>)
 
-![](<../../.gitbook/assets/9 (1) (1)>)
+![The image above shows users where to select their desired date using the calendar based on Step 4.](../../.gitbook/assets/14)
 
-In this case, we choose:
+![The image above shows users what it looks like after the two filters from Steps 3 and 4.](<../../.gitbook/assets/15 (2)>)
+
+
+
+Step 5: Click on Advanced, then click on Summarize. In our case, we will be selecting **sum of tvl**, grouped by **chain** and **day** (This operation displays data by day).
+
+![The image above shows users where to summarize based on Step 5.](<../../.gitbook/assets/16 (1)>)
+
+Step 6: Under Visualize, click **Visualization**, choose **Row Race**.Then, select the fields corresponding to x-axis, y-axis and category as required. Click on **Done**.
+
+![](<../../.gitbook/assets/17 (1)>)
+
+In this case, we choose the following settings for our chart:
 
 X-axis = sum of tvl;
 
@@ -84,14 +117,10 @@ Y-axis = chain;
 
 Time = day;
 
-![](<../../.gitbook/assets/10 (1) (1) (1)>)
+![](<../../.gitbook/assets/18 (1)>)
 
-And you can set the display to change Animation Speed, Y-axis Maximum and Y-axis Emphasize.
+You can change the Animation Speed under the **Display Settings**, using the Y-axis Maximum and Y-axis Emphasize fields to customize.
 
-![](<../../.gitbook/assets/11 (1) (1)>)
+![](../../.gitbook/assets/19)
 
-Then, your chart is done, don’t forget to save it.
-
-Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
-
-Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)
+Your chart is done, don’t forget to save it.

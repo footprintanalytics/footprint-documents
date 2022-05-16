@@ -17,7 +17,7 @@ Let's begin. To create our first dashboard:
 
 Step 1: Click on the **Create** button on the top right hand-side of the screen.
 
-![](<../../.gitbook/assets/0 (7)>)
+![](<../../.gitbook/assets/0 (7) (1)>)
 
 The image above shows where the **Create** button is.
 
@@ -57,13 +57,13 @@ The image above shows where the **My charts** tab is.
 
 Step 7: You can also search for a specific chart by name or by its URL link in the **search box**.
 
-![](<../../.gitbook/assets/7 (6)>)
+![](<../../.gitbook/assets/7 (6) (1)>)
 
 The image above shows where the **Search box** is.
 
 Step 8: Make sure to click onH **Save** to finalize **** your completed dashboard.
 
-![](<../../.gitbook/assets/8 (6)>)
+![](<../../.gitbook/assets/8 (6) (1)>)
 
 The image above shows where the **save** button is.
 
@@ -77,7 +77,7 @@ With the dashboard ready, we can start designing your dashboard to personalize a
 
 You can move your charts and text boxes by simply clicking on them and then dragging them anywhere within the dashboard. Organize your dashboard items accordingly to improve readability.
 
-![](<../../.gitbook/assets/9 (2)>)
+![](<../../.gitbook/assets/9 (2) (1)>)
 
 The gif above demonstrates how to move your dashboard items around.You can also resize your dashboard items using their bottom right corner handles. Click and drag the handle to resize and adjust your charts and text boxes.
 
@@ -93,7 +93,7 @@ To add a text box:
 
 Step 1: Click on **Add a media box** on the top right hand-side of the screen.
 
-![](<../../.gitbook/assets/11 (2)>)
+![](<../../.gitbook/assets/11 (2) (1)>)
 
 The image above shows where you can find the option to add a text box.
 
@@ -115,23 +115,23 @@ Step 1: **Hover** your mouse over your desired chart or text box. The **submenu*
 
 Step 2: Click on the **Palette icon**.
 
-![](<../../.gitbook/assets/14 (2)>)
+![](<../../.gitbook/assets/14 (2) (1)>)
 
 The image above shows users where the palette icon is on the submenu of the hovered chart or text box from Step 2.
 
 Step 3: Pop-up settings will appear. You can set how you want your chart or text box to be presented in your dashboard with settings including **Display**, **Axes** and **Labels**.
 
-![](<../../.gitbook/assets/15 (3)>)
+![](<../../.gitbook/assets/15 (3) (1)>)
 
 The image above shows the different options users can set upon clicking on the Visualization options as indicated by the palette icon in Step 1.
 
 Step 4: Scroll down and make sure you click **Done** once finished with your settings to save any changes.
 
-![](<../../.gitbook/assets/16 (1)>)
+![](<../../.gitbook/assets/16 (1) (1)>)
 
 The image above shows users where to find the Done button based on Step 4.
 
-![](<../../.gitbook/assets/17 (2)>)
+![](<../../.gitbook/assets/17 (2) (1)>)
 
 The gif above demonstrates how to access and navigate the visualization options in your charts.
 
@@ -161,11 +161,11 @@ Step 2: Under Filter, click on the x mark on your unwanted filters.
 
 Step 3: Make sure you Save to keep any changes made.
 
-![](<../../.gitbook/assets/18 (1)>)
+![](<../../.gitbook/assets/18 (1) (1)>)
 
 The image above shows users how to manually delete filters that may come with some charts.
 
-![](../../.gitbook/assets/19)
+![](<../../.gitbook/assets/19 (1)>)
 
 The gif above demonstrates how to delete filters from charts manually.
 
@@ -205,7 +205,7 @@ The image above shows where the filter name is in your dashboard.
 
 Step 2: Click on the **Remove** button on the right hand-side of the screen under Settings. Don’t forget to click **Done** to save your settings.
 
-![](<../../.gitbook/assets/4 (10)>)
+![](<../../.gitbook/assets/4 (10) (1)>)
 
 The image above shows where the **Remove** button is.
 

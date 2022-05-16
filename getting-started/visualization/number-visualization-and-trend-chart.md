@@ -13,7 +13,7 @@ In this article:
 * Trends Chart
   * The Use Case of Trends Chart
 
-![](<../../.gitbook/assets/0 (6)>)
+![](<../../.gitbook/assets/0 (6) (1)>)
 
 The image above shows what a Number Visualization and Trend Chart looks like.
 
@@ -45,7 +45,7 @@ The gif above demonstrates Step 1 and Step 2.
 
 Step3：Click **Filter**, select **name**, then search for **Curve** in the search box.
 
-![](<../../.gitbook/assets/2 (5)>)
+![](<../../.gitbook/assets/2 (5) (1)>)
 
 The gif above demonstrates Step 3, choosing Curve in the search box.
 
@@ -73,6 +73,6 @@ The Trend visualization is great for displaying how a single number has changed 
 
 We can use the results from the previous section Numbers Visualization to also make a Trends Chart. You can do so under the Visualization tab. Click on Visualization, then select Trend and customize your settings as needed.
 
-![](<../../.gitbook/assets/5 (4)>)
+![](<../../.gitbook/assets/5 (4) (1)>)
 
 The image above shows users where they can switch their Number chart into a Trend Chart.

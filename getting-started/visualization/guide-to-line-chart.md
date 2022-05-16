@@ -28,7 +28,7 @@ To customize your line chart, you can click on the **Visualization** button in t
 
 For time series, toggle the T**rend line** option and Footprint will auto-calculate a trend line for you. You can also add a goal line by specifying a value and a label.
 
-![](<../../.gitbook/assets/0 (8)>)
+![](<../../.gitbook/assets/0 (8) (1)>)
 
 The image above shows where the Trend line toggle can be found along with the results.
 
@@ -54,6 +54,6 @@ The gif above demonstrates a series being highlighted upon hovering over its lab
 
 When you hover over the data on the chart, you can see the detailed information pop out from it.
 
-![](<../../.gitbook/assets/3 (7)>)
+![](<../../.gitbook/assets/3 (7) (1)>)
 
 The gif above demonstrates additional details popping out from the data being hovered upon in the chart. Continue exploring Line Charts and other graphs and settings [here](https://www.footprint.network/dashboards).

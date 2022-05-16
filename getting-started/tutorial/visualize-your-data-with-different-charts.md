@@ -103,7 +103,7 @@ Sometimes you’ll want to see how two different measures correlate with each ot
 
 The most basic way to see a relationship is to plot one variable along the x-axis and the other variable along the y-axis, and see if a pattern emerges. This graph is known as a [Scatter Plot Chart](https://docs.footprint.network/getting-started/visualization/scatter). You’ll often see scatter plots used with data that hasn’t been summarized or aggregated. Each dot on the chart represents an individual record in the data.
 
-![](<../../.gitbook/assets/7 (5)>)
+![](<../../.gitbook/assets/7 (5) (1)>)
 
 The image above shows how each dot on the chart represents its own individual data separate from the other dots.
 
@@ -143,7 +143,7 @@ The above image is an example of a Stacked Bar Chart.
 
 If you need to see how different categories change relative to each other over time, regardless of the specific numbers, you could use percentages in your stacked bar charts.
 
-![](<../../.gitbook/assets/12 (3)>)
+![](<../../.gitbook/assets/12 (3) (1)>)
 
 The image above shows the percentage option being used to represent the data on the y-axis in the Stacked Bar Chart.
 
