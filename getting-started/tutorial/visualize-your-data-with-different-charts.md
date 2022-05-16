@@ -33,7 +33,7 @@ Before we start, we should note: you don’t have to use every chart type to do 
 
 In many cases, you want to see many metrics at once, list their exact values, and be able to sort those metrics. You can do this by adding or removing columns, or adding multiple filters to make it easier for you to find certain values.&#x20;
 
-![](<../../.gitbook/assets/0 (9)>)
+![](<../../.gitbook/assets/0 (9) (1)>)
 
 The image above shows users what a Table looks like.
 
@@ -121,13 +121,13 @@ A breakout shows the composition of a measure. Breakouts are categories that mak
 
 [**Pie Charts**](https://docs.footprint.network/getting-started/visualization/pie) show how several parts make up a whole.&#x20;
 
-![](<../../.gitbook/assets/9 (3)>)
+![](<../../.gitbook/assets/9 (3) (1)>)
 
 The above image is an example of a Pie Chart.
 
 While the Line Chart is more suitable for data with a trend over time, the Pie Chart shows the percentage of a category in the whole. You could even use a [**Dynamic Pie Chart**](https://docs.footprint.network/getting-started/visualization/dynamic-pie-chart) to combine them both together. You can see how the values and pie charts change over time, instead of a new pie chart needing to be created every day.
 
-![](<../../.gitbook/assets/10 (5)>)
+![](<../../.gitbook/assets/10 (5) (1)>)
 
 The gif above shows users how the values change over time in the graph as reflected by the Pie Chart.
 

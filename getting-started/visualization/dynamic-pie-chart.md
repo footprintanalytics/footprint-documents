@@ -23,7 +23,7 @@ Using _Dynamic Chart - TVL of Different Chains_ as an example is the purpose of 
 
 The Dynamic Pie Chart uses the following setup properties:
 
-![](<../../.gitbook/assets/1 (13)>)
+![](<../../.gitbook/assets/1 (13) (1)>)
 
 | Number | Configuration Property | Description                                                                                                                                                                                                                                                     |
 | ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

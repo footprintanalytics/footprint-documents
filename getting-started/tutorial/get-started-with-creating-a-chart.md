@@ -33,7 +33,7 @@ The gif above demonstrates how to make a new chart based on Steps 1 and 2.
 
 Step 3: Select the template **Avalanche: Token Price & Trading Volume** on the bottom on the screen.
 
-![](<../../.gitbook/assets/3 (4)>)
+![](<../../.gitbook/assets/3 (4) (1)>)
 
 The image above shows users which template we are using for this example.
 

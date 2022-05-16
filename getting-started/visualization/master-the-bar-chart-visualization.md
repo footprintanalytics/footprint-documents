@@ -40,7 +40,7 @@ You can adjust this setting in the **Display** section of the **Settings sidebar
 
 In this example, we add a goal line at 50000 and name it Goal1.
 
-![](<../../.gitbook/assets/3 (4) (1)>)
+![](<../../.gitbook/assets/3 (4) (1) (1)>)
 
 * **Show Values on Data Points:**&#x20;
 

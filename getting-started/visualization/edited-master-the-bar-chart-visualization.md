@@ -33,7 +33,7 @@ Step 2: After choosing your data, click on **Visualization** in the upper right 
 
 
 
-![The image above shows users where to find the Bar option under Visualization.](<../../.gitbook/assets/0 (6)>)
+![The image above shows users where to find the Bar option under Visualization.](<../../.gitbook/assets/0 (7)>)
 
 
 
@@ -53,7 +53,7 @@ Step 3: Click on Add another series to add a column or click on the x button nex
 
 
 
-![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../.gitbook/assets/2 (6)>)
+![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../.gitbook/assets/2 (8)>)
 
 
 
@@ -116,7 +116,7 @@ Step 3: Customize as desired using any of the options as described in the table 
 | Auto y-axis range                 | This option automates the range of your y-axis.                                                                                                                                                                                                                                                                                                                                              |
 | Use a split y-axis when necessary |                                                                                                                                                                                                                                                                                                                                                                                              |
 
-![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../.gitbook/assets/7 (6)>)
+![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../.gitbook/assets/7 (8)>)
 
 ### Labels <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
 

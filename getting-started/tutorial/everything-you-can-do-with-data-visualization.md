@@ -33,7 +33,7 @@ Step 3: Click on **Columns**.
 
 Step 4: Scroll all the way down and click on the **+** icon..
 
-![](<../../.gitbook/assets/0 (10)>)
+![](<../../.gitbook/assets/0 (10) (1)>)
 
 The gif above demonstrates how to add a column to your Table.
 
@@ -65,7 +65,7 @@ The gif above demonstrates how to remove an unwanted column from your Table.
 
 **Step 4:** Click and drag the columns up and down to change their order of appearance on the table. The results will be shown in real time in the table to the left as shown below.
 
-![](<../../.gitbook/assets/2 (7)>)
+![](<../../.gitbook/assets/2 (7) (1)>)
 
 The gif above demonstrates how to click and drag columns up and down in your Table to rearrange them.
 
@@ -93,7 +93,7 @@ The image above shows users what a Single-Colored Table looks like.
 
 **Color range:** If you want to show the value’s relative position in the range of values for a column (or multiple columns), use the color range option.
 
-![](<../../.gitbook/assets/5 (5)>)
+![](<../../.gitbook/assets/5 (5) (1)>)
 
 The image above shows users what a Color-Ranged Table looks like.
 

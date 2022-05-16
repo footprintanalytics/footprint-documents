@@ -17,7 +17,7 @@ In this article:
 
 The **Rose Chart** shows a more intense style for showing data percentage in one dimension. Each directional axis shows values increasing outwards
 
-![The gif above demonstrates what a Rose Chart would look like upon hovering over it.](<../../.gitbook/assets/0 (7)>)
+![The gif above demonstrates what a Rose Chart would look like upon hovering over it.](<../../.gitbook/assets/0 (8)>)
 
 Let’s go through the process of making our own Rose Chart using the Sum of Users from Different Chains.
 
@@ -61,7 +61,7 @@ In our case, we will be leaving the **Name** as default and changing the **Numer
 
 Step 6: Click on the **Display** tab next to **Data**. This is where you can set how your chart will be displayed.
 
-![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../.gitbook/assets/7 (5)>)
+![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../.gitbook/assets/7 (6)>)
 
 
 
@@ -87,7 +87,7 @@ Step 2: Click on DeFi from the list on the left on the screen, then select the d
 
 Step 3: Click on **Filter**. In this case, we are making a sum of tvl from three DeFi chains for yesterday. So, we choose **day,** then set it to **Previous 1 Day.** Click on **Add filter**.
 
-![The image above shows users where to find the day filter based on Step 4.](<../../.gitbook/assets/9 (2)>)
+![The image above shows users where to find the day filter based on Step 4.](<../../.gitbook/assets/9 (3)>)
 
 
 

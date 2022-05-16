@@ -17,7 +17,7 @@ In this article:
 
 Line Races are used for plotting data captured in several sequences.&#x20;
 
-![The gif above demonstrates an example of a line race as time goes by.](<../../.gitbook/assets/0 (8)>)
+![The gif above demonstrates an example of a line race as time goes by.](<../../.gitbook/assets/0 (9)>)
 
 Use case: **** Line Race - Comparison of Volumes
 
@@ -27,9 +27,9 @@ Step 2: Click on NFT from the list on the left. Select **nft-marketplaces-daily-
 
 Step 3: In this case, we will be making a comparison of the _trading volume of 3 NFT trading markets in the past 30 days_. Click on **Filter**, then click on **protocol\_name**. Search and select **OpenSea**, **X2Y2**, and **LooksRare**, then click **Add filter**.
 
-![The image above shows where to find the protocol\_name under Filter.](<../../.gitbook/assets/1 (12)>)
+![The image above shows where to find the protocol\_name under Filter.](<../../.gitbook/assets/1 (13)>)
 
-![The image above shows the three protocol\_names we will be using for our example.](<../../.gitbook/assets/2 (8)>)
+![The image above shows the three protocol\_names we will be using for our example.](<../../.gitbook/assets/2 (9)>)
 
 ![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../.gitbook/assets/3 (7)>)
 
@@ -51,7 +51,7 @@ Step 8: Click on the **Pick a column to group by** button. Select **protocol\_na
 
 Step 9: Click on **Visualize** on the bottom left corner of the screen.
 
-![The image above shows users how to summarize their data under the Advanced tab.](<../../.gitbook/assets/7 (7)>)
+![The image above shows users how to summarize their data under the Advanced tab.](<../../.gitbook/assets/7 (9)>)
 
 ![The gif above demonstrates Steps 7 and 8 in using the Summarize function.](<../../.gitbook/assets/8 (6)>)
 
