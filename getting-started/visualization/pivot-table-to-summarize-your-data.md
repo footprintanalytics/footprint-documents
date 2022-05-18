@@ -2,7 +2,7 @@
 description: Guide to Pivot Tables
 ---
 
-# Pivot Table to Summarize Your Data
+# Guide to Pivot Tables
 
 A pivot table is a data visualization tool that summarizes rows and columns of a table and lets you rotate (“pivot”) the columns to view those summaries in different ways. The summary rows are usually subtotals or grand totals, but they can also be other metrics such as averages and summations. This article will walk you through the creation and use case of a pivot table.
 

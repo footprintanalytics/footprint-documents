@@ -2,7 +2,7 @@
 description: A guide to creating, customizing, and visualizing a bar chart.
 ---
 
-# Edited Master the Bar Chart Visualization
+# Master the Bar Chart Visualization
 
 Bar charts are great for displaying a number grouped by a category.
 

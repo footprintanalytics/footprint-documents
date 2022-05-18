@@ -1,8 +1,4 @@
----
-description: Guide to Using Templates
----
-
-# How to Use Footprint by Template
+# Guide to Using Templates
 
 Footprint Analytics is a site packed with information that can get a little confusing at times when you’re just getting started. We have provided some free templates for users to get started with or even use for simplicity’s sake.
 
