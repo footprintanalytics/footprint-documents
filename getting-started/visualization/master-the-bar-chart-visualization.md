@@ -1,97 +1,134 @@
 ---
-description: Guide to create a bar chart and customize it with visualization settings.
+description: A guide to creating, customizing, and visualizing a bar chart.
 ---
 
-# Master the Bar Chart Visualization
+# Edited Master the Bar Chart Visualization
 
 Bar charts are great for displaying a number grouped by a category.
 
-With bar charts you can compare groups of data with just a glance. One axis specifies the groups, while the other will quantify their count. The goal is to show big differences between the groups.
+With bar charts you can compare groups of data with just a glance. One axis specifies the groups, while the other will quantify their count. The goal is to show big differences between the groups involved.
 
 In this article, we will use an example to talk about how to create and edit a bar chart.
 
-### **Create a Bar Chart** <a href="#guide-to-createabar-chart-and-customize-it-with-visualization-settings.-biao-ti-xia-mian-na-ju" id="guide-to-createabar-chart-and-customize-it-with-visualization-settings.-biao-ti-xia-mian-na-ju"></a>
+In this article:
 
-Create a new chart, after choosing the data, click on the **Visualization** button in the upper right and choose **Bar**.
+* Creating a Bar Chart
+* Bar Chart Settings
+  * Data
+  * Display
+    * Stack Bar Chart
+    * Setting a Goal
+    * Showing Values on Data Points
+    * Changing the Color of the Chart
+  * Axes
+  * Labels
 
-![](<../../.gitbook/assets/0 (2) (1)>)
+### Creating a Bar Chart <a href="#_7iigjcw5co5f" id="_7iigjcw5co5f"></a>
 
-### **Bar Chart settings** <a href="#_1cak7yv028o6" id="_1cak7yv028o6"></a>
+Bar Charts are some of the more common forms of charts. To create on with Footprint Analytics:
 
-To customize your bar chart, click on **Settings** to alter the chart and achieve your desired aesthetic.
+Step 1: Click on **Create** on the top right corner of the screen, then click **New Chart**.
 
-#### **Data** <a href="#_1moi5vqme9zl" id="_1moi5vqme9zl"></a>
+Step 2: After choosing your data, click on **Visualization** in the upper right corner and choose **Bar**.
 
-If your dataset has more columns, you could choose to add or remove different columns here.
 
-![](<../../.gitbook/assets/1 (4)>)
 
-#### **Display** <a href="#_ov717bw2t5g4" id="_ov717bw2t5g4"></a>
+![The image above shows users where to find the Bar option under Visualization.](<../../.gitbook/assets/0 (7)>)
 
-* **Stack Bar Chart**
 
-If the data you’re visualizing can be broken down into multiple categories within a whole, consider using a stacked bar chart. Stacked bar charts display these different data points in smaller bars that stack on top of each other, and are useful if you want a visual representation of how these parts make up a whole and how that whole compares to others. A 100% stacked bar chart is similar, but displays those parts as relative percentages, so every bar spans the entire y-axis.
 
-You can adjust this setting in the **Display** section of the **Settings sidebar**, by selecting **Stack** or **Stack - 100%**.
+### Bar Chart Settings <a href="#_tkhyysqivqek" id="_tkhyysqivqek"></a>
 
-![](<../../.gitbook/assets/2 (5) (1) (1)>)
+To customize your bar chart, click on **Settings**. There are four tabs you can use to customize your bar chart including Data, Display, Axes, and Labels. Data
 
-* **Set a Goal:** You can add a **goal line** that specifies where you want numbers to be.
+The data section is where you can set your data styles, such as add prefixes and suffixes, change your units of currency, and add and remove columns. Different data sets require different numbers of columns, to add or remove them:
 
-In this example, we add a goal line at 50000 and name it Goal1.
+Step 1: Click Setting next to Visualization.
 
-![](<../../.gitbook/assets/3 (4) (1) (1)>)
+Step 2: Click on Data.
 
-* **Show Values on Data Points:**&#x20;
+Step 3: Click on Add another series to add a column or click on the x button next to the undesired column to remove it.
 
-![](<../../.gitbook/assets/4 (3)>)
+![The gif demonstrates how to add and remove columns from your bar chart.](<../../.gitbook/assets/1 (2) (1)>)
 
-* **Change the Color of the Chart:**
 
-![](<../../.gitbook/assets/5 (1) (1)>)
 
-#### **Axes** <a href="#_ykoqxvm45xoj" id="_ykoqxvm45xoj"></a>
+![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../.gitbook/assets/2 (8) (1)>)
 
-Here you can adjust the scale of the x and y axes. For the x-axis, you can select either time series or ordinal scales. Time series will limit the number of values displayed, whereas the ordinal scale will list each value in the series along the x axis. Use an ordinal scale if you’re plotting steps in a sequence.
 
-For the y-axis, you can select linear (the default), or power or log scales. Logarithmic scales are great for showing the rate of change over time, especially when your data has an exponential rise or decay.
 
-Select Axes in the Settings sidebar.Here you can specify how you want your table organized.
+### Display <a href="#_ov717bw2t5g4" id="_ov717bw2t5g4"></a>
 
-Y-axis gives three options:
+#### Stack Bar Chart <a href="#_22xu2q361hgw" id="_22xu2q361hgw"></a>
 
-1. Linear
-2. Power
-3. Log
+If the data you’re visualizing can be broken down into multiple categories within a whole, consider using a **Stacked Bar Chart**. Stacked bar charts display these different data points in smaller bars that stack on top of each other, and are useful if you want a visual representation of how these parts make up a whole and how that whole compares to others. A **100% stacked bar chart** is similar, but displays those parts as relative percentages, so every bar takes up the entire y-axis.
 
-The linear option is selected automatically and for our example provides the most accurate representation of our data, so we’ll keep it.
+To adjust this setting:
 
-![](<../../.gitbook/assets/6 (2) (1)>)
+Step 1: Click on Setting. **Display**.
 
-With the **Show lines and marks** options you can change the way the categories and quantities are represented on each axis. The options for the y-axis are Hide, Show and Compact, while the x-axis has several more:
+Step 2: Click on **Display.**
 
-1. Hide
-2. Show
-3. Compact
-4. Rotate 45˚
-5. Rotate 90˚
+Step 3: Click on **Stack** or **Stack - 100%**.
 
-![](<../../.gitbook/assets/7 (2) (1)>)
+![](<../../.gitbook/assets/3 (12)>)
 
-And you can click **Auto y-axis range** or **Use a split y-axis when necessary** to change the chart **** if you need.
+#### Setting a Goal <a href="#_cb9x1evmtu7k" id="_cb9x1evmtu7k"></a>
 
-![](<../../.gitbook/assets/8 (1) (1)>)
+You can add a G**oal line** that specifies where you want your numbers to be in this section as well. Just toggle the button under the same Display tab.
 
-#### **Labels** <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
+In this example, we will be adding a goal line of 50000 and labeling it Goal1.
 
-Select the **Labels** in the **Settings sidebar**.
+![](<../../.gitbook/assets/4 (2)>)
 
-Here, you can choose to show labels or not, or use the text boxes to enter the desired label for each axis.In this example, we show the label on x-axis to name and label on y-axis to volume.
+The image above shows users where the Goal line toggle is, where we are putting our value, where we can change the label, and where the results show on the chart.
 
-![](<../../.gitbook/assets/9 (1)>)
+#### Showing Values on Data Points <a href="#_ju1evah74u9q" id="_ju1evah74u9q"></a>
 
-Tips: It may take some back-and-forth to figure out which display settings are suitable for your data, so try a few different options to see what works best for you.
+The Show values on data points option displays each bar’s numbers on top of their corresponding bars. The toggle for it can be found under the Goal line settings in the same Display tab.
 
-Does this article work for you? If you have more advice and feedback for this tutorial, please feel free to give us your feedback in the community or contact us on Twitter or Telegram, we will try to do more and better.&#x20;
+![](<../../.gitbook/assets/5 (3)>)
 
-Click and tell us your idea! [Discord](https://discord.com/invite/3HYaR6USM7) [Twitter](https://twitter.com/Footprint\_DeFi) [Telegram](https://t.me/joinchat/4-ocuURAr2thODFh)
+#### The image above shows users where they can find data point settings and where those values can be seen on the bar chart. <a href="#_ju1evah74u9q" id="_ju1evah74u9q"></a>
+
+#### Changing the Color of the Chart <a href="#_mxmvajt6qi9i" id="_mxmvajt6qi9i"></a>
+
+To further personalize your bar chart, you can even change the color of your bars. Right under the **Show values on data points** settings, you can click on the colored box and select a color to change it into from the pop-up menu. You can also click on the downward arrow icon next to it to reveal more color options.
+
+![](<../../.gitbook/assets/6 (7) (1)>)
+
+### Axes <a href="#_ykoqxvm45xoj" id="_ykoqxvm45xoj"></a>
+
+You can adjust the scale of the x and y axes, to do so:
+
+Step 1: Click Display.
+
+Step 2: Click Axes.
+
+Step 3: Customize as desired using any of the options as described in the table below.
+
+| Customizable Options              | Description                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| X-axis scale                      | This option lets you choose between time series, which will limit the number of values displayed, or ordinal scales, which will list each value in the series along the x axis (this is great for if you’re plotting steps in a sequence).                                                                                                                                                   |
+| Y-axis scale                      | This option lets you choose between linear, power, or log scales. The linear option is selected automatically and for our example, provides the most accurate representation of our data. The power option gives more details while the log option gives the most details and is great for showing the rate of change over time, especially when your data has an exponential rise or decay. |
+| Show x-axis line and marks        | This option lets you change the way the categories and quantities are represented on each axis. The options for the x-axis include Hide, Show, Compact, Rotate 45˚, and Rotate 90˚.                                                                                                                                                                                                          |
+| Show y-axis line and marks        | This option lets you change the way the categories and quantities are represented on each axis. The options for the y-axis are Hide, Show and Compact.                                                                                                                                                                                                                                       |
+| Auto y-axis range                 | This option automates the range of your y-axis.                                                                                                                                                                                                                                                                                                                                              |
+| Use a split y-axis when necessary |                                                                                                                                                                                                                                                                                                                                                                                              |
+
+![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../.gitbook/assets/7 (8)>)
+
+### Labels <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
+
+The Labels section is where you can choose to show labels or not. To set your labels:
+
+Step 1: Click on Setting.
+
+Step 2: Click on Labels.
+
+Step 3: Toggle on or off your labels for your x and y axes as needed. In this example, we named the label on the x-axis as **name** and named the label on the y-axis as **volume** using the fields underneath each option to customize our labels for each axis.
+
+![The image above shows users where to find the label toggles and where they show up on the chart.](../../.gitbook/assets/8)
+
+It may take some back-and-forth to figure out which display settings are suitable for your data. Go ahead and try a few different options to see what works best for you [here](https://www.footprint.network/dashboards).
+
