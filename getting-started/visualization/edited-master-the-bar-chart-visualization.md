@@ -49,11 +49,11 @@ Step 2: Click on Data.
 
 Step 3: Click on Add another series to add a column or click on the x button next to the undesired column to remove it.
 
-![The gif demonstrates how to add and remove columns from your bar chart.](<../../.gitbook/assets/1 (2)>)
+![The gif demonstrates how to add and remove columns from your bar chart.](<../../.gitbook/assets/1 (2) (1)>)
 
 
 
-![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../.gitbook/assets/2 (8)>)
+![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../.gitbook/assets/2 (8) (1)>)
 
 
 
@@ -95,7 +95,7 @@ The Show values on data points option displays each bar’s numbers on top of th
 
 To further personalize your bar chart, you can even change the color of your bars. Right under the **Show values on data points** settings, you can click on the colored box and select a color to change it into from the pop-up menu. You can also click on the downward arrow icon next to it to reveal more color options.
 
-![](<../../.gitbook/assets/6 (7)>)
+![](<../../.gitbook/assets/6 (7) (1)>)
 
 ### Axes <a href="#_ykoqxvm45xoj" id="_ykoqxvm45xoj"></a>
 

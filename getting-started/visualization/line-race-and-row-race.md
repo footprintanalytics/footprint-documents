@@ -31,7 +31,7 @@ Step 3: In this case, we will be making a comparison of the _trading volume of 3
 
 ![The image above shows the three protocol\_names we will be using for our example.](<../../.gitbook/assets/2 (9)>)
 
-![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../.gitbook/assets/3 (7)>)
+![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../.gitbook/assets/3 (7) (1)>)
 
 Step 4: Click on **Filter**, and this time click on **day**.
 
@@ -67,7 +67,7 @@ Y-axis = sum of volume;
 
 Category = protocol-name.
 
-![The image above shows how our completed Line Race chart would look like.](<../../.gitbook/assets/10 (6)>)
+![The image above shows how our completed Line Race chart would look like.](<../../.gitbook/assets/10 (6) (1)>)
 
 _**Note**: The Line Race chart is only available for membership holders._
 
@@ -89,11 +89,11 @@ Step 2: Select the data **defi-daily-stats** under the **DeFi** drop-down list f
 
 Step 3: In this case, we will be making a comparison of the sum of TVL using 10 chains after March 31, 2021. Click on **Filter** on the top right corner, and then click on **chain**. Search and select the **chains Heco, Solana, PolyNetwork, Tron, Fantom, Stacks, Kava, Avalanche, Optimism,** and **Celo.**
 
-![The image above shows users where to find the chain filter based on Step 3.](<../../.gitbook/assets/12 (5)>)
+![The image above shows users where to find the chain filter based on Step 3.](<../../.gitbook/assets/12 (5) (1)>)
 
 Step 4: Click on **Filter**, and then day. Select **After** and choose **May 31, 2021** for our example.
 
-![The image above shows users where the day filter from Step 4 can be found.](<../../.gitbook/assets/13 (4)>)
+![The image above shows users where the day filter from Step 4 can be found.](<../../.gitbook/assets/13 (4) (1)>)
 
 ![The image above shows users where to select their desired date using the calendar based on Step 4.](../../.gitbook/assets/14)
 

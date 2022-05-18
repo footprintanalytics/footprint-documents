@@ -30,7 +30,7 @@ _**Note**: Dashboards and charts are not shareable in editing mode. Ensure you h
 
 Step 2: Choose either **Public link** or **Public embed**. The descriptions can be found in the image below. Once you have chosen one, click on the **Copy icon** to the right of the link. Make sure you paste the link where you would like it before copying anything else. You can even share via any of the four social media platforms Facebook, Twitter, Telegram or LinkedIn by clicking on their respective **logos**.
 
-![](<../../.gitbook/assets/2 (8) (1)>)
+![](<../../.gitbook/assets/2 (8) (1) (1)>)
 
 The image above defines a public link and a public embed and shows users where the copy icon and social media logos are located.
 

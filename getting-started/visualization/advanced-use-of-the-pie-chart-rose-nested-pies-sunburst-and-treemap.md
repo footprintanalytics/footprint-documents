@@ -61,7 +61,7 @@ In our case, we will be leaving the **Name** as default and changing the **Numer
 
 Step 6: Click on the **Display** tab next to **Data**. This is where you can set how your chart will be displayed.
 
-![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../.gitbook/assets/7 (6)>)
+![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../.gitbook/assets/7 (6) (1)>)
 
 
 

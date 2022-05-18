@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [🤲 Tutorials](getting-started/tutorial/README.md)
+  * [Get Started with Footprint Analytics](getting-started/tutorial/get-started-with-footprint-analytics.md)
   * [Get Started with Creating a Chart](getting-started/tutorial/get-started-with-creating-a-chart.md)
   * [Visualize Your Data with Different Charts](getting-started/tutorial/visualize-your-data-with-different-charts.md)
   * [Everything You Can Do With Data Visualization](getting-started/tutorial/everything-you-can-do-with-data-visualization.md)

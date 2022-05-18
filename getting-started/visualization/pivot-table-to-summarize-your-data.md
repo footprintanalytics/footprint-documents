@@ -51,7 +51,7 @@ The gif above demonstrates Steps 3 and 4.
 
 Step 5: Click **Advanced** on the top right corner, and click on Summarize. Click on the **Pick the metric you want to see** button and select **Sum of tvl**. Click on Pick a column to group by button and select **chain,** then **day**, **** and **protocol\_name**.
 
-![](<../../.gitbook/assets/5 (5)>)
+![](<../../.gitbook/assets/5 (5) (1)>)
 
 The image above shows Step 5 of clicking Advanced and Summarize.
 
@@ -73,7 +73,7 @@ Fields to use for the table columns = day;
 
 Fields to use for the table values = Sum of tvl;
 
-![](<../../.gitbook/assets/8 (2)>)
+![](<../../.gitbook/assets/8 (2) (1)>)
 
 The gif above demonstrates Step 6 of clicking Visualize and selecting Pivot Table.
 

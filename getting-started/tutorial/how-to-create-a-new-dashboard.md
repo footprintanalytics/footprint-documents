@@ -57,7 +57,7 @@ The image above shows where the **My charts** tab is.
 
 Step 7: You can also search for a specific chart by name or by its URL link in the **search box**.
 
-![](<../../.gitbook/assets/7 (6) (1)>)
+![](<../../.gitbook/assets/7 (6) (1) (1)>)
 
 The image above shows where the **Search box** is.
 

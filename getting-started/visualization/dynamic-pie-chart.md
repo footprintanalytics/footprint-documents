@@ -13,7 +13,7 @@ In this article:
 
 In a Dynamic Pie Chart, you can see how a metric's value changes over time, as well as how the metric's distribution changes. Instead of creating a new pie chart every day, you can examine how the values and pie charts evolve over time.
 
-![](<../../.gitbook/assets/0 (12)>)
+![](<../../.gitbook/assets/0 (12) (1)>)
 
 The gif above demonstrates what a Dynamic Pie Chart looks like.
 

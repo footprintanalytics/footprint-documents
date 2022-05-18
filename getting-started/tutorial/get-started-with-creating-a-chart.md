@@ -65,7 +65,7 @@ The gif above demonstrates how to save a chart as shown in Steps 7 and 8.
 
 Then, the chart is done. You can access charts you’ve made under **My Analytics** at the top of your screen. Click on **Chart** and **Select** your chart.
 
-![](<../../.gitbook/assets/9 (4)>)
+![](<../../.gitbook/assets/9 (4) (1)>)
 
 The image above shows users where to find any charts they have created.
 

@@ -135,7 +135,7 @@ The gif above shows users how the values change over time in the graph as reflec
 
 If you need to show how a number changes over time, and show the composition of that number at each interval, then consider using a [**Stacked Area Chart** or **Stacked Bar Chart**](https://docs.footprint.network/getting-started/visualization/area).
 
-![](<../../.gitbook/assets/11 (4)>)
+![](<../../.gitbook/assets/11 (4) (1)>)
 
 The above image is an example of a Stacked Bar Chart.
 

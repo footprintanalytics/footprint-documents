@@ -87,13 +87,13 @@ You can highlight cells or rows based on the values they contain, which makes it
 
 **Single Color:** When you want to color cells based on if the value in those cells meets a certain criteria, use the single color option.
 
-![](<../../.gitbook/assets/4 (6)>)
+![](<../../.gitbook/assets/4 (6) (1)>)
 
 The image above shows users what a Single-Colored Table looks like.
 
 **Color range:** If you want to show the value’s relative position in the range of values for a column (or multiple columns), use the color range option.
 
-![](<../../.gitbook/assets/5 (5) (1)>)
+![](<../../.gitbook/assets/5 (5) (1) (1)>)
 
 The image above shows users what a Color-Ranged Table looks like.
 
