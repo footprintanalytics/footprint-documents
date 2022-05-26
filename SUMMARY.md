@@ -12,6 +12,7 @@
   * [How to Create a New Dashboard](getting-started/tutorial/how-to-create-a-new-dashboard.md)
   * [Share Your Dashboards](getting-started/tutorial/share-your-dashboards.md)
   * [Four Steps to Embed Public Link](getting-started/tutorial/four-steps-to-embed-public-link.md)
+  * [How to create native query](getting-started/tutorial/how-to-create-native-query.md)
 * [📊 Visualization Charts](getting-started/visualization/README.md)
   * [Guide to Line Chart](getting-started/visualization/guide-to-line-chart.md)
   * [Number Visualization and Trend Chart](getting-started/visualization/number-visualization-and-trend-chart.md)
