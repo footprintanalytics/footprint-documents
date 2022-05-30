@@ -28,19 +28,10 @@
 
 ## DATA DICTIONARY
 
-* [Overview](data-dictionary/overview.md)
-* [Roadmap](data-dictionary/roadmap.md)
+* [📒 Overview](data-dictionary/overview.md)
+* [📑 Roadmap](data-dictionary/roadmap.md)
+* [📖 Dictionary](data-dictionary/dictionary.md)
 * [🧿 Data Features](data-dictionary/data-features.md)
-* [⛓ Ethereum Data](data-dictionary/ethereum-data.md)
-* [🪙 Token Data](data-dictionary/token-data.md)
-* [🔀 DeFi](data-dictionary/defi.md)
-* [💱 DEX Data](data-dictionary/data-tables.md)
-* [🔁 Lending Data](data-dictionary/lending-data.md)
-* [🏊♂ Pools Data](data-dictionary/pools-data.md)
-* [🖼 NFT Data](data-dictionary/nft-data.md)
-* [🎮 GameFi Data](data-dictionary/gamefi-data.md)
-* [🎭 Social Data](data-dictionary/social-data.md)
-* [🧑🌾 Yield Aggregator Data](data-dictionary/yield-aggregator-data.md)
 
 ***
 
