@@ -35,7 +35,8 @@
 
 ***
 
-* [WEEKLY UPDATES](weekly-updates.md)
+* [WEEKLY UPDATES](weekly-updates/README.md)
+  * [🛠 Changelog](weekly-updates/changelog.md)
 * [PRICING](https://www.footprint.network/pricing)
 
 ## Community
@@ -48,5 +49,5 @@
 ## RESOURCES
 
 * [🐾 Press Kit](resources/press-kit.md)
-* [🛠 Changelog](resources/changelog/README.md)
-  * [May 27, 2022](resources/changelog/may-27-2022.md)
+* [🛠 Changelog](changelog/README.md)
+  * [May 27, 2022](changelog/may-27-2022.md)
