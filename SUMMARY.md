@@ -59,3 +59,4 @@
 
 * [🛠 Changelog](changelog/README.md)
   * [May 27, 2022](changelog/may-27-2022.md)
+  * [May 30, 2022](changelog/may-30-2022.md)
