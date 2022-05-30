@@ -31,10 +31,13 @@
 * [📒 Overview](data-dictionary/overview.md)
 * [📑 Roadmap](data-dictionary/roadmap.md)
 * [📖 Dictionary](data-dictionary/dictionary.md)
-* [🧿 Data Features](data-dictionary/data-features.md)
+* [🧿 Data Features](data-tables/data-features.md)
 
 ***
 
+* [WEEKLY UPDATES](weekly-updates/README.md)
+  * [🛠 Changelog](weekly-updates/changelog/README.md)
+    * [May 27, 2022](weekly-updates/changelog/may-27-2022.md)
 * [PRICING](https://www.footprint.network/pricing)
 
 ## Community
@@ -47,8 +50,3 @@
 ## RESOURCES
 
 * [🐾 Press Kit](resources/press-kit.md)
-
-***
-
-* [🛠 Changelog](changelog/README.md)
-  * [May 27, 2022](changelog/may-27-2022.md)
