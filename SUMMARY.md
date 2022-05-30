@@ -26,19 +26,21 @@
 * [💡 Use Case](getting-started/use-case/README.md)
   * [Use Case](getting-started/use-case/use-case.md)
 
-## DATA TABLES
+## DATA DICTIONARY
 
-* [🧿 Data Features](data-tables/data-features.md)
-* [⛓ Ethereum Data](data-tables/ethereum-data.md)
-* [🪙 Token Data](data-tables/token-data.md)
-* [🔀 DeFi](data-tables/defi.md)
-* [💱 DEX Data](data-tables/data-tables.md)
-* [🔁 Lending Data](data-tables/lending-data.md)
-* [🏊♂ Pools Data](data-tables/pools-data.md)
-* [🖼 NFT Data](data-tables/nft-data.md)
-* [🎮 GameFi Data](data-tables/gamefi-data.md)
-* [🎭 Social Data](data-tables/social-data.md)
-* [🧑🌾 Yield Aggregator Data](data-tables/yield-aggregator-data.md)
+* [Overview](data-dictionary/overview.md)
+* [Roadmap](data-dictionary/roadmap.md)
+* [🧿 Data Features](data-dictionary/data-features.md)
+* [⛓ Ethereum Data](data-dictionary/ethereum-data.md)
+* [🪙 Token Data](data-dictionary/token-data.md)
+* [🔀 DeFi](data-dictionary/defi.md)
+* [💱 DEX Data](data-dictionary/data-tables.md)
+* [🔁 Lending Data](data-dictionary/lending-data.md)
+* [🏊♂ Pools Data](data-dictionary/pools-data.md)
+* [🖼 NFT Data](data-dictionary/nft-data.md)
+* [🎮 GameFi Data](data-dictionary/gamefi-data.md)
+* [🎭 Social Data](data-dictionary/social-data.md)
+* [🧑🌾 Yield Aggregator Data](data-dictionary/yield-aggregator-data.md)
 
 ***
 
