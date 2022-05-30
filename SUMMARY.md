@@ -35,9 +35,7 @@
 
 ***
 
-* [WEEKLY UPDATES](weekly-updates/README.md)
-  * [🛠 Changelog](weekly-updates/changelog.md)
-* [PRICING](https://www.footprint.network/pricing)
+* [🏷 PRICING](https://www.footprint.network/pricing)
 
 ## Community
 
