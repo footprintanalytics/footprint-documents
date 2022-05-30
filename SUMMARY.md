@@ -33,6 +33,11 @@
 * [📖 Dictionary](data-dictionary/dictionary.md)
 * [🧿 Data Features](data-tables/data-features.md)
 
+## WEEKLY UPDATES
+
+* [🛠 Changelog](weekly-updates/changelog/README.md)
+  * [May 27, 2022](weekly-updates/changelog/may-27-2022.md)
+
 ***
 
 * [🏷 PRICING](https://www.footprint.network/pricing)
@@ -47,5 +52,3 @@
 ## RESOURCES
 
 * [🐾 Press Kit](resources/press-kit.md)
-* [🛠 Changelog](changelog/README.md)
-  * [May 27, 2022](changelog/may-27-2022.md)
