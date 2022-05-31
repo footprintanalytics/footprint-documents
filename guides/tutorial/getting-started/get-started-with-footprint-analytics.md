@@ -4,6 +4,10 @@ description: 'Footprint: The First No-Code Data Analytics Platform in the Crypto
 
 # Get Started with Footprint Analytics
 
+{% embed url="https://www.youtube.com/watch?v=sYTKKrOjUcc" %}
+Footprint shows you the blockchain as you’ve never seen it before. Live, interactive, and easy to understand.
+{% endembed %}
+
 #### How to search and view dashboard on Footprint Analytics（Viewer） <a href="#_jcpbdw4h9t52" id="_jcpbdw4h9t52"></a>
 
 Quick search for community dashboards, charts, and articles.
