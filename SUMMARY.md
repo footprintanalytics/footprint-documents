@@ -8,6 +8,7 @@
   * [Getting Started](guides/tutorial/getting-started/README.md)
     * [Get Started with Footprint Analytics](guides/tutorial/getting-started/get-started-with-footprint-analytics.md)
   * [Create a Chart With 0 Code](guides/tutorial/create-a-chart-with-0-code/README.md)
+    * [How to use Footprint to do cross-chain analysis of on-chain and off-chain data?](guides/tutorial/create-a-chart-with-0-code/how-to-use-footprint-to-do-cross-chain-analysis-of-on-chain-and-off-chain-data.md)
     * [Get Started with Creating a Chart](guides/tutorial/create-a-chart-with-0-code/get-started-with-creating-a-chart.md)
     * [Visualize Your Data with Different Charts](guides/tutorial/create-a-chart-with-0-code/visualize-your-data-with-different-charts.md)
     * [Everything You Can Do With Data Visualization](guides/tutorial/create-a-chart-with-0-code/everything-you-can-do-with-data-visualization.md)
