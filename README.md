@@ -59,6 +59,12 @@ Our solution for visualizating data lets you analyze the market and present your
 
 ## Footprint Analytics News
 
+#### Footprint Analytics Grows Funding to $4.15 Million in Seed Plus Round
+
+Footprint Analytics **** has closed a $2.65 million Seed Plus round led by Matrix Partners and joined by Redpoint, A\&T Capital, Hash Global, Waterdrip Capital, Lancer Capital, and Dual Epoch Capital, bringing its total fundraising to $4.15 million after a previous round led by IOSG.
+
+****
+
 **Footprint Analytics Raises $1.5 Million to Build Accessible Cross-Chain Analytics Tool**
 
 Footprint Analytics, which closed a $1.5 million seed round led by IOSG Ventures, aims to make cross-chain analytics possible for everyone. Joined by NGC, Arkstream, Youbi, SevenX Ventures, Puzzle, and angels Jary Ngan (Delphi Digital) and Avi Zurlo (Delphi Digital), the funding round will be used to ramp up marketing and cover more chains as well as protocols.
