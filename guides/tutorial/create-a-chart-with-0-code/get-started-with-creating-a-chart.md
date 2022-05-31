@@ -1,5 +1,9 @@
 # Get Started with Creating a Chart
 
+{% embed url="https://www.youtube.com/watch?v=b--MaI1tAZc" %}
+Footprint Tutorial | 3 ways to use Footprint to make a chart
+{% endembed %}
+
 Footprint Analytics is a simple and powerful online tool that allows anyone to analyze on-chain data without technical requirements.
 
 The first step to starting an analysis is to create a basic chart.This guide will help you create a visual chart on Footprint Analytics using 2 basic examples.
