@@ -1,5 +1,9 @@
 # Guide to Using Templates
 
+{% embed url="https://www.youtube.com/watch?index=18&list=UUKwZbKyuhWveetGhZcNtSTg&v=vP9XImaZVQk" %}
+How to Read GameFi Data Using Footprint
+{% endembed %}
+
 Footprint Analytics is a site packed with information that can get a little confusing at times when you’re just getting started. We have provided some free templates for users to get started with or even use for simplicity’s sake.
 
 In this article:
