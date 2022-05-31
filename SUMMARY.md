@@ -12,7 +12,7 @@
     * [Visualize Your Data with Different Charts](guides/tutorial/create-a-chart-with-0-code/visualize-your-data-with-different-charts.md)
     * [Everything You Can Do With Data Visualization](guides/tutorial/create-a-chart-with-0-code/everything-you-can-do-with-data-visualization.md)
     * [Four Steps to Embed Public Link](guides/tutorial/create-a-chart-with-0-code/four-steps-to-embed-public-link.md)
-  * [Cross-chain analysis of on-chain and off-chain data?](guides/tutorial/cross-chain-analysis-of-on-chain-and-off-chain-data.md)
+    * [Cross-chain analysis of on-chain and off-chain data](guides/tutorial/create-a-chart-with-0-code/cross-chain-analysis-of-on-chain-and-off-chain-data.md)
   * [Organize a Dashboard](guides/tutorial/organize-a-dashboard/README.md)
     * [How to Create a New Dashboard](guides/tutorial/organize-a-dashboard/how-to-create-a-new-dashboard.md)
     * [Share Your Dashboards](guides/tutorial/organize-a-dashboard/share-your-dashboards.md)
