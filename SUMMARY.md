@@ -36,7 +36,7 @@
 * [📔 Overview](data-dictionary/overview.md)
 * [📑 Roadmap](data-dictionary/roadmap.md)
 * [📖 Dictionary](data-dictionary/dictionary.md)
-* [🧿 Data Features](data-tables/data-features.md)
+* [📓 Data Features](data-dictionary/data-features.md)
 
 ## WEEKLY UPDATES
 
