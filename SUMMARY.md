@@ -41,6 +41,7 @@
 ## WEEKLY UPDATES
 
 * [🛠 Changelog](weekly-updates/changelog/README.md)
+  * [June 2,2022](weekly-updates/changelog/june-2-2022.md)
   * [May 27, 2022](changelog/may-27-2022.md)
 
 ***
