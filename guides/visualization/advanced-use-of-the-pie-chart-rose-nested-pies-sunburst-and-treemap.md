@@ -29,7 +29,7 @@ Step 2: Click on GameFi from the list on the left of the screen, then select the
 
 Step 3: Click **Filter**. In this case, we will be focusing on a sum of users from different gamefi chains for the previous 7 days. So, click day and set the filter to **Previous 7 Days**. Click **Add filter**.
 
-![The image above shows users where to find the day option under Filter based on Step 3.](<../../.gitbook/assets/1 (3)>)
+![The image above shows users where to find the day option under Filter based on Step 3.](<../../.gitbook/assets/1 (3) (1)>)
 
 
 

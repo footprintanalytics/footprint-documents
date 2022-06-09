@@ -21,7 +21,7 @@ Use Case 1:Using a filter box to get a new dashboard
 
 Step 1: Click on the bar on the top left corner. For this example, we will be using the GameFi template, so ours will be called **GameFi Name**. It should already have **my-defi-pet** written under it. In our case, replace the filter with **starsharks,** then click Update.
 
-![](<../../.gitbook/assets/0 (6)>)
+![](<../../.gitbook/assets/0 (6) (1)>)
 
 The image above shows where to replace the pre-existing filter with another GameFi name.
 

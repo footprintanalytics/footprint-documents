@@ -31,7 +31,7 @@ Step 2: Select **New Chart**.
 
 The image above shows users where to find the New Chart option.
 
-![](<../../../.gitbook/assets/2 (4)>)
+![](<../../../.gitbook/assets/2 (4) (1)>)
 
 The gif above demonstrates how to make a new chart based on Steps 1 and 2.
 

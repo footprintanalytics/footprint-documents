@@ -13,7 +13,7 @@ In this article:
 * Trends Chart
   * The Use Case of Trends Chart
 
-![](<../../.gitbook/assets/0 (6) (1)>)
+![](<../../.gitbook/assets/0 (6) (1) (1)>)
 
 The image above shows what a Number Visualization and Trend Chart looks like.
 

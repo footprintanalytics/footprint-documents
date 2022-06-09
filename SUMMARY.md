@@ -58,3 +58,8 @@
 ## RESOURCES
 
 * [🐾 Press Kit](resources/press-kit.md)
+
+***
+
+* [API](api/README.md)
+  * [Upload Data to Footprint By Using the API](api/upload-data-to-footprint-by-using-the-api.md)
