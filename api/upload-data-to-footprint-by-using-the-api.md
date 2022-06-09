@@ -39,7 +39,7 @@ Add the authentication: auth key to the header, for example:
 2. Use POST method to send requests;
 3. The data return format uses JSON format.
 
-### **Step4: Upload yourdata**
+### **Step4: Upload your data**
 
 1. **Add custom data**
    * Interface name
