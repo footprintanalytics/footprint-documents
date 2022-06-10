@@ -31,7 +31,7 @@ Footprint Analytics gets logs directly from chains and parses the contracts:
 
 Data you can explore on Footprint Analytics currently:
 
-1.  16 Chains: **Ethereum, BNB Chain, Polygon, Avalanche, Fantom, Arbitrum,Celo, Harmony , loTeX, DFK Chain, Hive, Moonriver, Moonbeam, Boba , Solana and ThunderCore.** &#x20;
+1.  17 Chains: **Ethereum, BNB Chain, Polygon, Avalanche, Fantom, Arbitrum,Celo, Harmony , loTeX, DFK Chain, Hive, Moonriver, Moonbeam, Boba , Solana, Hoo Smart Chain and ThunderCore.** &#x20;
 
 
 2. Multiple fields data: **NFT, GameFi, DeFi**
