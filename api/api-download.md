@@ -99,7 +99,7 @@
 ### Get the detail daily stats of each NFT Collection
 Method: post  
 Path: /api/nft/nft_collection_daily_stats  
-Header: 'FP-API-KEY: YOUR_ACCESSKEY'    
+Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
@@ -156,7 +156,7 @@ Result
 ### Get information of nft collection
 Method: post  
 Path: /api/nft/nft_collection_info  
-Header: 'FP-API-KEY: YOUR_ACCESSKEY'    
+Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
@@ -192,7 +192,7 @@ Result
 ### Get the metrics for different nft
 Method: post  
 Path: /api/nft/nft_latest_stats  
-Header: 'FP-API-KEY: YOUR_ACCESSKEY'    
+Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
@@ -242,7 +242,7 @@ Result
 ### Get the transactions of different nft series
 Method: post  
 Path: /api/nft/nft_transactions  
-Header: 'FP-API-KEY: YOUR_ACCESSKEY'    
+Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
