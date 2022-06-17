@@ -54,6 +54,6 @@ The gif above demonstrates a series being highlighted upon hovering over its lab
 
 When you hover over the data on the chart, you can see the detailed information pop out from it.
 
-![](<../../.gitbook/assets/3 (2) (1)>)
+![](<../../.gitbook/assets/3 (2) (1) (2)>)
 
 The gif above demonstrates additional details popping out from the data being hovered upon in the chart. Continue exploring Line Charts and other graphs and settings [here](https://www.footprint.network/dashboards).

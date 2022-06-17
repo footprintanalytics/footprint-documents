@@ -63,4 +63,4 @@
 ## API
 
 * [Upload Data to Footprint By Using the API](api/upload-data-to-footprint-by-using-the-api.md)
-* [API Download](api/api-download.md)
+* [Download Data From Footprint By Using the API](api/api-download.md)

@@ -33,7 +33,7 @@ Step 2: After choosing your data, click on **Visualization** in the upper right 
 
 
 
-![The image above shows users where to find the Bar option under Visualization.](<../../.gitbook/assets/0 (2) (1)>)
+![The image above shows users where to find the Bar option under Visualization.](<../../.gitbook/assets/0 (7)>)
 
 
 
@@ -49,7 +49,7 @@ Step 2: Click on Data.
 
 Step 3: Click on Add another series to add a column or click on the x button next to the undesired column to remove it.
 
-![The gif demonstrates how to add and remove columns from your bar chart.](<../../.gitbook/assets/1 (4)>)
+![The gif demonstrates how to add and remove columns from your bar chart.](<../../.gitbook/assets/1 (2) (1)>)
 
 
 
@@ -71,7 +71,7 @@ Step 2: Click on **Display.**
 
 Step 3: Click on **Stack** or **Stack - 100%**.
 
-![](<../../.gitbook/assets/2 (5) (1) (1)>)
+![](<../../.gitbook/assets/3 (12)>)
 
 #### Setting a Goal <a href="#_cb9x1evmtu7k" id="_cb9x1evmtu7k"></a>
 
@@ -79,7 +79,7 @@ You can add a G**oal line** that specifies where you want your numbers to be in 
 
 In this example, we will be adding a goal line of 50000 and labeling it Goal1.
 
-![](<../../.gitbook/assets/3 (4) (1) (1)>)
+![](<../../.gitbook/assets/4 (2)>)
 
 The image above shows users where the Goal line toggle is, where we are putting our value, where we can change the label, and where the results show on the chart.
 
@@ -87,7 +87,7 @@ The image above shows users where the Goal line toggle is, where we are putting 
 
 The Show values on data points option displays each bar’s numbers on top of their corresponding bars. The toggle for it can be found under the Goal line settings in the same Display tab.
 
-![](<../../.gitbook/assets/4 (3)>)
+![](<../../.gitbook/assets/5 (3)>)
 
 #### The image above shows users where they can find data point settings and where those values can be seen on the bar chart. <a href="#_ju1evah74u9q" id="_ju1evah74u9q"></a>
 
@@ -95,7 +95,7 @@ The Show values on data points option displays each bar’s numbers on top of th
 
 To further personalize your bar chart, you can even change the color of your bars. Right under the **Show values on data points** settings, you can click on the colored box and select a color to change it into from the pop-up menu. You can also click on the downward arrow icon next to it to reveal more color options.
 
-![](<../../.gitbook/assets/5 (1) (1)>)
+![](<../../.gitbook/assets/6 (7) (1)>)
 
 ### Axes <a href="#_ykoqxvm45xoj" id="_ykoqxvm45xoj"></a>
 
@@ -116,7 +116,7 @@ Step 3: Customize as desired using any of the options as described in the table 
 | Auto y-axis range                 | This option automates the range of your y-axis.                                                                                                                                                                                                                                                                                                                                              |
 | Use a split y-axis when necessary |                                                                                                                                                                                                                                                                                                                                                                                              |
 
-![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../.gitbook/assets/8 (1) (1)>)
+![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../.gitbook/assets/7 (8)>)
 
 ### Labels <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
 
@@ -128,7 +128,7 @@ Step 2: Click on Labels.
 
 Step 3: Toggle on or off your labels for your x and y axes as needed. In this example, we named the label on the x-axis as **name** and named the label on the y-axis as **volume** using the fields underneath each option to customize our labels for each axis.
 
-![The image above shows users where to find the label toggles and where they show up on the chart.](<../../.gitbook/assets/9 (1)>)
+![The image above shows users where to find the label toggles and where they show up on the chart.](../../.gitbook/assets/8)
 
 It may take some back-and-forth to figure out which display settings are suitable for your data. Go ahead and try a few different options to see what works best for you [here](https://www.footprint.network/dashboards).
 
