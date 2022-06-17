@@ -31,7 +31,7 @@ The image above shows where to replace the pre-existing filter with another Game
 
 The image above shows users where to update their filter.
 
-![](<../../.gitbook/assets/2 (7)>)
+![](<../../.gitbook/assets/2 (7) (1)>)
 
 The image above shows the updated template.
 

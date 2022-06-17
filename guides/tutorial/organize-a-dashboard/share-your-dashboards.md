@@ -22,7 +22,7 @@ Step 1: Click on the **Share icon** in the upper right corner of your screen. Yo
 
 The image above shows users where the share icon is once you’ve accessed your desired chart or dashboard.
 
-![](<../../../.gitbook/assets/1 (7)>)
+![](<../../../.gitbook/assets/0 (4) (1) (1)>)
 
 The gif above demonstrates the first step to sharing your charts and dashboards based on Step 1.
 
@@ -30,7 +30,7 @@ _**Note**: Dashboards and charts are not shareable in editing mode. Ensure you h
 
 Step 2: Choose either **Public link** or **Public embed**. The descriptions can be found in the image below. Once you have chosen one, click on the **Copy icon** to the right of the link. Make sure you paste the link where you would like it before copying anything else. You can even share via any of the four social media platforms Facebook, Twitter, Telegram or LinkedIn by clicking on their respective **logos**.
 
-![](<../../../.gitbook/assets/2 (8) (1) (1)>)
+![](<../../../.gitbook/assets/5 (3) (1) (1)>)
 
 The image above defines a public link and a public embed and shows users where the copy icon and social media logos are located.
 
@@ -52,15 +52,15 @@ Watermarks are removable with the option found under the Set to private feature.
 
 Note: _The Remove Watermark function is only available for membership holders._
 
-![](<../../../.gitbook/assets/4 (5) (1)>)
+![](<../../../.gitbook/assets/2 (4) (1) (1) (1)>)
 
 The image above shows users what the Remove watermark option looks like.
 
-![](<../../../.gitbook/assets/5 (8)>)
+![](<../../../.gitbook/assets/3 (5) (1)>)
 
 The image above shows a chart with a watermark on it. This is the default product.
 
-![](<../../../.gitbook/assets/6 (3)>)
+![](<../../../.gitbook/assets/4 (5) (1) (1)>)
 
 The image above shows the same chart after the watermark is removed.
 

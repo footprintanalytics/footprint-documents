@@ -61,7 +61,7 @@ The image above shows an example of what Number Visualization looks like.
 
 Keep in mind that a single number may lack context, so it’s best used on a dashboard that provides that context.
 
-![](<../../../.gitbook/assets/3 (1)>)
+![](<../../../.gitbook/assets/0 (3) (1) (1) (1)>)
 
 The image above shows an example of a Dashboard combining different charts together to provide context for your data.
 
@@ -127,7 +127,7 @@ The above image is an example of a Pie Chart.
 
 While the Line Chart is more suitable for data with a trend over time, the Pie Chart shows the percentage of a category in the whole. You could even use a [**Dynamic Pie Chart**](https://docs.footprint.network/getting-started/visualization/dynamic-pie-chart) to combine them both together. You can see how the values and pie charts change over time, instead of a new pie chart needing to be created every day.
 
-![](<../../../.gitbook/assets/10 (5) (1)>)
+![](<../../../.gitbook/assets/0 (1) (1)>)
 
 The gif above shows users how the values change over time in the graph as reflected by the Pie Chart.
 
