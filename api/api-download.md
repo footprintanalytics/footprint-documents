@@ -1,4 +1,5 @@
 # Download Data From Footprint By Using the API
+## API Models & Enum
 **Chain Enum**   
 
 | chain name  | Description | 
@@ -93,8 +94,9 @@
 |marketplace_contract_address|string|address of marketplace contract|0x7f268357a8c2552623316e2562d90e642bb538e5|
 |business_type|string|type of business|sales|
 
-### NFT
-#### Get the detail daily stats of each NFT Collection
+## NFT
+
+### Get the detail daily stats of each NFT Collection
 Method: post  
 Path: /api/nft/nft_collection_daily_stats  
 Header: 'FP-API-KEY: YOUR_ACCESSKEY'    
