@@ -13,7 +13,7 @@ In this article:
 
 In a Dynamic Pie Chart, you can see how a metric's value changes over time, as well as how the metric's distribution changes. Instead of creating a new pie chart every day, you can examine how the values and pie charts evolve over time.
 
-![](<../../.gitbook/assets/0 (1) (1) (3)>)
+![](<../../.gitbook/assets/0 (1) (1) (4)>)
 
 The gif above demonstrates what a Dynamic Pie Chart looks like.
 
@@ -64,7 +64,7 @@ The gif above demonstrates Step 5 in sorting the dataset.
 
 Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-![](../../.gitbook/assets/5)
+![](<../../.gitbook/assets/5 (10)>)
 
 The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
 
@@ -74,7 +74,7 @@ In this use case, we choose
 * **y-axis** = sum of tvl;
 * **category** = chain;
 
-![](<../../.gitbook/assets/6 (2) (1) (1)>)
+![](<../../.gitbook/assets/6 (2) (1) (1) (2)>)
 
 The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
 

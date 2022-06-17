@@ -17,7 +17,7 @@ In this article:
 
 Line Races are used for plotting data captured in several sequences.&#x20;
 
-![The gif above demonstrates an example of a line race as time goes by.](<../../.gitbook/assets/0 (3) (1) (1)>)
+![The gif above demonstrates an example of a line race as time goes by.](<../../.gitbook/assets/0 (9)>)
 
 Use case: **** Line Race - Comparison of Volumes
 
@@ -53,7 +53,7 @@ Step 9: Click on **Visualize** on the bottom left corner of the screen.
 
 ![The image above shows users how to summarize their data under the Advanced tab.](<../../.gitbook/assets/7 (9)>)
 
-![The gif above demonstrates Steps 7 and 8 in using the Summarize function.](<../../.gitbook/assets/3 (1) (1)>)
+![The gif above demonstrates Steps 7 and 8 in using the Summarize function.](<../../.gitbook/assets/8 (6)>)
 
 Step 3: Under **Visualization**, choose **Line Race**.Then, select the fields corresponding to x-axis, y-axis and category as required. Click on **Done**.
 
@@ -67,7 +67,7 @@ Y-axis = sum of volume;
 
 Category = protocol-name.
 
-![The image above shows how our completed Line Race chart would look like.](<../../.gitbook/assets/5 (2) (1) (1) (1) (1)>)
+![The image above shows how our completed Line Race chart would look like.](<../../.gitbook/assets/10 (6) (1)>)
 
 _**Note**: The Line Race chart is only available for membership holders._
 
@@ -77,7 +77,7 @@ Save to complete the creation of the chart.
 
 Row races are sometimes more suitable for multiple metrics than line races. It gives you a clearer view of how the rankings change for each metric.
 
-![The image above shows an example of what a Row Race looks like.](<../../.gitbook/assets/6 (4) (1) (1) (1)>)
+![The image above shows an example of what a Row Race looks like.](<../../.gitbook/assets/11 (2)>)
 
 
 
@@ -97,17 +97,17 @@ Step 4: Click on **Filter**, and then day. Select **After** and choose **May 31,
 
 ![The image above shows users where to select their desired date using the calendar based on Step 4.](../../.gitbook/assets/14)
 
-![The image above shows users what it looks like after the two filters from Steps 3 and 4.](<../../.gitbook/assets/7 (3)>)
+![The image above shows users what it looks like after the two filters from Steps 3 and 4.](<../../.gitbook/assets/15 (2)>)
 
 
 
 Step 5: Click on Advanced, then click on Summarize. In our case, we will be selecting **sum of tvl**, grouped by **chain** and **day** (This operation displays data by day).
 
-![The image above shows users where to summarize based on Step 5.](<../../.gitbook/assets/8 (2) (1) (1)>)
+![The image above shows users where to summarize based on Step 5.](<../../.gitbook/assets/16 (1)>)
 
 Step 6: Under Visualize, click **Visualization**, choose **Row Race**.Then, select the fields corresponding to x-axis, y-axis and category as required. Click on **Done**.
 
-![](<../../.gitbook/assets/9 (1) (1) (1)>)
+![](<../../.gitbook/assets/17 (1)>)
 
 In this case, we choose the following settings for our chart:
 
@@ -117,10 +117,10 @@ Y-axis = chain;
 
 Time = day;
 
-![](<../../.gitbook/assets/10 (1) (1) (1)>)
+![](<../../.gitbook/assets/18 (1)>)
 
 You can change the Animation Speed under the **Display Settings**, using the Y-axis Maximum and Y-axis Emphasize fields to customize.
 
-![](<../../.gitbook/assets/11 (1) (1) (1)>)
+![](../../.gitbook/assets/19)
 
 Your chart is done, don’t forget to save it.
