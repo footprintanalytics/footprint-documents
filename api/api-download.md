@@ -98,7 +98,7 @@
 
 ### Get the detail daily stats of each NFT Collection
 Method: GET  
-Path: /api/v1/nft/{chain}/nft_collection_daily_stats/{contract_address}?on_date={on_date}
+Path: /api/v1/nft/{chain}/nft_collection_daily_stats/{contract_address}?on_date={on_date}  
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
@@ -146,7 +146,7 @@ Result
 
 ### Get information of nft collection
 Method: GET  
-Path: /api/v1/nft/{chain}/nft_collection_info/{contract_address} 
+Path: /api/v1/nft/{chain}/nft_collection_info/{contract_address}   
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
@@ -174,7 +174,7 @@ Result
 
 ### Get the metrics for different nft
 Method: GET  
-Path: /api/v1/nft/{chain}/nft_latest_stats/{contract_address}?limit={limit}&offset={offset}   
+Path: /api/v1/nft/{chain}/nft_latest_stats/{contract_address}?limit={limit}&offset={offset}    
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
@@ -219,7 +219,7 @@ Result
 
 ### Get the transactions of different nft series
 Method: GET  
-Path: /api/v1/nft/{chain}/nft_transactions/{contract_address}?block_timestamp={block_timestamp}&limit={limit}&offset={offset}  
+Path: /api/v1/nft/{chain}/nft_transactions/{contract_address}?block_timestamp={block_timestamp}&limit={limit}&offset={offset}   
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
