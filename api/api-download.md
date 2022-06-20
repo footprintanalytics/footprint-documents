@@ -116,31 +116,33 @@ Result
 {
     "message": "success",
     "code": 0,
-    "data": {
-        "protocol_slug": "fnd",
-        "chain": "Ethereum",
-        "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-        "on_date": "2022-06-10T00:00:00.000Z",
-        "collection_name": "Foundation (FND)",
-        "number_of_mint": 0,
-        "number_of_transactions": 45,
-        "number_of_burn": 0,
-        "number_of_sale_transactions": 3,
-        "number_of_transfer_transactions": 36,
-        "number_of_sellers": 3,
-        "number_of_buyers": 1,
-        "number_of_holders": 17858,
-        "volume": 132.82993,
-        "market_cap": 3844896.8,
-        "total_supply": 132928,
-        "liquidity": 0.000022999999999999997,
-        "avg_amount": 0.026667,
-        "avg_price": 44.276642,
-        "max_amount": 0.03,
-        "min_amount": 0.02,
-        "max_price": 49.811218,
-        "min_price": 33.207481
-    }
+    "data": [
+       {
+          "protocol_slug": "fnd",
+          "chain": "Ethereum",
+          "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+          "on_date": "2022-06-10T00:00:00.000Z",
+          "collection_name": "Foundation (FND)",
+          "number_of_mint": 0,
+          "number_of_transactions": 45,
+          "number_of_burn": 0,
+          "number_of_sale_transactions": 3,
+          "number_of_transfer_transactions": 36,
+          "number_of_sellers": 3,
+          "number_of_buyers": 1,
+          "number_of_holders": 17858,
+          "volume": 132.82993,
+          "market_cap": 3844896.8,
+          "total_supply": 132928,
+          "liquidity": 0.000022999999999999997,
+          "avg_amount": 0.026667,
+          "avg_price": 44.276642,
+          "max_amount": 0.03,
+          "min_amount": 0.02,
+          "max_price": 49.811218,
+          "min_price": 33.207481
+       }
+    ]
 }
 ```
 
@@ -162,13 +164,15 @@ Result
 {
     "message": "success",
     "code": 0,
-    "data": {
+    "data": [
+      {
         "chain": "Ethereum",
         "protocol_slug": "fnd",
         "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
         "collection_name": "Foundation (FND)",
         "logo": "https://lh3.googleusercontent.com/uUdrzISpIJJVRbm_g6mmu-TUaOERBbPJcNA8KeuwI1HNgXy8Kje3c2XhoMIndnPmyono9NUJE8A2_bTd95iqAcjo9pyy-e47flJy=s120"
-    }
+      }
+    ] 
 }
 ```
 
