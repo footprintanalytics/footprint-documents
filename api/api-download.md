@@ -214,27 +214,27 @@ Result
     "message": "success",
     "code": 0,
     "data": [
-      {
-        "chain": "Ethereum",
-        "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-        "protocol_slug": "fnd",
-        "nft_token_id": 66948,
-        "longest_hold_time": 204,
-        "current_hold_time": 50,
-        "date_of_birth": "1627776000000",
-        "past_owners": 4,
-        "max_price": 273.46579,
-        "min_price": 261.37366,
-        "avg_price": 267.41974,
-        "number_of_sales": 2,
-        "latest_price": 273.46579,
-        "owner_transfer_time": "1650412800000",
-        "owner_address": "0x188b79d5ab7a27bb098d740e51c5253cf375be86",
-        "latest_amount": 0.089,
-        "avg_amount": 0.094,
-        "min_amount": 0.089,
-        "max_amount": 0.099
-      }
+        {
+            "chain": "Ethereum",
+            "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+            "protocol_slug": "fnd",
+            "nft_token_id": 100413,
+            "longest_hold_time": 156,
+            "current_hold_time": 56,
+            "date_of_birth": "2021-10-20T00:00:00.000Z",
+            "past_owners": 3,
+            "max_price": null,
+            "min_price": null,
+            "avg_price": null,
+            "number_of_sales": null,
+            "latest_price": null,
+            "owner_transfer_time": "2022-04-21T00:00:00.000Z",
+            "owner_address": "0x0000000000000000000000000000000000000000",
+            "latest_amount": null,
+            "avg_amount": null,
+            "min_amount": null,
+            "max_amount": null
+        }
     ]
 }
 ```
