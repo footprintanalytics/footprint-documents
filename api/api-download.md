@@ -97,25 +97,18 @@
 ## NFT
 
 ### Get the detail daily stats of each NFT Collection
-Method: post  
-Path: /api/nft/nft_collection_daily_stats  
+Method: GET  
+Path: /api/v1/nft/{chain}/nft_collection_daily_stats/{contract_address}?on_date={on_date}
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
 * on_date(string): The date of this record, Default yesterday, eg: '2022-01-01'
-* limit(integer): Page size, Defaults to 1000, capped at 2000, eg: 100
-* offset(integer): The offset for pagination eg:120
 
-Request Body
-```json
-{
-    "chain": "Ethereum",
-    "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-    "on_date": "2022-06-10",
-    "limit": 1,
-    "offset": 0
-}
+
+Request 
+```http request
+/api/v1/nft/ethereum/nft_collection_daily_stats/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?on_date=2022-06-10
 ```
 
 Result 
@@ -123,75 +116,65 @@ Result
 {
     "message": "success",
     "code": 0,
-    "data": [
-        {
-            "protocol_slug": "fnd",
-            "chain": "Ethereum",
-            "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-            "on_date": "2022-06-10T00:00:00.000Z",
-            "collection_name": "Foundation (FND)",
-            "number_of_mint": 0,
-            "number_of_transactions": 45,
-            "number_of_burn": 0,
-            "number_of_sale_transactions": 3,
-            "number_of_transfer_transactions": 36,
-            "number_of_sellers": 3,
-            "number_of_buyers": 1,
-            "number_of_holders": 17858,
-            "volume": 132.82993,
-            "market_cap": 3844896.8,
-            "total_supply": 132928,
-            "liquidity": 0.000022999999999999997,
-            "avg_amount": 0.026667,
-            "avg_price": 44.276642,
-            "max_amount": 0.03,
-            "min_amount": 0.02,
-            "max_price": 49.811218,
-            "min_price": 33.207481
-        }
-    ]
+    "data": {
+        "protocol_slug": "fnd",
+        "chain": "Ethereum",
+        "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+        "on_date": "2022-06-10T00:00:00.000Z",
+        "collection_name": "Foundation (FND)",
+        "number_of_mint": 0,
+        "number_of_transactions": 45,
+        "number_of_burn": 0,
+        "number_of_sale_transactions": 3,
+        "number_of_transfer_transactions": 36,
+        "number_of_sellers": 3,
+        "number_of_buyers": 1,
+        "number_of_holders": 17858,
+        "volume": 132.82993,
+        "market_cap": 3844896.8,
+        "total_supply": 132928,
+        "liquidity": 0.000022999999999999997,
+        "avg_amount": 0.026667,
+        "avg_price": 44.276642,
+        "max_amount": 0.03,
+        "min_amount": 0.02,
+        "max_price": 49.811218,
+        "min_price": 33.207481
+    }
 }
 ```
 
 ### Get information of nft collection
-Method: post  
-Path: /api/nft/nft_collection_info  
+Method: GET  
+Path: /api/v1/nft/{chain}/nft_collection_info/{contract_address} 
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
 * contract_address(string): The contract address of this NFT Collection, eg:'0x00000633df1228868270badb2b812e12e13fdb91'
-* limit(integer): Page size, Defaults to 1000, capped at 2000, eg: 100
-* offset(integer): The offset for pagination eg:120
 
-Request Body
-```json
-{
-    "chain": "Ethereum",
-    "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-    "limit": 1,
-    "offset": 0
-}
+
+Request
+```http request
+/api/v1/nft/ethereum/nft_collection_info/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405 
 ```                
 Result 
 ```json
 {
     "message": "success",
     "code": 0,
-    "data": [
-      {
+    "data": {
         "chain": "Ethereum",
         "protocol_slug": "fnd",
         "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
         "collection_name": "Foundation (FND)",
         "logo": "https://lh3.googleusercontent.com/uUdrzISpIJJVRbm_g6mmu-TUaOERBbPJcNA8KeuwI1HNgXy8Kje3c2XhoMIndnPmyono9NUJE8A2_bTd95iqAcjo9pyy-e47flJy=s120"
-      }
-    ]
+    }
 }
 ```
 
 ### Get the metrics for different nft
-Method: post  
-Path: /api/nft/nft_latest_stats  
+Method: GET  
+Path: /api/v1/nft/{chain}/nft_latest_stats/{contract_address}?limit={limit}&offset={offset}   
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
@@ -199,14 +182,9 @@ Parameters:
 * limit(integer): Page size, Defaults to 1000, capped at 2000, eg: 100
 * offset(integer): The offset for pagination eg:120  
 
-Request Body
-```json
-{
-    "chain": "Ethereum",
-    "contract_address": "0x7c07aafa429d952ac3fde9ca037003edb57ce14e",
-    "limit": 1,
-    "offset": 0
-}
+Request 
+```http request
+/api/v1/ethereum/nft_latest_stats/0x7c07aafa429d952ac3fde9ca037003edb57ce14e?limit=1&offset=0
 ```                
 Result 
 ```json
@@ -240,8 +218,8 @@ Result
 ```
 
 ### Get the transactions of different nft series
-Method: post  
-Path: /api/nft/nft_transactions  
+Method: GET  
+Path: /api/v1/nft/{chain}/nft_transactions/{contract_address}?block_timestamp={block_timestamp}&limit={limit}&offset={offset}  
 Header: 'API-KEY: YOUR-ACCESSKEY'    
 Parameters: 
 * chain(string): The chain of this NFT Collection, eg: 'Ethereum'
@@ -250,15 +228,9 @@ Parameters:
 * limit(integer): Page size, Defaults to 1000, capped at 2000, eg: 100
 * offset(integer): The offset for pagination eg:120  
 
-Request Body
-```json
-{
-    "chain": "Ethereum",
-    "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-    "block_timestamp": "2022-06-10",
-    "limit": 2,
-    "offset": 1
-}
+Request
+```http request
+/api/v1/nft/ethereum/nft_transactions/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?block_timestamp=2022-06-10&limit=2&offset=0
 ```                
 Result 
 ```json
