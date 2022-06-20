@@ -203,7 +203,7 @@ Request Body
 ```json
 {
     "chain": "Ethereum",
-    "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+    "contract_address": "0x7c07aafa429d952ac3fde9ca037003edb57ce14e",
     "limit": 1,
     "offset": 0
 }
@@ -216,24 +216,24 @@ Result
     "data": [
         {
             "chain": "Ethereum",
-            "contract_address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
-            "protocol_slug": "fnd",
-            "nft_token_id": 100413,
-            "longest_hold_time": 156,
-            "current_hold_time": 56,
-            "date_of_birth": "2021-10-20T00:00:00.000Z",
+            "contract_address": "0x7c07aafa429d952ac3fde9ca037003edb57ce14e",
+            "protocol_slug": "minimonkeymafia",
+            "nft_token_id": 2817,
+            "longest_hold_time": 263,
+            "current_hold_time": 264,
+            "date_of_birth": "2021-09-19T00:00:00.000Z",
             "past_owners": 3,
-            "max_price": null,
-            "min_price": null,
-            "avg_price": null,
-            "number_of_sales": null,
-            "latest_price": null,
-            "owner_transfer_time": "2022-04-21T00:00:00.000Z",
-            "owner_address": "0x0000000000000000000000000000000000000000",
-            "latest_amount": null,
-            "avg_amount": null,
-            "min_amount": null,
-            "max_amount": null
+            "max_price": 292.76233,
+            "min_price": 132.92159,
+            "avg_price": 212.84196,
+            "number_of_sales": 2,
+            "latest_price": 292.76233,
+            "owner_transfer_time": "2021-09-25T00:00:00.000Z",
+            "owner_address": "0xdb995c1264821e0fe5230ae86db05a6592478723",
+            "latest_amount": 0.1,
+            "avg_amount": 0.07,
+            "min_amount": 0.04,
+            "max_amount": 0.1
         }
     ]
 }
