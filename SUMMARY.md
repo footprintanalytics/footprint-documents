@@ -1,52 +1,40 @@
 # Table of contents
 
-* [👣 Footprint Analytics](README.md)
+* [👣 Get started](README.md)
+* [⛏ Data](data.md)
+* [🏗 Architecture](architecture.md)
+* [💡 Use cases](use-case.md)
+* [🛠 Changelog](changelog/README.md)
+  * [June 10, 2022](changelog/june-10-2022.md)
+  * [June 2,2022](changelog/june-2-2022.md)
+  * [May 27, 2022](changelog/may-27-2022.md)
 
 ## Guides
 
-* [🤲 Tutorials](guides/tutorial/README.md)
-  * [Getting Started](guides/tutorial/getting-started/README.md)
-    * [Get Started with Footprint Analytics](guides/tutorial/getting-started/get-started-with-footprint-analytics.md)
-  * [Create a Chart With 0 Code](guides/tutorial/create-a-chart-with-0-code/README.md)
-    * [Get Started with Creating a Chart](guides/tutorial/create-a-chart-with-0-code/get-started-with-creating-a-chart.md)
-    * [Visualize Your Data with Different Charts](guides/tutorial/create-a-chart-with-0-code/visualize-your-data-with-different-charts.md)
-    * [Everything You Can Do With Data Visualization](guides/tutorial/create-a-chart-with-0-code/everything-you-can-do-with-data-visualization.md)
-    * [Four Steps to Embed Public Link](guides/tutorial/create-a-chart-with-0-code/four-steps-to-embed-public-link.md)
-    * [Cross-chain analysis of on-chain and off-chain data](guides/tutorial/create-a-chart-with-0-code/cross-chain-analysis-of-on-chain-and-off-chain-data.md)
-  * [Organize a Dashboard](guides/tutorial/organize-a-dashboard/README.md)
-    * [How to Create a New Dashboard](guides/tutorial/organize-a-dashboard/how-to-create-a-new-dashboard.md)
-    * [Share Your Dashboards](guides/tutorial/organize-a-dashboard/share-your-dashboards.md)
-  * [Advanced - Visualise Data in SQL](guides/tutorial/advanced-visualise-data-in-sql/README.md)
-    * [How to Create Native Query](guides/tutorial/advanced-visualise-data-in-sql/how-to-create-native-query.md)
-* [📊 Visualization Charts](guides/visualization/README.md)
-  * [Guide to Line Chart](guides/visualization/guide-to-line-chart.md)
-  * [Number Visualization and Trend Chart](guides/visualization/number-visualization-and-trend-chart.md)
-  * [Dynamic Pie Chart](guides/visualization/dynamic-pie-chart.md)
-  * [Line Race and Row Race](guides/visualization/line-race-and-row-race.md)
-  * [Master the Bar Chart Visualization](guides/visualization/master-the-bar-chart-visualization.md)
-  * [Advanced Use of the Pie Chart Rose, Nested Pies, Sunburst and Treemap](guides/visualization/advanced-use-of-the-pie-chart-rose-nested-pies-sunburst-and-treemap.md)
-  * [Guide to Pivot Tables](guides/visualization/guide-to-pivot-tables.md)
-* [📚 Templates](guides/templates/README.md)
-  * [Guide to Using Templates](guides/templates/guide-to-using-templates.md)
-* [💡 Use Case](guides/use-case/README.md)
-  * [Use Case](guides/use-case/use-case.md)
-
-## DATA DICTIONARY
-
-* [📔 Overview](data-dictionary/overview.md)
-* [📑 Roadmap](data-dictionary/roadmap.md)
-* [📖 Dictionary](data-dictionary/dictionary.md)
-* [📓 Data Features](data-dictionary/data-features.md)
-
-## WEEKLY UPDATES
-
-* [🛠 Changelog](weekly-updates/changelog/README.md)
-  * [June 10, 2022](weekly-updates/changelog/june-10-2022.md)
-  * [June 2,2022](weekly-updates/changelog/june-2-2022.md)
-  * [May 27, 2022](changelog/may-27-2022.md)
+* [📊 Charts](guides/charts/README.md)
+  * [No code](guides/charts/get-started-with-creating-a-chart.md)
+  * [SQL](guides/charts/sql.md)
+  * [Visualisations](guides/charts/visualization/README.md)
+    * [Tables](guides/charts/visualization/tables.md)
+    * [Pivot Tables](guides/charts/visualization/guide-to-pivot-tables.md)
+    * [Line Chart](guides/charts/visualization/guide-to-line-chart.md)
+    * [Bar Chart](guides/charts/visualization/master-the-bar-chart-visualization.md)
+    * [Number and Trend](guides/charts/visualization/number-visualization-and-trend-chart.md)
+    * [Dynamic Pie](guides/charts/visualization/dynamic-pie-chart.md)
+    * [Line and Row Races](guides/charts/visualization/line-race-and-row-race.md)
+    * [Advanced. Pie Chart Rose, Nested Pies, Sunburst and Treemap](guides/charts/visualization/advanced-use-of-the-pie-chart-rose-nested-pies-sunburst-and-treemap.md)
+* [🖥 Dashboards](guides/dashboards/README.md)
+  * [Creation](guides/dashboards/how-to-create-a-new-dashboard.md)
+  * [Forks (templates)](guides/dashboards/get-started-with-creating-a-chart.md)
+  * [Design](guides/dashboards/how-to-create-a-new-dashboard-1.md)
+  * [Create embed link](guides/dashboards/four-steps-to-embed-public-link.md)
+  * [Share](guides/dashboards/share-your-dashboards.md)
 
 ***
 
+* [⚙ API](upload-data-to-footprint-by-using-the-api/README.md)
+  * [Download data](upload-data-to-footprint-by-using-the-api/api-download.md)
+* [❓ FAQ](faq.md)
 * [🏷 PRICING](https://www.footprint.network/pricing)
 
 ## Community
@@ -59,8 +47,3 @@
 ## RESOURCES
 
 * [🐾 Press Kit](resources/press-kit.md)
-
-## API
-
-* [Upload Data to Footprint By Using the API](api/upload-data-to-footprint-by-using-the-api.md)
-* [Download Data From Footprint By Using the API](api/api-download.md)
