@@ -5,6 +5,7 @@
 * [🏗 Architecture](architecture.md)
 * [💡 Use cases](use-case.md)
 * [🛠 Changelog](changelog/README.md)
+  * [June 17, 2022](changelog/june-17-2022.md)
   * [June 10, 2022](changelog/june-10-2022.md)
   * [June 2,2022](changelog/june-2-2022.md)
   * [May 27, 2022](changelog/may-27-2022.md)
