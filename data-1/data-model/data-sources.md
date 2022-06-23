@@ -9,7 +9,7 @@ Sources of Footprint Data:
 
 ### Off-chain&#x20;
 
-In order to provide users with more comprehensive information, Footprint aggregate some off-chain data：&#x20;
+In order to provide users with more comprehensive information, Footprint aggregates some off-chain data：&#x20;
 
 1. Generally community contributions
    1. protocol\_info:logo, twitter,discord,etc&#x20;
