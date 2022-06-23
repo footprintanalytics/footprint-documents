@@ -10,6 +10,22 @@
   * [June 2,2022](changelog/june-2-2022.md)
   * [May 27, 2022](changelog/may-27-2022.md)
 
+## DATA
+
+* [📑 Data Model](data-1/data-model/README.md)
+  * [Data Structure](data-1/data-model/data-structure.md)
+  * [Data Access](data-1/data-model/data-access.md)
+  * [Data Sources](data-1/data-model/data-sources.md)
+* [📖 Data Domains](data-1/data-domains/README.md)
+  * [Chain](data-1/data-domains/chain.md)
+  * [NFT](data-1/data-domains/nft.md)
+  * [GameFi](data-1/data-domains/gamefi.md)
+  * [DeFi](data-1/data-domains/defi.md)
+  * [Protocol](data-1/data-domains/protocol.md)
+  * [Token](data-1/data-domains/token.md)
+  * [Address](data-1/data-domains/address.md)
+  * [Label](data-1/data-domains/label.md)
+
 ## Guides
 
 * [📊 Charts](guides/charts/README.md)
