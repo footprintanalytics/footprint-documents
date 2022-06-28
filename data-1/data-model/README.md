@@ -1,6 +1,6 @@
 # 📑 Data Model
 
-## Design Concept of Data Model
+## Design Concept of **Table**
 
 ### **1. Reduce join tables**
 
@@ -8,7 +8,7 @@ With the most frequently used combination of **protocol\_slug+chain**, you can q
 
 ### **2. Reduce the cost of understanding**
 
-1. Consistent presentation of multiple fields in different table, reduces the cost of understanding, e.g. contract address, which is called by one name in all tables.
+1. Consistent presentation of multiple fields in different tables, reduces the cost of understanding, e.g. contract address, which is called by one name in all tables.
 2. For example, with the suffix **daily\_stats**, you know it is a statistical table updated by day.
 3. For example ,with the suffix **info** ,you know it is a static information data table
 
@@ -16,9 +16,16 @@ With the most frequently used combination of **protocol\_slug+chain**, you can q
 
 Provide basic information tables with **\_info** suffix to association of internal and external table
 
-## Data Regulations
+## Data Naming Conventions
 
-### **1. Table naming regulations**
+### **1. Table & field naming convention**
+
+1. table name and fields name must be in Lowercase&#x20;
+2. underscores separate the distinct terms that define the Table or Column as per the standard conventions&#x20;
+3. all table names must be in plural form. table names must have only A to Z, 0 to 9, and underscore (\_) characters
+4. table names can have multiple underscores
+
+### **2.Table naming convention**
 
 1. Prefix
    1. **ud\_** : means user define, data contributed by the community.
@@ -28,7 +35,7 @@ Provide basic information tables with **\_info** suffix to association of intern
    3. **\_token\_transfers** : flow records of data chain tokens.
    4. **\_transactions** : represents transaction that occurs on the blockchain, and the hash value represents its uniqueness.
 
-### **2. Field naming regulations**
+### **3. Field naming convention**
 
 1. Chain
    1. **chain** : The fields chained within the system are uniformly called chain.

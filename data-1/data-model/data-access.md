@@ -2,6 +2,8 @@
 
 Because of massive data and performance of data calculation, Footprint provides 4 interfaces for users:
 
+![](<../../.gitbook/assets/image (2) (1).png>)
+
 ### **1. Footprint Web App**
 
 Silver and gold data are available.&#x20;
