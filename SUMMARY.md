@@ -31,7 +31,8 @@
 
 * [📊 Charts](guides/charts/README.md)
   * [No code](guides/charts/get-started-with-creating-a-chart.md)
-  * [SQL](guides/charts/sql.md)
+  * [SQL](guides/charts/sql/README.md)
+    * [Upgrade from 26.05.2022](guides/charts/sql/upgrade-from-26.05.2022.md)
   * [Visualisations](guides/charts/visualization/README.md)
     * [Tables](guides/charts/visualization/tables.md)
     * [Pivot Tables](guides/charts/visualization/guide-to-pivot-tables.md)

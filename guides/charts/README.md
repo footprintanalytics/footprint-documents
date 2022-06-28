@@ -6,4 +6,4 @@ This chapter is dedicated to describing how to create charts in footprints. Alth
 2. Query translated to SQL
 3. SQL query is executed on database
 
-Footprint is a easy-to-use analytics tool that the user can work with without knowledge of SQL, programming languages and other technical aspects - see [get-started-with-creating-a-chart.md](get-started-with-creating-a-chart.md "mention"). Nevertheless, if you prefer to keep everything as code; want to create more complex queries; want to run query optimisations or for any other reason you may skip the **point 1** in the list above and create a SQL query straight away - see [sql.md](sql.md "mention").
+Footprint is a easy-to-use analytics tool that the user can work with without knowledge of SQL, programming languages and other technical aspects - see [get-started-with-creating-a-chart.md](get-started-with-creating-a-chart.md "mention"). Nevertheless, if you prefer to keep everything as code; want to create more complex queries; want to run query optimisations or for any other reason you may skip the **point 1** in the list above and create a SQL query straight away - see [sql](sql/ "mention").
