@@ -2,7 +2,7 @@
 
 Because of massive data and performance of data calculation, Footprint provides 4 interfaces for users:
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![2cc2d00d-e1bd-4e22-ae06-d84c81eaf134](../../.gitbook/assets/2cc2d00d-e1bd-4e22-ae06-d84c81eaf134.png)
 
 ### **1. Footprint Web App**
 
