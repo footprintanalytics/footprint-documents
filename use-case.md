@@ -6,13 +6,13 @@ This article will explain some examples and use cases for some of the data on Fo
 
 ### [Token](https://www.footprint.network/guest/dashboard/Tokenomics-of-\(Token\)-fp-aa971726-d7a8-4963-8001-a83a4222741e?token\_address=0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa) <a href="#_3o4z98rm4vvl" id="_3o4z98rm4vvl"></a>
 
-The charts in this section are taken from the _Tokenomics of (Token)_ dashboard. The charts show information on the daily top 10 addresses for Tokens, where you can see data such as the address distribution of token balance and the inflows and outflows of tokens among other things.
+The charts in this section are taken from the __ [_Tokenomics of (Token)_ ](https://www.footprint.network/@rogerD/Tokenomics-of-\(Token\)?token\_address=0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa)dashboard. The charts show information on the daily top 10 addresses for Tokens, where you can see data such as the address distribution of token balance and the inflows and outflows of tokens among other things.
 
 ![The image above shows information on the daily top 10 addresses for Tokens in a dashboard](<.gitbook/assets/0 (4) (1)>)
 
 ### [Address](https://www.footprint.network/guest/dashboard/Address-Analysis-of-GameFi-Project-fp-77828d1e-35bc-4b6c-90e9-7777e7c6902d?gamefi\_name=decentral-games) <a href="#_2jrhe975kffo" id="_2jrhe975kffo"></a>
 
-This chart is from the dashboard _Address Analysis of GameFi Project_, showing new users by month, where you can see the changes of the daily average of new users by month as well as new users by month.
+This chart is from the dashboard[ _Address Analysis of GameFi Project_](https://www.footprint.network/@DeFi360/Address-Analysis-of-GameFi-Project?defi\_name=hundred\_finance), showing new users by month, where you can see the changes of the daily average of new users by month as well as new users by month.
 
 This chart is from the dashboard of _Chain Overview_, showing the number of protocols by chain.
 
@@ -20,13 +20,13 @@ This chart is from the dashboard of _Chain Overview_, showing the number of prot
 
 ### [GameFi](https://www.footprint.network/guest/dashboard/Ethereum-GameFi-Tracker-fp-60abcc01-61e2-4daf-9f90-1cf4d30e9b28?chain=Ethereum\&date\_filter=past30days) <a href="#_gu57b4mu338c" id="_gu57b4mu338c"></a>
 
-This chart is from the dashboard of _Ethereum GameFi Tracker_, showing the ranking of daily gamers, where you can see their game logo, their protocol slugs, the volume of active users, new users and more.
+This chart is from the dashboard of [_Ethereum GameFi Tracker_](https://www.footprint.network/@KikiSmith/Ethereum-GameFi-Tracker?chain=Ethereum\&date\_filter=past30days\&protocol\_type=GameFi), showing the ranking of daily gamers, where you can see their game logo, their protocol slugs, the volume of active users, new users and more.
 
 ![The image above shows a table of ranking for daily gamers](<.gitbook/assets/3 (2)>)
 
 ### [Chain](https://www.footprint.network/guest/dashboard/Chain-Overview-fp-35dfdf0f-5c59-4504-9907-7374eae92981?date\_filter=past90days) <a href="#_l94ahmnyyg4y" id="_l94ahmnyyg4y"></a>
 
-This chart is from the dashboard of _Chain Overview_, showing the market share of tvl by chain.
+This chart is from the dashboard of[ _Chain Overview_](https://www.footprint.network/@DamonSalvatore/Chain-Overview?date\_filter=past90days), showing the market share of tvl by chain.
 
 ![The image above shows a pie chart of the market share of tvl by chain](<.gitbook/assets/4 (4) (1)>)
 
@@ -66,3 +66,12 @@ This is the dashboard about Polygon, in which you can also check general metrics
 
 ![The image above shows a dashboard that includes general metrics you can also access](<.gitbook/assets/7 (3) (1)>)
 
+### DeFi **Adoption**
+
+Footprint Analytics has compiled the user numbers of all important DeFi Protocols and compiled them in one Dashboard, such as the DeFi Data Analytics Dashboard.
+
+Example：[DeFi Data Analytics Dashboard](https://www.footprint.network/@SimonJohnson/DeFi-data-analytics-Footprint-Network?days=past30days\&name=curve)
+
+This is the dashboard about DeFi Data Analytics, in which you can also check general metrics such as TVL and Transaction.
+
+![](<.gitbook/assets/image (4).png>)
