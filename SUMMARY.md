@@ -52,7 +52,7 @@
 ***
 
 * [⚙ API](api/README.md)
-  * [Download data](api/api-download.md)
+  * [Download data](api/download-data.md)
 * [❓ FAQ](faq.md)
 * [🏷 PRICING](https://www.footprint.network/pricing)
 
