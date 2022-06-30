@@ -51,8 +51,8 @@
 
 ***
 
-* [⚙ API](upload-data-to-footprint-by-using-the-api/README.md)
-  * [Download data](upload-data-to-footprint-by-using-the-api/api-download.md)
+* [⚙ API](api/README.md)
+  * [Download data](api/download-data.md)
 * [❓ FAQ](faq.md)
 * [🏷 PRICING](https://www.footprint.network/pricing)
 
