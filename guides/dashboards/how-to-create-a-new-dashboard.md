@@ -32,7 +32,7 @@ Step 5: Select the charts one at a time to add them into our dashboard by clicki
 
 The image above shows where the charts are in the Community charts tab.
 
-![](<../../.gitbook/assets/1 (3) (1) (1) (1) (1) (1) (2)>)
+![](<../../.gitbook/assets/1 (3) (1) (1) (1) (1) (1) (2) (1)>)
 
 The gif above demonstrates how to create a dashboard following Steps 1 to 5.
 
@@ -48,7 +48,7 @@ Step 7: You can also search for a specific chart by name or by its URL link in t
 
 The image above shows where the **Search box** is.
 
-Step 8: Make sure to click onH **Save** to finalize **** your completed dashboard.
+Step 8: Make sure to click onH **Save** to finalize \*\*\*\* your completed dashboard.
 
 ![](<../../.gitbook/assets/8 (6) (1)>)
 

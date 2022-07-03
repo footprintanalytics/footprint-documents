@@ -41,4 +41,4 @@ When your chart has several series in it, you can hover over the name of a serie
 
 When you hover over the data on the chart, you can see the detailed information pop out from it.
 
-![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/3 (2) (1) (1)>)
+![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/3 (2) (1) (1) (2)>)

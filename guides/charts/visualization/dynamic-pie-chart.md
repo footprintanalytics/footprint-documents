@@ -39,7 +39,7 @@ Step 2: Select the data **defi\_protocol\_daily\_stats**. Click **Advanced** nex
 
 The gif above demonstrates Step 1 and Step 2.
 
-Step 3: Click **Filters**, then, for this use case, click on **day-previous 30 Days,** then click **Add**. **** Click the **+ Icon**, select **chain** and click the first five **chains**.
+Step 3: Click **Filters**, then, for this use case, click on **day-previous 30 Days,** then click **Add**. \*\*\*\* Click the **+ Icon**, select **chain** and click the first five **chains**.
 
 ![](<../../../.gitbook/assets/3 (11)>)
 
@@ -59,7 +59,7 @@ The gif above demonstrates Step 5 in sorting the dataset.
 
 Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-![](<../../../.gitbook/assets/5 (1)>)
+![](<../../../.gitbook/assets/5 (1) (2)>)
 
 The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
 
@@ -69,7 +69,7 @@ In this use case, we choose
 * **y-axis** = sum of tvl;
 * **category** = chain;
 
-![](<../../../.gitbook/assets/6 (2) (1) (1) (2)>)
+![](<../../../.gitbook/assets/6 (2) (1) (1) (2) (1)>)
 
 The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
 

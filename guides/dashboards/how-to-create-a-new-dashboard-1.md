@@ -6,11 +6,11 @@ With the dashboard ready, you can start designing a dashboard to personalise and
 
 You can move your charts and text boxes by simply clicking on them and then dragging them anywhere within the dashboard. Organize your dashboard items accordingly to improve readability.
 
-![](<../../.gitbook/assets/3 (5) (1) (1) (1) (1)>)
+![](<../../.gitbook/assets/3 (5) (1) (1) (1) (1) (1)>)
 
 The gif above demonstrates how to move your dashboard items around.You can also resize your dashboard items using their bottom right corner handles. Click and drag the handle to resize and adjust your charts and text boxes.
 
-![](<../../.gitbook/assets/10 (1) (1)>)
+![](<../../.gitbook/assets/10 (1) (1) (1)>)
 
 The gif above demonstrates how to resize your dashboard items.
 
@@ -69,8 +69,6 @@ The gif above demonstrates how to access and navigate the visualization options 
 ### Adding filters <a href="#_q0nk2e52jm7b" id="_q0nk2e52jm7b"></a>
 
 **Filters** can be added to our dashboards to allow for a wider range of applications, as well as to avoid any repetitive work.
-
-
 
 To set up filters on a new dashboard:
 
