@@ -8,17 +8,17 @@ Use Case 1:Using a filter box to get a new dashboard
 
 Step 1: Click on the bar on the top left corner. For this example, we will be using the GameFi template, so ours will be called **GameFi Name**. It should already have **my-defi-pet** written under it. In our case, replace the filter with **starsharks,** then click Update.
 
-![](<../../.gitbook/assets/0 (6) (1)>)
+![](<../../.gitbook/assets/0 (7)>)
 
 The image above shows where to replace the pre-existing filter with another GameFi name.
 
 **Note**: _This is a one-off operation and the filter criteria will not be saved once the link is closed, so be sure to finish making your chart and save it._
 
-![](<../../.gitbook/assets/1 (14)>)
+![](<../../.gitbook/assets/1 (18)>)
 
 The image above shows users where to update their filter.
 
-![](<../../.gitbook/assets/2 (7) (1)>)
+![](<../../.gitbook/assets/2 (8)>)
 
 The image above shows the updated template.
 
@@ -26,25 +26,23 @@ Use case 2: Getting a new chart by duplicating one
 
 Step 1: Pick a chart you want to use and **duplicate** it using the **copy icon** on the top right corner of the chart.
 
-![](<../../.gitbook/assets/3 (4)>)
+![](<../../.gitbook/assets/3 (2)>)
 
 The image above shows where to find the copy icon to duplicate the chart.
 
 Step 2: Click on the **edit** icon on the top right corner of the screen.
 
-![](<../../.gitbook/assets/4 (11)>)
+![](<../../.gitbook/assets/4 (18)>)
 
 The image above shows where to find the edit icon based on Step 2.
 
 Step 3: Click on the text next to the blue filter icon on the top left side of the screen. For our example, change the filter from Farmers World to Axie Infinity.
 
-
-
-![](<../../.gitbook/assets/5 (9)>)
+![](<../../.gitbook/assets/5 (13)>)
 
 The image above shows where to find the text next to the blue filter icon based on Step 3.
 
-![](<../../.gitbook/assets/6 (10)>)
+![](<../../.gitbook/assets/6 (14)>)
 
 The image above shows where to search and select Axie Infinity based on Step 3.
 

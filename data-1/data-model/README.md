@@ -20,8 +20,8 @@ Provide basic information tables with **\_info** suffix to association of intern
 
 ### **1. Table & field naming convention**
 
-1. table name and fields name must be in Lowercase&#x20;
-2. underscores separate the distinct terms that define the Table or Column as per the standard conventions&#x20;
+1. table name and fields name must be in Lowercase
+2. underscores separate the distinct terms that define the Table or Column as per the standard conventions
 3. all table names must be in plural form. table names must have only A to Z, 0 to 9, and underscore (\_) characters
 4. table names can have multiple underscores
 
@@ -34,6 +34,8 @@ Provide basic information tables with **\_info** suffix to association of intern
    2. **\_daily\_stats** : the data in the table are aggregated by day.
    3. **\_token\_transfers** : flow records of data chain tokens.
    4. **\_transactions** : represents transaction that occurs on the blockchain, and the hash value represents its uniqueness.
+3. Special Mark
+   1. **Beta:** data accuracy, stability, data period, update frequency,etc of this table is still on working.
 
 ### **3. Field naming convention**
 
@@ -44,14 +46,13 @@ Provide basic information tables with **\_info** suffix to association of intern
 3. Token
    1. **token\_slug** : The token is uniquely identified within the Footprint
 4. Wallet
-   1. **address** : Internally, the part of the system that uniquely identifies the user is called address, not user or account, etc. There are two types of address:&#x20;
-      1. wallet\_address&#x20;
+   1. **address** : Internally, the part of the system that uniquely identifies the user is called address, not user or account, etc. There are two types of address:
+      1. wallet\_address
       2. contract\_address
 5. NFT
    1. **nft\_token\_id** : Unique identifier in the same NFT collection
 6. Transaction
-   1. **value** : Represents the flow of value in a transaction, usually in US dollars, as shown in value\_currency&#x20;
-   2. **number\_of** : Number of integers, such as number of addresses, number of transactions, etc.&#x20;
-   3. **amount** : Represents mathematical units that contain decimal types, such as token amount , volume , tvl , etc.&#x20;
+   1. **value** : Represents the flow of value in a transaction, usually in US dollars, as shown in value\_currency
+   2. **number\_of** : Number of integers, such as number of addresses, number of transactions, etc.
+   3. **amount** : Represents mathematical units that contain decimal types, such as token amount , volume , tvl , etc.
    4. **value\_currency** : Unit of value calculation, if the field is not present in the table, it means that the value is calculated in usd
-

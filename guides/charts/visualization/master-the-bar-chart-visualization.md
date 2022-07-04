@@ -18,11 +18,7 @@ Step 1: Click on **Create** on the top right corner of the screen, then click **
 
 Step 2: After choosing your data, click on **Visualization** in the upper right corner and choose **Bar**.
 
-
-
-![The image above shows users where to find the Bar option under Visualization.](<../../../.gitbook/assets/0 (7)>)
-
-
+![The image above shows users where to find the Bar option under Visualization.](<../../../.gitbook/assets/0 (8)>)
 
 ### Bar Chart Settings <a href="#_tkhyysqivqek" id="_tkhyysqivqek"></a>
 
@@ -36,13 +32,9 @@ Step 2: Click on Data.
 
 Step 3: Click on Add another series to add a column or click on the x button next to the undesired column to remove it.
 
-![The gif demonstrates how to add and remove columns from your bar chart.](<../../../.gitbook/assets/1 (2) (1)>)
+![The gif demonstrates how to add and remove columns from your bar chart.](<../../../.gitbook/assets/1 (3)>)
 
-
-
-![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../../.gitbook/assets/2 (8) (1)>)
-
-
+![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../../.gitbook/assets/2 (10)>)
 
 ### Display <a href="#_ov717bw2t5g4" id="_ov717bw2t5g4"></a>
 
@@ -74,7 +66,7 @@ The image above shows users where the Goal line toggle is, where we are putting 
 
 The Show values on data points option displays each bar’s numbers on top of their corresponding bars. The toggle for it can be found under the Goal line settings in the same Display tab.
 
-![](<../../../.gitbook/assets/5 (3)>)
+![](<../../../.gitbook/assets/5 (2)>)
 
 #### The image above shows users where they can find data point settings and where those values can be seen on the bar chart. <a href="#_ju1evah74u9q" id="_ju1evah74u9q"></a>
 
@@ -82,7 +74,7 @@ The Show values on data points option displays each bar’s numbers on top of th
 
 To further personalize your bar chart, you can even change the color of your bars. Right under the **Show values on data points** settings, you can click on the colored box and select a color to change it into from the pop-up menu. You can also click on the downward arrow icon next to it to reveal more color options.
 
-![](<../../../.gitbook/assets/6 (7) (1)>)
+![](<../../../.gitbook/assets/6 (10)>)
 
 ### Axes <a href="#_ykoqxvm45xoj" id="_ykoqxvm45xoj"></a>
 
@@ -103,7 +95,7 @@ Step 3: Customize as desired using any of the options as described in the table 
 | Auto y-axis range                 | This option automates the range of your y-axis.                                                                                                                                                                                                                                                                                                                                              |
 | Use a split y-axis when necessary |                                                                                                                                                                                                                                                                                                                                                                                              |
 
-![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../../.gitbook/assets/7 (8)>)
+![The gif above demonstrates the use of Auto y-axis range and Use a split y-axis when necessary.](<../../../.gitbook/assets/7 (12)>)
 
 ### Labels <a href="#_arw3iud903wx" id="_arw3iud903wx"></a>
 
@@ -118,4 +110,3 @@ Step 3: Toggle on or off your labels for your x and y axes as needed. In this ex
 ![The image above shows users where to find the label toggles and where they show up on the chart.](../../../.gitbook/assets/8)
 
 It may take some back-and-forth to figure out which display settings are suitable for your data. Go ahead and try a few different options to see what works best for you [here](https://www.footprint.network/dashboards).
-
