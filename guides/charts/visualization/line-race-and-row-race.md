@@ -10,11 +10,11 @@ This article will guide you through Line Races and Row Races as well as walk you
 
 ### Line Race <a href="#_at8t0ip1t34l" id="_at8t0ip1t34l"></a>
 
-Line Races are used for plotting data captured in several sequences.&#x20;
+Line Races are used for plotting data captured in several sequences.
 
-![The gif above demonstrates an example of a line race as time goes by.](<../../../.gitbook/assets/0 (9)>)
+![The gif above demonstrates an example of a line race as time goes by.](<../../../.gitbook/assets/0 (14)>)
 
-Use case: **** Line Race - Comparison of Volumes
+Use case: \*\*\*\* Line Race - Comparison of Volumes
 
 Step 1: Click Create on the top right corner of the screen. A pop-up menu will appear. Click on New Chart.
 
@@ -22,19 +22,19 @@ Step 2: Click on NFT from the list on the left. Select **nft-marketplaces-daily-
 
 Step 3: In this case, we will be making a comparison of the _trading volume of 3 NFT trading markets in the past 30 days_. Click on **Filter**, then click on **protocol\_name**. Search and select **OpenSea**, **X2Y2**, and **LooksRare**, then click **Add filter**.
 
-![The image above shows where to find the protocol\_name under Filter.](<../../../.gitbook/assets/1 (13)>)
+![The image above shows where to find the protocol\_name under Filter.](<../../../.gitbook/assets/1 (17)>)
 
-![The image above shows the three protocol\_names we will be using for our example.](<../../../.gitbook/assets/2 (9)>)
+![The image above shows the three protocol\_names we will be using for our example.](<../../../.gitbook/assets/2 (15)>)
 
-![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../../.gitbook/assets/3 (7) (1)>)
+![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../../.gitbook/assets/3 (6)>)
 
 Step 4: Click on **Filter**, and this time click on **day**.
 
-![The image above shows where to find the day option under Filter.](<../../../.gitbook/assets/4 (10)>)
+![The image above shows where to find the day option under Filter.](<../../../.gitbook/assets/4 (15)>)
 
 Step 5: Select **Previous**, **30** and **Days**, then click on **Add filter**.
 
-![The image shows what the filter selection would look like for Step 5.](<../../../.gitbook/assets/5 (2)>)
+![The image shows what the filter selection would look like for Step 5.](<../../../.gitbook/assets/5 (1)>)
 
 ![The gif above demonstrates how to filter by the previous 30 days based on Step 5.](<../../../.gitbook/assets/6 (4)>)
 
@@ -46,7 +46,7 @@ Step 8: Click on the **Pick a column to group by** button. Select **protocol\_na
 
 Step 9: Click on **Visualize** on the bottom left corner of the screen.
 
-![The image above shows users how to summarize their data under the Advanced tab.](<../../../.gitbook/assets/7 (9)>)
+![The image above shows users how to summarize their data under the Advanced tab.](<../../../.gitbook/assets/7 (15)>)
 
 ![The gif above demonstrates Steps 7 and 8 in using the Summarize function.](<../../../.gitbook/assets/8 (6)>)
 
@@ -62,7 +62,7 @@ Y-axis = sum of volume;
 
 Category = protocol-name.
 
-![The image above shows how our completed Line Race chart would look like.](<../../../.gitbook/assets/10 (6) (1)>)
+![The image above shows how our completed Line Race chart would look like.](<../../../.gitbook/assets/10 (6)>)
 
 _**Note**: The Line Race chart is only available for membership holders._
 
@@ -72,9 +72,7 @@ Save to complete the creation of the chart.
 
 Row races are sometimes more suitable for multiple metrics than line races. It gives you a clearer view of how the rankings change for each metric.
 
-![The image above shows an example of what a Row Race looks like.](<../../../.gitbook/assets/11 (2)>)
-
-
+![The image above shows an example of what a Row Race looks like.](<../../../.gitbook/assets/11 (3)>)
 
 Use case: Row Race - Comparison of Sum of TVL
 
@@ -84,17 +82,15 @@ Step 2: Select the data **defi-daily-stats** under the **DeFi** drop-down list f
 
 Step 3: In this case, we will be making a comparison of the sum of TVL using 10 chains after March 31, 2021. Click on **Filter** on the top right corner, and then click on **chain**. Search and select the **chains Heco, Solana, PolyNetwork, Tron, Fantom, Stacks, Kava, Avalanche, Optimism,** and **Celo.**
 
-![The image above shows users where to find the chain filter based on Step 3.](<../../../.gitbook/assets/12 (5) (1)>)
+![The image above shows users where to find the chain filter based on Step 3.](<../../../.gitbook/assets/12 (6)>)
 
 Step 4: Click on **Filter**, and then day. Select **After** and choose **May 31, 2021** for our example.
 
-![The image above shows users where the day filter from Step 4 can be found.](<../../../.gitbook/assets/13 (4) (1)>)
+![The image above shows users where the day filter from Step 4 can be found.](<../../../.gitbook/assets/13 (6)>)
 
 ![The image above shows users where to select their desired date using the calendar based on Step 4.](../../../.gitbook/assets/14)
 
 ![The image above shows users what it looks like after the two filters from Steps 3 and 4.](<../../../.gitbook/assets/15 (2)>)
-
-
 
 Step 5: Click on Advanced, then click on Summarize. In our case, we will be selecting **sum of tvl**, grouped by **chain** and **day** (This operation displays data by day).
 

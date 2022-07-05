@@ -10,7 +10,7 @@ A pivot table is a data visualization tool that summarizes rows and columns of a
 
 For this article, we will be using the Sum of TVL using different chains for our example in creating a pivot table.
 
-Use case: **** [Pivot Table - Sum of tvl of different chains](https://www.footprint.network/chart/Use-case%3A-Pivot-Table-Sum-of-tvl-of-different-chains-fp-17534)
+Use case: \*\*\*\* [Pivot Table - Sum of tvl of different chains](https://www.footprint.network/chart/Use-case%3A-Pivot-Table-Sum-of-tvl-of-different-chains-fp-17534)
 
 Step 1: Click on **Create**, and then click on **New Chart**.
 
@@ -18,11 +18,11 @@ Step 2: Select the data **defi\_protocol\_daily\_stats**.
 
 Step 3: Click **Filter** on the top right corner, then click **chain**. In this case, we will be making a sum of tvl using different DeFi chains for the previous three days. So for our example, search and select Boba, CSC, and Celo. Click **Add filter**.
 
-![](<../../../.gitbook/assets/0 (10)>)
+![](<../../../.gitbook/assets/0 (17)>)
 
 The image above shows where to find the chain filter based on Step 3.
 
-![](<../../../.gitbook/assets/1 (12)>)
+![](<../../../.gitbook/assets/1 (16)>)
 
 The image above shows the three chains we filtered for: Boba, CSC and Celo.
 
@@ -32,25 +32,25 @@ Step 4: Click on Filter, and this time, choose a day. Set the filter to **Previo
 
 The image above shows where to find the day filter based on Step 4.
 
-![](<../../../.gitbook/assets/3 (3)>)
+![](<../../../.gitbook/assets/3 (1)>)
 
 The image above shows the filters chosen based on Step 4.
 
-![](<../../../.gitbook/assets/4 (5)>)
+![](<../../../.gitbook/assets/4 (7)>)
 
 The gif above demonstrates Steps 3 and 4.
 
-Step 5: Click **Advanced** on the top right corner, and click on Summarize. Click on the **Pick the metric you want to see** button and select **Sum of tvl**. Click on Pick a column to group by button and select **chain,** then **day**, **** and **protocol\_name**.
+Step 5: Click **Advanced** on the top right corner, and click on Summarize. Click on the **Pick the metric you want to see** button and select **Sum of tvl**. Click on Pick a column to group by button and select **chain,** then **day**, \*\*\*\* and **protocol\_name**.
 
-![](<../../../.gitbook/assets/5 (5) (1)>)
+![](<../../../.gitbook/assets/5 (5)>)
 
 The image above shows Step 5 of clicking Advanced and Summarize.
 
-![](<../../../.gitbook/assets/6 (9)>)
+![](<../../../.gitbook/assets/6 (13)>)
 
 The gif above demonstrates what and where to summarize in Step 5.
 
-![](<../../../.gitbook/assets/7 (7)>)
+![](<../../../.gitbook/assets/7 (11)>)
 
 The image above shows the end results of selecting the data set, filters, and what to summarize by.
 
@@ -64,7 +64,7 @@ Fields to use for the table columns = day;
 
 Fields to use for the table values = Sum of tvl;
 
-![](<../../../.gitbook/assets/8 (2) (1)>)
+![](<../../../.gitbook/assets/8 (3)>)
 
 The gif above demonstrates Step 6 of clicking Visualize and selecting Pivot Table.
 
@@ -78,7 +78,7 @@ To **rotate** the table, you can move the three fields, **rows, columns, and val
 
 The gif above demonstrates moving a field across the two categories rows and columns.
 
-![](<../../../.gitbook/assets/10 (5)>)
+![](<../../../.gitbook/assets/10 (4)>)
 
 The gif above demonstrates moving a field within the same category of rows.
 
@@ -98,7 +98,7 @@ The gif demonstrates where you can find and how you can toggle showing totals un
 
 You can navigate the table by collapsing and expanding **groups of rows**. To expand a group of rows, just click on the **downward arrow** next to your desired field in your table. To collapse a field, click on the **upward arrow** next to a field in your table.
 
-![](<../../../.gitbook/assets/12 (6)>)
+![](<../../../.gitbook/assets/12 (7)>)
 
 The gif above demonstrates expanding and collapsing a group of rows by using the arrows.
 
@@ -110,11 +110,11 @@ Step 1: Click on the **downward arrow** of your desired category.
 
 Step 2: Click on **See options** next to the text **Formatting** to bring up more settings.
 
-![](<../../../.gitbook/assets/13 (3)>)
+![](<../../../.gitbook/assets/13 (4)>)
 
 The image above shows users where they can find the See options button.
 
-![](<../../../.gitbook/assets/14 (3)>)
+![](<../../../.gitbook/assets/14 (4)>)
 
 The gif above demonstrates where to find the See options button and an example menu of the kinds of settings it pulls up.
 

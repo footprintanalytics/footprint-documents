@@ -5,6 +5,7 @@
 * [🏗 Architecture](architecture.md)
 * [💡 Use cases](use-case.md)
 * [🛠 Changelog](changelog/README.md)
+  * [July 1, 2022](changelog/july-1-2022.md)
   * [June 24, 2022](changelog/june-10-2022.md)
   * [June 17, 2022](changelog/june-17-2022.md)
   * [June 10, 2022](changelog/june-10-2022-1.md)
@@ -13,11 +14,11 @@
 
 ## DATA
 
-* [📑 Data Model](data-1/data-model/README.md)
-  * [Data Structure](data-1/data-model/data-structure.md)
-  * [Data Access](data-1/data-model/data-access.md)
-  * [Data Sources](data-1/data-model/data-sources.md)
-* [📖 Data Domains](data-1/data-domains/README.md)
+* [📑 Data model](data-1/data-model/README.md)
+  * [Data structure](data-1/data-model/data-structure.md)
+  * [Data access](data-1/data-model/data-access.md)
+  * [Data sources](data-1/data-model/data-sources.md)
+* [📖 Data categories](data-1/data-domains/README.md)
   * [Chain](data-1/data-domains/chain.md)
   * [NFT](data-1/data-domains/nft.md)
   * [GameFi](data-1/data-domains/gamefi.md)

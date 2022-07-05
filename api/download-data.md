@@ -4,8 +4,7 @@
    1. Send any phrase such as “I would like to acquire a free API account” showing your willingness to the official email address: sales@footprint.network
    2. Footprint will deliver your own API-KEY to your email address after the verification.
    3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply the above official email address if such requirements cannot be satisfied.
-    Starting your free trail now ！
-    
+  
 ## API Models & Enum
 
 **Chain Enum**

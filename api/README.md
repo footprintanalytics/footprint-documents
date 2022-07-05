@@ -9,7 +9,7 @@
 
 2\. In the Developer's settings, click on the **Generate Anth Key** button to get an **auth key.**
 
-![](<../.gitbook/assets/1 (3)>)
+![](<../.gitbook/assets/1 (5)>)
 
 3\. Use the auth key\
 Add the authentication: auth key to the header, for example:
@@ -47,7 +47,7 @@ Header row of uploaded table (see schema below)
 Date of table creation
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="updateForce" type="Boolean" %}
+{% swagger-parameter in="body" name="updateForce" type="Boolean" required="false" %}
 The default is false, if uploading data will overwrite existing data, this value needs to be set to true
 {% endswagger-parameter %}
 
@@ -112,4 +112,4 @@ Table data itself
 
 ### **Download data**
 
-**See** [Broken link](broken-reference "mention")****
+**See** [broken-reference](broken-reference/ "mention")\*\*\*\*
