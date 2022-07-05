@@ -7,7 +7,7 @@
 | **gold**  | **address\_token\_daily\_stats** | the token daily indicators in address (including address, chain,balance,token & token price,transactions,inflow amount, outflow amount, etc) | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=address\_token\_daily\_stats) |
 
 {% hint style="info" %}
-Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
+Check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue

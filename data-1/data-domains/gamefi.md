@@ -8,7 +8,7 @@
 | **gold**   | **gamefi\_protocol\_daily\_stats** | <p>GameFi daily indicators</p><p>(including chain,protocol slug, game genre, number of transactions/users, TVL,volume,etc )</p> | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=gamefi\_protocol\_daily\_stats) |
 
 {% hint style="info" %}
-Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
+Check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue
