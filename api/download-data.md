@@ -1,11 +1,10 @@
 # Download data
 
 ## Free access to Footprint APIs:
-
-1. Send any phrase such as “I would like to acquire a free API account” showing your willingness to the official email address: sales@footprint.network
-2. Footprint will deliver your own API-KEY to your email address after the verification.
-3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply the above official email address if such requirements cannot be satisfied. Starting your free trial now ！
-
+   1. Send any phrase such as “I would like to acquire a free API account” showing your willingness to the official email address: sales@footprint.network
+   2. Footprint will deliver your own API-KEY to your email address after the verification.
+   3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply the above official email address if such requirements cannot be satisfied.
+  
 ## API Models & Enum
 
 **Chain Enum**
@@ -113,7 +112,7 @@ Parameters:
 Request
 
 ```http
-/api/v1/nft/ethereum/nft_collection_daily_stats/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?on_date=2022-06-10
+https://api.footprint.network/api/v1/nft/ethereum/nft_collection_daily_stats/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?on_date=2022-06-10
 ```
 
 Result
@@ -165,7 +164,7 @@ Parameters:
 Request
 
 ```http
-/api/v1/nft/ethereum/nft_collection_info/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405 
+https://api.footprint.network/api/v1/nft/ethereum/nft_collection_info/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405 
 ```
 
 Result
@@ -201,7 +200,7 @@ Parameters:
 Request
 
 ```http
-/api/v1/nft/ethereum/nft_latest_stats/0x7c07aafa429d952ac3fde9ca037003edb57ce14e?limit=1&offset=0
+https://api.footprint.network/api/v1/nft/ethereum/nft_latest_stats/0x7c07aafa429d952ac3fde9ca037003edb57ce14e?limit=1&offset=0
 ```
 
 Result
@@ -252,7 +251,7 @@ Parameters:
 Request
 
 ```http
-/api/v1/nft/ethereum/nft_transactions/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?block_timestamp=2022-06-10&limit=2&offset=0
+https://api.footprint.network/api/v1/nft/ethereum/nft_transactions/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405?block_timestamp=2022-06-10&limit=2&offset=0
 ```
 
 Result
