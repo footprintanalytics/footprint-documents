@@ -1,14 +1,14 @@
-# ⚙ Data exploration using Python in Footprint
+# Data exploration using python in footprint
 
+## Get started
 
-# Get started
 1. Visit the following [URL](http://playground.footprint.network:8123/gateway/default/jupyter/lab/workspaces/auto-u?reset)
 2. Create your own folder in `GCS`
 3. Create a notebook in the folder
 
-![](<https://static.footprint.network/gitbook/image-python2.png>)
+![](https://static.footprint.network/gitbook/image-python2.png)
 
-# FAQ
+## FAQ
 
 <details>
 
@@ -17,9 +17,10 @@
 **Basic workflow**
 
 The sample code could be found in `/GCS/101/data-explorer.ipynb`. Here you you will find how to:
-- Connect to the database
-- Query the data
-- Display the results tables
+
+* Connect to the database
+* Query the data
+* Display the results tables
 
 **Save to CSV**
 
@@ -27,13 +28,13 @@ The sample code could be found in `/GCS/101/data-explorer.ipynb`. Here you you w
 2. Find **/tmp/fp-demo.csv** in the address bar.
 3. Download csv.
 
-![](<https://static.footprint.network/gitbook/image-python4.png>)
+<img src="https://static.footprint.network/gitbook/image-python4.png" alt="" data-size="original">
 
- Once the `.csv` is successfully save, it can be uploaded to Footprint:
+Once the `.csv` is successfully save, it can be uploaded to Footprint:
 
-![](<https://static.footprint.network/gitbook/image-python3.png>)
+<img src="https://static.footprint.network/gitbook/image-python3.png" alt="" data-size="original">
 
-![](<https://static.footprint.network/gitbook/image-python1.png>)
+<img src="https://static.footprint.network/gitbook/image-python1.png" alt="" data-size="original">
 
 </details>
 
@@ -42,8 +43,6 @@ The sample code could be found in `/GCS/101/data-explorer.ipynb`. Here you you w
 <summary><strong>Which permissions do I have?</strong></summary>
 
 Only **read-only** permissions are currently available
-
-</details>
 
 </details>
 

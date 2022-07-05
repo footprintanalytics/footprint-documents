@@ -54,6 +54,7 @@
 
 * [⚙ API](api/README.md)
   * [Download data](api/download-data.md)
+  * [Data exploration using python in footprint](api/data-exploration-using-python-in-footprint.md)
 * [❓ FAQ](faq.md)
 * [🏷 PRICING](https://www.footprint.network/pricing)
 

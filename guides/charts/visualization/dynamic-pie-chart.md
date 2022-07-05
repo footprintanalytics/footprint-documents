@@ -59,7 +59,7 @@ The gif above demonstrates Step 5 in sorting the dataset.
 
 Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-![](<../../../.gitbook/assets/5 (14)>)
+![](<../../../.gitbook/assets/5 (14) (1)>)
 
 The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
 
@@ -69,7 +69,7 @@ In this use case, we choose
 * **y-axis** = sum of tvl;
 * **category** = chain;
 
-![](<../../../.gitbook/assets/6 (12)>)
+![](<../../../.gitbook/assets/6 (12) (1)>)
 
 The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
 

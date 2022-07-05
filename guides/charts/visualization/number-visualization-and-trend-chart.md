@@ -6,7 +6,7 @@ In order to see the full picture, it's best to look at a dashboard, such as Curv
 
 This guide will show you how to make a Number Visualization and Trend Chart, as well as each of their use cases.
 
-![Number and Trend visualisations](<../../../.gitbook/assets/0 (12)>)
+![Number and Trend visualisations](<../../../.gitbook/assets/0 (12) (1)>)
 
 ### Numbers visualisation <a href="#_6tqc66sid5af" id="_6tqc66sid5af"></a>
 
