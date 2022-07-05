@@ -17,7 +17,7 @@ Click the table name to check the data dictionary to get more information(field,
 
 The unique key for joining datasets is **protocol\_slug**.
 
-If you can't find the protocols you want to see, please submit contract address [here](https://legend-maxilla-97a.notion.site/Contract-Addresses-7989b1592ad24011a508ce3db601bb32).
+If you can't find the protocols you want to see, please submit contract address on [Footprint Notion](https://legend-maxilla-97a.notion.site/Contract-Addresses-7989b1592ad24011a508ce3db601bb32).
 
 ### How do communities use those tables?
 
