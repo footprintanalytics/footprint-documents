@@ -1,4 +1,5 @@
 # Download data
+
 ## Free access to Footprint APIs:
    1. Send any phrase such as “I would like to acquire a free API account” showing your willingness to the official email address: sales@footprint.network
    2. Footprint will deliver your own API-KEY to your email address after the verification.
