@@ -23,6 +23,6 @@ If you can't find the protocols you want to see, please submit contract address 
 
 Monitor Protocol address(users):
 
-1. [Address Analysis of Protocol](https://www.footprint.network/guest/dashboard/77828d1e-35bc-4b6c-90e9-7777e7c6902d?protocol\_name=decentral-games\&date\_range=past90days)
-2. [BSC GameFi Tracker](https://www.footprint.network/guest/dashboard/2d160924-cc78-4c80-906d-e25b7679c843?chain=BSC\&date\_filter=past30days)
-3. [GameFi User vs Token Price Analysis](https://www.footprint.network/guest/dashboard/2a4be75a-710f-49c5-8dd2-4463e29cb68c?date=past365days\~\&game\_name=My%20DeFi%20Pet\&protocol\_type=GameFi)
+* [Address Analysis of Protocol](https://www.footprint.network/guest/dashboard/77828d1e-35bc-4b6c-90e9-7777e7c6902d?protocol\_name=decentral-games\&date\_range=past90days)
+* [BSC GameFi Tracker](https://www.footprint.network/guest/dashboard/2d160924-cc78-4c80-906d-e25b7679c843?chain=BSC\&date\_filter=past30days)
+* [GameFi User vs Token Price Analysis](https://www.footprint.network/guest/dashboard/2a4be75a-710f-49c5-8dd2-4463e29cb68c?date=past365days\~\&game\_name=My%20DeFi%20Pet\&protocol\_type=GameFi)

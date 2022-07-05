@@ -25,8 +25,8 @@ The unique key for joining datasets is **protocol\_slug**.
 ### How do communities use those tables?
 
 1. Monitor GameFi industry
-   1. [GameFi Overview](https://www.footprint.network/guest/dashboard/c358ff97-6bf6-491c-b9fd-645fb8262e3f)
-   2. [Dashboard For GameFi Industry](https://www.footprint.network/guest/dashboard/f7d88ee8-9341-49ae-b497-088bee7ec038?date=past60days)
+   * [GameFi Overview](https://www.footprint.network/guest/dashboard/c358ff97-6bf6-491c-b9fd-645fb8262e3f)
+   * [Dashboard For GameFi Industry](https://www.footprint.network/guest/dashboard/f7d88ee8-9341-49ae-b497-088bee7ec038?date=past60days)
 2. Track Games
-   1. [GameFi Tracker](https://www.footprint.network/guest/dashboard/f39ac368-f265-4ae3-8466-8385e06c043d?relative\_date=past30days)
-   2. [Axie Infinity Dashboard](https://www.footprint.network/guest/dashboard/db8d941f-2a74-4120-abd4-ff20fc032a5e)
+   * [GameFi Tracker](https://www.footprint.network/guest/dashboard/f39ac368-f265-4ae3-8466-8385e06c043d?relative\_date=past30days)
+   * [Axie Infinity Dashboard](https://www.footprint.network/guest/dashboard/db8d941f-2a74-4120-abd4-ff20fc032a5e)

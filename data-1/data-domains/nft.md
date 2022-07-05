@@ -30,7 +30,7 @@ The unique keys for joining datasets are **protocol\_slug /collection\_name**.
 ### How do communities use those tables?
 
 1. Monitor NFT collection
-   1. [Meebits Data Analysis](https://www.footprint.network/guest/dashboard/306f993b-8ce3-4710-9ca7-e678110215b3?series\_date=past90days)
-   2. [Hashland NFT Dashboard](https://www.footprint.network/guest/dashboard/797c63e0-1bf3-4dfc-af80-1eee5dabad3d)
+   * [Meebits Data Analysis](https://www.footprint.network/guest/dashboard/306f993b-8ce3-4710-9ca7-e678110215b3?series\_date=past90days)
+   * [Hashland NFT Dashboard](https://www.footprint.network/guest/dashboard/797c63e0-1bf3-4dfc-af80-1eee5dabad3d)
 2. Monitor NFT stats of Chain:[NFT Market Overview on Ethereum](https://www.footprint.network/guest/dashboard/9189d1a0-b0e2-4b65-b45d-d01ef2b83bf4?series\_date=past90days)
 3. Monitor NFT stats of GameFi:[NFT Collection Stats of GameFi](https://www.footprint.network/guest/dashboard/22c585eb-9d28-4211-8310-c00db76b933e?nft\_collection=starsharks)
