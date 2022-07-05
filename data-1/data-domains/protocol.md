@@ -2,22 +2,22 @@
 
 ### Tables for Protocol
 
-| data level | table name                    | data contents                                                                                                            | data dictionary                                                                                                             |
-| ---------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| **silver** | **protocol\_info**            | <p>protocol basic info</p><p>(including token symbol, logo,token address,etc)</p>                                        | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_info)            |
-| **silver** | **protocol\_transactions**    | <p>the protocols transaction details</p><p>(including chain, contract address, method,transaction value,etc)</p>         | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_transactions)    |
-| **gold**   | **protocol\_daily\_stats**    | <p>the protocol daily active/new address</p><p>(including number of active address/ new address,unique address,etc )</p> | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_daily\_stats)    |
-| **gold**   | **protocol\_active\_address** | the protocol daily active address (including DeFi and GameFi protocols)                                                  | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_active\_address) |
+| data level | table name                                                                                                                       | data contents                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| silver     | [protocol\_info](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_info)                       | <p>protocol basic info</p><p>(including token symbol, logo,token address,etc)</p>                                        |
+| silver     | [protocol\_transactions](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_transactions)       | <p>the protocols transaction details</p><p>(including chain, contract address, method,transaction value,etc)</p>         |
+| gold       | [protocol\_daily\_stats](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_daily\_stats)       | <p>the protocol daily active/new address</p><p>(including number of active address/ new address,unique address,etc )</p> |
+| gold       | [protocol\_active\_address](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_active\_address) | the protocol daily active address (including DeFi,NFT,GameFi protocols)                                                  |
 
 {% hint style="info" %}
-Check the data dictionary to get more information(field, field type,**methodology**,description)
+Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue
 
 The unique key for joining datasets is **protocol\_slug**.
 
-If you can't find the protocols you want to see, please submit contract address [here](https://legend-maxilla-97a.notion.site/Contract-Addresses-7989b1592ad24011a508ce3db601bb32).
+If you can't find the protocols you want to see, please submit contract address on [Footprint Notion](https://legend-maxilla-97a.notion.site/Contract-Addresses-7989b1592ad24011a508ce3db601bb32).
 
 ### How do communities use those tables?
 
