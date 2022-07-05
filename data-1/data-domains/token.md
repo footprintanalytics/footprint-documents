@@ -2,16 +2,16 @@
 
 Footprint has included 100 k+ tokens in 110+ chains. Token price, tokenomic,holders,market cap,etc are available to analyze.
 
-### Tables for token
+### Tables for Token
 
-| data level | table name                                                                                                                         | data contents                                                                                                                                                  |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| silver     | [token\_info](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_info)                               | <p>token basic info</p><p>(including token symbol, logo,token address,etc)</p>                                                                                 |
-| gold       | [token\_chain\_daily\_stats](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_chain\_daily\_stats) | <p>the token daily indicators on multiple chains</p><p>(including tokenomic,mint and burn amount, number of active address/ new address/ transactions,etc)</p> |
-| gold       | [token\_daily\_stats](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_daily\_stats)               | the token daily indicators (including token price,market cap,trade volume, FDV,supply,etc )                                                                    |
+| data level | table name                     | data contents                                                                                                                                                  | data dictionary                                                                                                              |
+| ---------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **silver** | **token\_info**                | <p>token basic info</p><p>(including token symbol, logo,token address,etc)</p>                                                                                 | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_info)                |
+| **gold**   | **token\_chain\_daily\_stats** | <p>the token daily indicators on multiple chains</p><p>(including tokenomic,mint and burn amount, number of active address/ new address/ transactions,etc)</p> | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_chain\_daily\_stats) |
+| **gold**   | **token\_daily\_stats**        | the token daily indicators (including token price,market cap,trade volume, FDV,supply,etc )                                                                    | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_daily\_stats)        |
 
 {% hint style="info" %}
-Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
+Check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue
