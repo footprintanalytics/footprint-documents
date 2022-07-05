@@ -1,13 +1,13 @@
 # Label
 
-### **Tables for label**
+### **Tables for Label**
 
-| data level | table name                                                                                           | data contents                                                      |
-| ---------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| silver     | [entity\_tag](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=entity\_tag) | tags for entity (including entity, entity type name, tag name,etc) |
+| data level | table name      | data contents                                                      | data dictionary                                                                                                                |
+| ---------- | --------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **silver** | **entity\_tag** | tags for entity (including entity, entity type name, tag name,etc) | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=address\_asset\_daily\_stats) |
 
 {% hint style="info" %}
-Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
+Check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ***
