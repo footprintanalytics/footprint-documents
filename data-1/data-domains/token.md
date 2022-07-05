@@ -2,7 +2,7 @@
 
 Footprint has included 100 k+ tokens in 110+ chains. Token price, tokenomic,holders,market cap,etc are available to analyze.
 
-### Tables for Token
+### Tables for token
 
 | data level | table name                     | data contents                                                                                                                                                  | data dictionary                                                                                                              |
 | ---------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@ Footprint has included 100 k+ tokens in 110+ chains. Token price, tokenomic,hold
 | **gold**   | **token\_daily\_stats**        | the token daily indicators (including token price,market cap,trade volume, FDV,supply,etc )                                                                    | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=token\_daily\_stats)        |
 
 {% hint style="info" %}
-Check the data dictionary to get more information(field, field type,**methodology**,description)
+Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue
