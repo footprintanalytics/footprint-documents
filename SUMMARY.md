@@ -18,7 +18,7 @@
   * [Data structure](data-1/data-model/data-structure.md)
   * [Data access](data-1/data-model/data-access.md)
   * [Data sources](data-1/data-model/data-sources.md)
-* [📖 Data domains](data-1/data-domains/README.md)
+* [📖 Data categories](data-1/data-domains/README.md)
   * [Chain](data-1/data-domains/chain.md)
   * [NFT](data-1/data-domains/nft.md)
   * [GameFi](data-1/data-domains/gamefi.md)

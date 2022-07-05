@@ -1,4 +1,4 @@
-# 📖 Data domains
+# 📖 Data categories
 
 ## The key to discover Footprint data?
 
@@ -30,7 +30,7 @@ Footprint has richest blockchain data,including chains,contracts,protocols,NFT \
 Check the details in [Footprint Data Overview](https://www.footprint.network/@Footprint/Footprint-Data-Overview) and [Footprint Data Dictionary](https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary)
 {% endhint %}
 
-Footprint divides data into the following domains:
+Footprint divides data into the following categories:
 
 {% content-ref url="chain.md" %}
 [chain.md](chain.md)
