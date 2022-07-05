@@ -7,7 +7,7 @@
 | **silver** | **entity\_tag** | tags for entity (including entity, entity type name, tag name,etc) | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=address\_asset\_daily\_stats) |
 
 {% hint style="info" %}
-Check the data dictionary to get more information(field, field type,**methodology**,description)
+Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ***

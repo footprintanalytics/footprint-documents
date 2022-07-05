@@ -10,7 +10,7 @@
 | **gold**   | **protocol\_active\_address** | the protocol daily active address (including DeFi and GameFi protocols)                                                  | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_active\_address) |
 
 {% hint style="info" %}
-Check the data dictionary to get more information(field, field type,**methodology**,description)
+Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue

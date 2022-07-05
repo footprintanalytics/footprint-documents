@@ -14,7 +14,7 @@
 | **gold**   | **lending\_pool\_daily\_stats**        | <p>the transactions of DeFi Lending protocols</p><p>(including pool name,deposit/collateral/borrow token &#x26; amount, flashloan,etc)</p> | [**data dictionary>**](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=lending\_pool\_daily\_stats)        |
 
 {% hint style="info" %}
-Check the data dictionary to get more information(field, field type,**methodology**,description)
+Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
 {% endhint %}
 
 ### Known issue
