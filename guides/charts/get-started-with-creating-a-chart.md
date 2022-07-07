@@ -14,7 +14,7 @@ Let's make a [guide-to-line-chart.md](visualization/guide-to-line-chart.md "ment
 
 **Step 1**. Click on <mark style="background-color:purple;">Create</mark> and select <mark style="background-color:purple;">New chart</mark>.
 
-![](<../../.gitbook/assets/11 (5)>)
+![](<../../.gitbook/assets/11 (8)>)
 
 The image above shows users how to create a new chart based on Steps 1 and 2.
 
@@ -22,16 +22,16 @@ The image above shows users how to create a new chart based on Steps 1 and 2.
 
 **Step 3**. Select the data table `ethereum_transactions`.
 
-![](<../../.gitbook/assets/13 (1) (1)>)
+![](<../../.gitbook/assets/13 (2)>)
 
 The gif above demonstrates Steps 1 to 3, the process of getting to `ethereum_transactions` for the purpose of this guide.
 
-**Step 4.** In the `ethereum_transactions` table, there is one record for each transaction, which means you can directly count the number of records and group by day. Click <mark style="background-color:purple;">Summarise</mark> **** in the upper right corner, and then pick <mark style="background-color:purple;">Count of rows</mark>.
+**Step 4.** In the `ethereum_transactions` table, there is one record for each transaction, which means you can directly count the number of records and group by day. Click <mark style="background-color:purple;">Summarise</mark> \*\*\*\* in the upper right corner, and then pick <mark style="background-color:purple;">Count of rows</mark>.
 
 ![How to summarize by count of rows according to Steps 1 to 3.](<../../.gitbook/assets/14 (2)>)
 
 **Step 5**. Under the `ethereum_transactions` field, scroll down and select `block_timestamp`, which needs to be grouped `Day`.
 
-![Scroll down for block\_timestamp under the Group-by field for Step 4.](<../../.gitbook/assets/15 (2) (1)>)
+![Scroll down for block\_timestamp under the Group-by field for Step 4.](<../../.gitbook/assets/15 (3)>)
 
-![Steps 4 to 5, navigating how to select Count of rows and block\_timestamp by day.](<../../.gitbook/assets/17 (1) (1)>)
+![Steps 4 to 5, navigating how to select Count of rows and block\_timestamp by day.](<../../.gitbook/assets/17 (3)>)

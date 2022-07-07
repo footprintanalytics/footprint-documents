@@ -4,19 +4,19 @@ In Footprint Analytics, **a dashboard is a grid-based collection of charts and t
 
 Step 1: Click on the **Create** button on the top right hand-side of the screen.
 
-![](<../../.gitbook/assets/0 (7) (1)>)
+![](<../../.gitbook/assets/0 (13)>)
 
 The image above shows where the **Create** button is.
 
 Step 2: Once the pop-up menu appears, select **New Dashboard.**
 
-![](<../../.gitbook/assets/1 (9)>)
+![](<../../.gitbook/assets/1 (13)>)
 
 The image above shows where the **New Dashboard** button is.
 
 Step 3: The Dashboard editor opens in a new tab, select the **Add chart** button.
 
-![](<../../.gitbook/assets/2 (10)>)
+![](<../../.gitbook/assets/2 (19)>)
 
 The image above shows where the **Add chart** option is.
 
@@ -28,11 +28,11 @@ The image above shows where the **Community Charts** tab is.
 
 Step 5: Select the charts one at a time to add them into our dashboard by clicking on the **+Add** button next to each respective chart.
 
-![](<../../.gitbook/assets/4 (7)>)
+![](<../../.gitbook/assets/4 (12)>)
 
 The image above shows where the charts are in the Community charts tab.
 
-![](<../../.gitbook/assets/1 (3) (1) (1) (1) (1) (1) (2)>)
+![](<../../.gitbook/assets/1 (11) (1)>)
 
 The gif above demonstrates how to create a dashboard following Steps 1 to 5.
 
@@ -44,13 +44,13 @@ The image above shows where the **My charts** tab is.
 
 Step 7: You can also search for a specific chart by name or by its URL link in the **search box**.
 
-![](<../../.gitbook/assets/7 (6) (1) (1)>)
+![](<../../.gitbook/assets/7 (13)>)
 
 The image above shows where the **Search box** is.
 
-Step 8: Make sure to click onH **Save** to finalize **** your completed dashboard.
+Step 8: Make sure to click onH **Save** to finalize \*\*\*\* your completed dashboard.
 
-![](<../../.gitbook/assets/8 (6) (1)>)
+![](<../../.gitbook/assets/8 (7)>)
 
 The image above shows where the **save** button is.
 

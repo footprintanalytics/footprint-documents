@@ -1,36 +1,36 @@
-# 📖 Data Domains
+# 📖 Data categories
 
-## The Key to Discover Footprint Data?
+## The key to discover Footprint data?
 
-### Unique Keys for joining data&#x20;
+### Unique keys for joining data
 
-1. name/slug&#x20;
-   1. protocol\_slug (most frequently used)
-   2. token\_slug&#x20;
-   3. chain&#x20;
-   4. pool\_name&#x20;
-2. Address&#x20;
-   1. contract address&#x20;
-   2. token address&#x20;
-   3. wallet address (user)&#x20;
-3. Date&#x20;
-   1. on\_date&#x20;
-   2. block timestamp&#x20;
+1. name/slug
+   * protocol\_slug (most frequently used)
+   * token\_slug
+   * chain
+   * pool\_name
+2. Address
+   * contract address
+   * token address
+   * wallet address (user)
+3. Date
+   * on\_date
+   * block timestamp
 
-### Search&#x20;
+### Search
 
-1. Search chain,protocol/marketplace,metrics, anything you want to view or analyze&#x20;
-2. Search dashboards or creators
+1. Search chain,protocol/marketplace,metrics, anything you want to view or analyze.
+2. Search dashboards or creators.
 
 ## **What data does footprint have?**
 
-Footprint has richest blockchain data,including chains,contracts,protocols,NFT **** collections,address,tokens,labels,etc
+Footprint has richest blockchain data,including chains,contracts,protocols,NFT \*\*\*\* collections,address,tokens,labels,etc.
 
 {% hint style="info" %}
 Check the details in [Footprint Data Overview](https://www.footprint.network/@Footprint/Footprint-Data-Overview) and [Footprint Data Dictionary](https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary)
 {% endhint %}
 
-Footprint divides data into the following domains:
+Footprint divides data into the following categories:
 
 {% content-ref url="chain.md" %}
 [chain.md](chain.md)

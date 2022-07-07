@@ -21,11 +21,11 @@ To customize your line chart, you can click on the **Visualization** button in t
 
 For time series, toggle the T**rend line** option and Footprint will auto-calculate a trend line for you. You can also add a goal line by specifying a value and a label.
 
-![Trend line toggle can be found along with the results.](<../../../.gitbook/assets/0 (8) (1)>)
+![Trend line toggle can be found along with the results.](<../../../.gitbook/assets/0 (15)>)
 
 The **Goal line** is another option you can toggle on and off under Settings. The goal line requires a valid number before it can show on the chart. You can set this number under **Goal value** and change the goal name under **Goal label**.
 
-![Goal line being toggled on, along with the Goal line itself appearing after the Goal value has been set.](<../../../.gitbook/assets/1 (8)>)
+![Goal line being toggled on, along with the Goal line itself appearing after the Goal value has been set.](<../../../.gitbook/assets/1 (12)>)
 
 ### More on the Axes <a href="#_95bc7ucqlvwf" id="_95bc7ucqlvwf"></a>
 
@@ -41,4 +41,4 @@ When your chart has several series in it, you can hover over the name of a serie
 
 When you hover over the data on the chart, you can see the detailed information pop out from it.
 
-![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/3 (2) (1) (1)>)
+![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/5 (15)>)
