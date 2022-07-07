@@ -22,17 +22,17 @@ Step 3: Click **Filter** on the top right corner, then click **chain**. In this 
 
 The image above shows where to find the chain filter based on Step 3.
 
-![](<../../../.gitbook/assets/1 (16)>)
+![](<../../../.gitbook/assets/1 (17)>)
 
 The image above shows the three chains we filtered for: Boba, CSC and Celo.
 
 Step 4: Click on Filter, and this time, choose a day. Set the filter to **Previous 3 Days**. Click **Add filter**.
 
-![](<../../../.gitbook/assets/2 (6)>)
+![](<../../../.gitbook/assets/2 (8)>)
 
 The image above shows where to find the day filter based on Step 4.
 
-![](<../../../.gitbook/assets/3 (1)>)
+![](<../../../.gitbook/assets/3 (2)>)
 
 The image above shows the filters chosen based on Step 4.
 
@@ -42,15 +42,15 @@ The gif above demonstrates Steps 3 and 4.
 
 Step 5: Click **Advanced** on the top right corner, and click on Summarize. Click on the **Pick the metric you want to see** button and select **Sum of tvl**. Click on Pick a column to group by button and select **chain,** then **day**, \*\*\*\* and **protocol\_name**.
 
-![](<../../../.gitbook/assets/5 (5)>)
+![](<../../../.gitbook/assets/5 (7)>)
 
 The image above shows Step 5 of clicking Advanced and Summarize.
 
-![](<../../../.gitbook/assets/6 (13)>)
+![](<../../../.gitbook/assets/6 (15)>)
 
 The gif above demonstrates what and where to summarize in Step 5.
 
-![](<../../../.gitbook/assets/7 (11)>)
+![](<../../../.gitbook/assets/7 (12)>)
 
 The image above shows the end results of selecting the data set, filters, and what to summarize by.
 
@@ -64,7 +64,7 @@ Fields to use for the table columns = day;
 
 Fields to use for the table values = Sum of tvl;
 
-![](<../../../.gitbook/assets/8 (3)>)
+![](<../../../.gitbook/assets/8 (4)>)
 
 The gif above demonstrates Step 6 of clicking Visualize and selecting Pivot Table.
 

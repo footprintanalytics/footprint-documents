@@ -5,17 +5,17 @@
 ### Unique keys for joining data
 
 1. name/slug
-   * protocol\_slug (most frequently used)
-   * token\_slug
-   * chain
-   * pool\_name
+   * `protocol_slug` (most frequently used)
+   * `token_slug`
+   * `chain`
+   * `pool_name`
 2. Address
-   * contract address
-   * token address
-   * wallet address (user)
+   * `contract address`
+   * `token address`
+   * `wallet address` (user)
 3. Date
-   * on\_date
-   * block timestamp
+   * `on_date`
+   * `block timestamp`
 
 ### Search
 
@@ -24,7 +24,7 @@
 
 ## **What data does footprint have?**
 
-Footprint has richest blockchain data,including chains,contracts,protocols,NFT \*\*\*\* collections,address,tokens,labels,etc.
+Footprint has richest blockchain data,including chains,contracts,protocols,NFT collections,address,tokens,labels,etc.
 
 {% hint style="info" %}
 Check the details in [Footprint Data Overview](https://www.footprint.network/@Footprint/Footprint-Data-Overview) and [Footprint Data Dictionary](https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary)
