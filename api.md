@@ -1,15 +1,15 @@
-# ⚙ API
+# ⚙ Upload API
 
 ## **Generate developer auth key**
 
 1. **Generate an auth key**\
    On the top right hand-side of the website, click on **your avatar.** A pop-up menu will appear. And then click on **Account Settings.**
 
-![](<../.gitbook/assets/0 (6)>)
+![](<.gitbook/assets/0 (6)>)
 
 2\. In the Developer's settings, click on the **Generate Anth Key** button to get an **auth key.**
 
-![](<../.gitbook/assets/1 (5)>)
+![](<.gitbook/assets/1 (5)>)
 
 3\. Use the auth key\
 Add the authentication: auth key to the header, for example:
@@ -109,7 +109,3 @@ Table data itself
    ]
 }
 ```
-
-### **Download data**
-
-**See** [broken-reference](broken-reference/ "mention")\*\*\*\*

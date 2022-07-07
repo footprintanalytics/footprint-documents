@@ -24,7 +24,7 @@ Step 3: In this case, we will be making a comparison of the _trading volume of 3
 
 ![The image above shows where to find the protocol\_name under Filter.](<../../../.gitbook/assets/1 (18)>)
 
-![The image above shows the three protocol\_names we will be using for our example.](<../../../.gitbook/assets/2 (16)>)
+![The image above shows the three protocol\_names we will be using for our example.](<../../../.gitbook/assets/2 (17)>)
 
 ![The gif above demonstrates Step 3 in filtering by protocol\_name.](<../../../.gitbook/assets/3 (10)>)
 

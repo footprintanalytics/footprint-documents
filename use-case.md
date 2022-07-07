@@ -16,7 +16,7 @@ This chart is from the dashboard[ _Address Analysis of GameFi Project_](https://
 
 This chart is from the dashboard of _Chain Overview_, showing the number of protocols by chain.
 
-![The image above shows a row chart detailing the number of protocols by chain](<.gitbook/assets/2 (17)>)
+![The image above shows a row chart detailing the number of protocols by chain](<.gitbook/assets/2 (18)>)
 
 ### [GameFi](https://www.footprint.network/guest/dashboard/Ethereum-GameFi-Tracker-fp-60abcc01-61e2-4daf-9f90-1cf4d30e9b28?chain=Ethereum\&date\_filter=past30days) <a href="#_gu57b4mu338c" id="_gu57b4mu338c"></a>
 

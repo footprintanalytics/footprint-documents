@@ -49,12 +49,13 @@
   * [Design](guides/dashboards/how-to-create-a-new-dashboard-1.md)
   * [Create embed link](guides/dashboards/four-steps-to-embed-public-link.md)
   * [Share](guides/dashboards/share-your-dashboards.md)
+* [🔍 Data exploration](guides/data-exploration/README.md)
+  * [Data exploration using python in footprint](guides/data-exploration/data-exploration-using-python-in-footprint.md)
 
 ***
 
-* [⚙ API](api/README.md)
-  * [Download data](api/download-data.md)
-  * [Data exploration using python in footprint](api/data-exploration-using-python-in-footprint.md)
+* [⚙ Upload API](api.md)
+* [🔩 Data API](download-data.md)
 * [❓ FAQ](faq.md)
 * [🏷 PRICING](https://www.footprint.network/pricing)
 

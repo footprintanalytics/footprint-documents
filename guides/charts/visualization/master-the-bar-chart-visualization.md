@@ -34,7 +34,7 @@ Step 3: Click on Add another series to add a column or click on the x button nex
 
 ![The gif demonstrates how to add and remove columns from your bar chart.](<../../../.gitbook/assets/1 (9)>)
 
-![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../../.gitbook/assets/2 (12)>)
+![The image above shows users where to find the Data, Display, Axes, and Labels options we will be going through in this article. Make sure to click Done after making changes.](<../../../.gitbook/assets/2 (13)>)
 
 ### Display <a href="#_ov717bw2t5g4" id="_ov717bw2t5g4"></a>
 
@@ -50,7 +50,7 @@ Step 2: Click on **Display.**
 
 Step 3: Click on **Stack** or **Stack - 100%**.
 
-![](<../../../.gitbook/assets/2 (14)>)
+![](<../../../.gitbook/assets/2 (15)>)
 
 #### Setting a Goal <a href="#_cb9x1evmtu7k" id="_cb9x1evmtu7k"></a>
 

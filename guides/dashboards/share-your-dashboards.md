@@ -46,7 +46,7 @@ Watermarks are removable with the option found under the Set to private feature.
 
 Note: _The Remove Watermark function is only available for membership holders._
 
-![](<../../.gitbook/assets/2 (9)>)
+![](<../../.gitbook/assets/2 (10)>)
 
 The image above shows users what the Remove watermark option looks like.
 
