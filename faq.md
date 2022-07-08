@@ -4,10 +4,10 @@
 
 <summary><strong>Are there any documents about the data source?</strong></summary>
 
-There are 3 data sources:&#x20;
+There are 3 data sources:
 
 1. On-chain data (DeFi, NFTs, GameFi and etc.)
-2. Off-chain data (i.e some token prices come from the Coingecko API)&#x20;
+2. Off-chain data (i.e some token prices come from the Coingecko API)
 3. Data uploaded by community
 
 For more check out [data.md](data.md "mention")
@@ -57,7 +57,7 @@ You can open the[ Footprint Datasets & Data Dictionary](https://www.footprint.ne
 Yes. Footprint Analytics supports 2 ways to upload your data and cross-analyse it with existing data.
 
 1. Using a CSV or Excel file (see [more](https://www.footprint.network/chart/custom-upload))
-2. Using API upload (see [api](api/ "mention"))
+2. Using API upload (see [api.md](api.md "mention"))
 
 </details>
 

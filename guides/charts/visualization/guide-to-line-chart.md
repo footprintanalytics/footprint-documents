@@ -37,8 +37,8 @@ For the y axis, you can select linear (the default), or power or log scales. Log
 
 When your chart has several series in it, you can hover over the name of a series in the chart to highlight it and fade out the other series.
 
-![Series being highlighted upon hovering over its label.](<../../../.gitbook/assets/2 (1) (1) (2)>)
+![Series being highlighted upon hovering over its label.](<../../../.gitbook/assets/2 (1) (4)>)
 
 When you hover over the data on the chart, you can see the detailed information pop out from it.
 
-![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/5 (15)>)
+![Additional details popping out from the data being hovered upon in the chart](<../../../.gitbook/assets/3 (2) (1) (1)>)

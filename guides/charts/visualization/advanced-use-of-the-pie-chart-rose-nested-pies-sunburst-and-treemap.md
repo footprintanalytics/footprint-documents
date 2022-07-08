@@ -10,7 +10,7 @@ Footprint Analytics offers users four styles of pie charts, allowing users to mo
 
 The **Rose Chart** shows a more intense style for showing data percentage in one dimension. Each directional axis shows values increasing outwards
 
-![The gif above demonstrates what a Rose Chart would look like upon hovering over it.](<../../../.gitbook/assets/0 (10)>)
+![The gif above demonstrates what a Rose Chart would look like upon hovering over it.](<../../../.gitbook/assets/0 (11)>)
 
 Let’s go through the process of making our own Rose Chart using the Sum of Users from Different Chains.
 
@@ -24,25 +24,25 @@ Step 3: Click **Filter**. In this case, we will be focusing on a sum of users fr
 
 ![The image above shows users where to find the day option under Filter based on Step 3.](<../../../.gitbook/assets/1 (6)>)
 
-![The image above shows users where to set the filter to Previous 7 Days and where the Add filter button is based on Step 3.](<../../../.gitbook/assets/2 (5)>)
+![The image above shows users where to set the filter to Previous 7 Days and where the Add filter button is based on Step 3.](<../../../.gitbook/assets/2 (7)>)
 
-![The gif above demonstrates Step 3 on how to filter.](<../../../.gitbook/assets/3 (7)>)
+![The gif above demonstrates Step 3 on how to filter.](<../../../.gitbook/assets/3 (11)>)
 
 Step 4: Click **Advanced** on the top right corner of the screen. \*\*\*\* Click the **Summarize** button Click on **Pick the metric you want to see** and set it to **Sum of users**. Click on Pick a column to group by and set it to **chain**.
 
 ![The image above shows users where and what to summarize based on Step 4.](../../../.gitbook/assets/4)
 
-![The gif above demonstrates Step 4 on how to summarize.](<../../../.gitbook/assets/5 (3)>)
+![The gif above demonstrates Step 4 on how to summarize.](<../../../.gitbook/assets/5 (4)>)
 
 Step 5: Click **Visualize**, then choose **Rose**. Then, set the data as required.
 
 In our case, we will be leaving the **Name** as default and changing the **Numerical Value** from **chain** to **sum of users** using the downward arrow icon, then click **Done**.
 
-![The gif above demonstrates how to switch your numerical value to the sum of users based on Step 5.](<../../../.gitbook/assets/6 (11)>)
+![The gif above demonstrates how to switch your numerical value to the sum of users based on Step 5.](<../../../.gitbook/assets/6 (13)>)
 
 Step 6: Click on the **Display** tab next to **Data**. This is where you can set how your chart will be displayed.
 
-![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../../.gitbook/assets/7 (8)>)
+![The gif above demonstrates how users can set their chart’s display as mentioned in Step 6.](<../../../.gitbook/assets/7 (9)>)
 
 Your chart is finally complete, just don’t forget to Save it.
 

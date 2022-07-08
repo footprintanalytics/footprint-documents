@@ -6,11 +6,11 @@ With the dashboard ready, you can start designing a dashboard to personalise and
 
 You can move your charts and text boxes by simply clicking on them and then dragging them anywhere within the dashboard. Organize your dashboard items accordingly to improve readability.
 
-![](<../../.gitbook/assets/3 (13) (1)>)
+![](<../../.gitbook/assets/9 (9)>)
 
 The gif above demonstrates how to move your dashboard items around.You can also resize your dashboard items using their bottom right corner handles. Click and drag the handle to resize and adjust your charts and text boxes.
 
-![](<../../.gitbook/assets/4 (6)>)
+![](<../../.gitbook/assets/10 (1)>)
 
 The gif above demonstrates how to resize your dashboard items.
 
@@ -22,17 +22,17 @@ To add a text box:
 
 Step 1: Click on **Add a media box** on the top right hand-side of the screen.
 
-![](<../../.gitbook/assets/11 (5)>)
+![](<../../.gitbook/assets/11 (6)>)
 
 The image above shows where you can find the option to add a text box.
 
 Step 2: Select **Text**. A text box will appear on your dashboard. You can edit its position and size similar to charts, by dragging on their respective bottom-right handles.
 
-![](<../../.gitbook/assets/12 (1)>)
+![](../../.gitbook/assets/12)
 
 The image above shows what a text box would look like in your dashboard.
 
-![](<../../.gitbook/assets/13 (3)>)
+![](<../../.gitbook/assets/13 (6)>)
 
 The gif above demonstrates how to add a text box from Step 1 to 2.
 
@@ -44,23 +44,23 @@ Step 1: **Hover** your mouse over your desired chart or text box. The **submenu*
 
 Step 2: Click on the **Palette icon**.
 
-![](<../../.gitbook/assets/14 (3)>)
+![](<../../.gitbook/assets/14 (5)>)
 
 The image above shows users where the palette icon is on the submenu of the hovered chart or text box from Step 2.
 
 Step 3: Pop-up settings will appear. You can set how you want your chart or text box to be presented in your dashboard with settings including **Display**, **Axes** and **Labels**.
 
-![](<../../.gitbook/assets/15 (6)>)
+![](<../../.gitbook/assets/15 (1)>)
 
 The image above shows the different options users can set upon clicking on the Visualization options as indicated by the palette icon in Step 1.
 
 Step 4: Scroll down and make sure you click **Done** once finished with your settings to save any changes.
 
-![](<../../.gitbook/assets/16 (3)>)
+![](<../../.gitbook/assets/16 (4)>)
 
 The image above shows users where to find the Done button based on Step 4.
 
-![](<../../.gitbook/assets/17 (4)>)
+![](<../../.gitbook/assets/17 (5)>)
 
 The gif above demonstrates how to access and navigate the visualization options in your charts.
 
@@ -84,17 +84,17 @@ Step 2: Under Filter, click on the x mark on your unwanted filters.
 
 Step 3: Make sure you Save to keep any changes made.
 
-![](<../../.gitbook/assets/18 (3)>)
+![](../../.gitbook/assets/18)
 
 The image above shows users how to manually delete filters that may come with some charts.
 
-![](<../../.gitbook/assets/19 (1) (2)>)
+![](<../../.gitbook/assets/19 (3)>)
 
 The gif above demonstrates how to delete filters from charts manually.
 
 Step 2: For multiple charts, you can add a filter linkage. Click on **add a filter** on the top right corner, and select the type of filter you would like. You can choose **Time**, **ID**, **Location**, and **Other Categories**. For the purpose of this example, we will select **Time**.
 
-![](../../.gitbook/assets/20)
+![](<../../.gitbook/assets/20 (2)>)
 
 The image above shows where the **Add a filter** button is located and the available **filters you can use**.
 
@@ -110,7 +110,7 @@ Step 4: Select the chart you want to associate with the drop-down **filters** on
 
 The image above shows users where to set their filters and default value.
 
-![](<../../.gitbook/assets/2 (20)>)
+![](<../../.gitbook/assets/2 (21)>)
 
 The gif above demonstrates how to link charts together using the same filter based on Steps 1 to 4.
 
@@ -120,7 +120,7 @@ You can also remove existing filters. To remove filters:
 
 Step 1: Click on the **filter name** on the top left corner of your screen under your dashboard name.
 
-![](<../../.gitbook/assets/3 (9)>)
+![](<../../.gitbook/assets/3 (14)>)
 
 The image above shows where the filter name is in your dashboard.
 

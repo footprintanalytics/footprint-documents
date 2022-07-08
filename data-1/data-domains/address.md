@@ -2,10 +2,10 @@
 
 ### **Tables for address**
 
-| data leve | table name                                                                                                                             | data contents                                                                                                                                |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| gold      | [address\_token\_daily\_stats](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=address\_token\_daily\_stats) | the token daily indicators in address (including address, chain,balance,token & token price,transactions,inflow amount, outflow amount, etc) |
-| gold      | ​[protocol\_active\_address](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_active\_address)​     | the protocol daily active address (including DeFi,NFT,GameFi protocols)                                                                      |
+| data leve | table name                                                                                                                                | data contents                                                                                                                                |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| gold      | ``[`address_token_daily_stats`](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=address\_token\_daily\_stats)`` | the token daily indicators in address (including address, chain,balance,token & token price,transactions,inflow amount, outflow amount, etc) |
+| gold      | `​`[`protocol_active_address`](https://www.footprint.network/@Footprint/Table-Info-Dashboard?table\_name=protocol\_active\_address)​      | the protocol daily active address (including DeFi,NFT,GameFi protocols)                                                                      |
 
 {% hint style="info" %}
 Click the table name to check the data dictionary to get more information(field, field type,**methodology**,description)
@@ -13,7 +13,7 @@ Click the table name to check the data dictionary to get more information(field,
 
 ### Known issue
 
-You can use **address, token address**to filter data.
+You can use `address`**,** `token address`to filter data.
 
 ### How do communities use those tables?
 
@@ -24,4 +24,3 @@ Monitor token:
 * [Token Net Flow Analysis-new](https://www.footprint.network/guest/dashboard/c1a76dd2-18a6-4a90-860c-e3df624f6bd0?token\_=STEPN\(GMT\)\&date\_=past30days)
 * [Curve\_stETH](https://www.footprint.network/guest/dashboard/b0f7ecbd-374e-471c-bfc9-ab6ab0f81c17)
 * [Tron & USDD Dashboard](https://www.footprint.network/guest/dashboard/9629bda2-7ae4-48a2-8976-6a461a7cbba9?date=past90days\&chain=Tron\&symbol=trx)
-

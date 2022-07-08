@@ -8,7 +8,7 @@ This guide will walk you through the process of creating a Dynamic Pie Chart and
 
 In a Dynamic Pie Chart, you can see how a metric's value changes over time, as well as how the metric's distribution changes. Instead of creating a new pie chart every day, you can examine how the values and pie charts evolve over time.
 
-![](<../../../.gitbook/assets/0 (1) (1) (2) (2)>)
+![](<../../../.gitbook/assets/0 (1) (1) (3)>)
 
 The gif above demonstrates what a Dynamic Pie Chart looks like.
 
@@ -18,7 +18,7 @@ Using _Dynamic Chart - TVL of Different Chains_ as an example is the purpose of 
 
 The Dynamic Pie Chart uses the following setup properties:
 
-![](<../../../.gitbook/assets/1 (20)>)
+![](<../../../.gitbook/assets/1 (21)>)
 
 | Number | Configuration Property | Description                                                                                                                                                                                                                                                     |
 | ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,13 +35,13 @@ Step 1: Click on **Create** and Select **New Chart**.
 
 Step 2: Select the data **defi\_protocol\_daily\_stats**. Click **Advanced** next to the **Visualization** tab on the top right corner of the screen.
 
-![](<../../../.gitbook/assets/2 (13)>)
+![](<../../../.gitbook/assets/2 (16)>)
 
 The gif above demonstrates Step 1 and Step 2.
 
 Step 3: Click **Filters**, then, for this use case, click on **day-previous 30 Days,** then click **Add**. \*\*\*\* Click the **+ Icon**, select **chain** and click the first five **chains**.
 
-![](<../../../.gitbook/assets/3 (11)>)
+![](<../../../.gitbook/assets/3 (15)>)
 
 The gif above demonstrates Step 3 in choosing the filters.
 
@@ -53,13 +53,13 @@ The gif above demonstrates Step 4 in creating the summary of the dataset.
 
 Step 5: Click **Sort** next to **Join Data**, and select the **Sum of TVL**. Then click on the **+ Icon** and select **Day**.
 
-![](<../../../.gitbook/assets/5 (8)>)
+![](<../../../.gitbook/assets/5 (9)>)
 
 The gif above demonstrates Step 5 in sorting the dataset.
 
 Step 6: Click **visualize**, then select **Dynamic Pie**. Select the fields corresponding to **x-axis**, **y-axis,** and **category** as required.
 
-![](<../../../.gitbook/assets/5 (14) (1)>)
+![](<../../../.gitbook/assets/5 (19)>)
 
 The gif above demonstrates Step 6 to visualize the dataset using the Dynamic Pie Chart.
 
@@ -69,7 +69,7 @@ In this use case, we choose
 * **y-axis** = sum of tvl;
 * **category** = chain;
 
-![](<../../../.gitbook/assets/6 (12) (1)>)
+![](<../../../.gitbook/assets/6 (5)>)
 
 The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
 
