@@ -1,11 +1,12 @@
 # 🔩 Data API
 
-## Free access to Footprint APIs:
+## Free access to Footprint Data APIs:
+   1. Please open and complete this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenL75F10ItZ1PJM8op7fksuqJb0qZsAlFqIcCXEiQGycdrHA/viewform) to apply for the API key.  
+   2. Footprint will deliver your own API-KEY to your email address after the verification within T+1.  
+   3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply to the above official email address if such requirements cannot be satisfied.  
+   4. Now the API supports 1 chain(Ethereum), 3 marketplaces(LooksRare, OpenSea,X2Y2),15700+ collections of data in the NFT domain. Other domains and more NFT data are in progress. We will adjust the launch date of other APIs according to users' needs.  
 
-1. Send any phrase such as “I would like to acquire a free API account” showing your willingness to the official email address: sales@footprint.network
-2. Footprint will deliver your own API-KEY to your email address after the verification.
-3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply the above official email address if such requirements cannot be satisfied.
-
+    
 ## API Models & Enum
 
 **Chain Enum**
