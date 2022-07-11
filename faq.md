@@ -10,8 +10,6 @@ There are 3 data sources:
 2. Off-chain data (i.e some token prices come from the Coingecko API)
 3. Data uploaded by community
 
-For more check out [data.md](data.md "mention")
-
 </details>
 
 <details>
@@ -57,7 +55,7 @@ You can open the[ Footprint Datasets & Data Dictionary](https://www.footprint.ne
 Yes. Footprint Analytics supports 2 ways to upload your data and cross-analyse it with existing data.
 
 1. Using a CSV or Excel file (see [more](https://www.footprint.network/chart/custom-upload))
-2. Using API upload (see [api.md](api.md "mention"))
+2. Using API upload (see [api.md](guides/api/api.md "mention"))
 
 </details>
 
