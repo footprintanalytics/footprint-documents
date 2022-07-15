@@ -63,7 +63,6 @@ This chart is from the dashboard of[ _Chain Overview_](https://www.footprint.net
 1. Monitor token liquidity: [Liquidity Monitoring - STETH](https://www.footprint.network/@Momo/Liquidity-Monitoring-stETH)
 2. Monitor token mint and burn: [ETH Burned](https://www.footprint.network/guest/dashboard/0663e0a7-2ed7-430e-abf9-eea60edda373)
 3. Monitor pool of protocol, including liquidity, whales: [Curve Dashboard](https://www.footprint.network/guest/dashboard/9f4d30ce-9676-43a9-bf31-2712632b4bf1)
-4. Analyse Gas fee: [Gas Dashboard](https://www.footprint.network/@DamonSalvatore/Gas-Dashboard?date=past3months\~)
 
 ## Dashboards <a href="#_ul3ua6yxygr0" id="_ul3ua6yxygr0"></a>
 
@@ -142,4 +141,3 @@ This is the dashboard about DeFi Data Analytics, in which you can also check gen
   * [Meebits Data Analysis](https://www.footprint.network/guest/dashboard/306f993b-8ce3-4710-9ca7-e678110215b3?series\_date=past90days)
   * [Hashland NFT Dashboard](https://www.footprint.network/guest/dashboard/797c63e0-1bf3-4dfc-af80-1eee5dabad3d)
 * Monitor NFT stats of Chain: [NFT Market Overview on Ethereum](https://www.footprint.network/guest/dashboard/9189d1a0-b0e2-4b65-b45d-d01ef2b83bf4?series\_date=past90days)
-* Monitor NFT stats of GameFi: [NFT Collection Stats of GameFi](https://www.footprint.network/guest/dashboard/22c585eb-9d28-4211-8310-c00db76b933e?nft\_collection=starsharks)

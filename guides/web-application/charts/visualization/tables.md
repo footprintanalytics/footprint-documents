@@ -50,7 +50,7 @@ The gif above demonstrates how to remove an unwanted column from your Table.
 
 **Step 4:** Click and drag the columns up and down to change their order of appearance on the table. The results will be shown in real time in the table to the left as shown below.
 
-![](<../../../../.gitbook/assets/1 (13)>)
+![](<../../../../.gitbook/assets/2 (14) (1)>)
 
 The gif above demonstrates how to click and drag columns up and down in your Table to rearrange them.
 
@@ -72,13 +72,13 @@ You can highlight cells or rows based on the values they contain, which makes it
 
 **Single Color:** When you want to color cells based on if the value in those cells meets a certain criteria, use the single color option.
 
-![](<../../../../.gitbook/assets/2 (6)>)
+![](<../../../../.gitbook/assets/4 (11)>)
 
 The image above shows users what a Single-Colored Table looks like.
 
 **Color range:** If you want to show the value’s relative position in the range of values for a column (or multiple columns), use the color range option.
 
-![](<../../../../.gitbook/assets/3 (5)>)
+![](<../../../../.gitbook/assets/5 (7) (1)>)
 
 The image above shows users what a Color-Ranged Table looks like.
 
@@ -104,7 +104,7 @@ Step 3: Fill in the necessary **Link URL**.
 
 The image above shows users where to enable links being added to your fields and where to place your desired URLs.
 
-![](<../../../../.gitbook/assets/5 (12)>)
+![](<../../../../.gitbook/assets/8 (8) (1)>)
 
 The gif above demonstrates Steps 1 to 3 of how to link your URLs into your Table fields.
 
@@ -112,7 +112,7 @@ The gif above demonstrates Steps 1 to 3 of how to link your URLs into your Table
 
 For scalar values, you can add a **Mini Bar Chart** to show the value’s position within the range of values in the column. This function only applies to values or numbers.
 
-![](<../../../../.gitbook/assets/6 (6)>)
+![](<../../../../.gitbook/assets/9 (3)>)
 
 The image above shows Mini Bar Charts next to numerical data in a Table.
 
@@ -122,6 +122,6 @@ Step 1: Click on the gear icon of the column you’d like to edit.
 
 Step 2: Click on the switch next to **Show a mini bar chart**.
 
-![](<../../../../.gitbook/assets/7 (6)>)
+![](../../../../.gitbook/assets/10)
 
 The gif above demonstrates to users how to enable a Mini Bar Chart for certain numerical columns in your Table.
