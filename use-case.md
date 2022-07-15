@@ -23,9 +23,9 @@ The charts in this section are taken from the [_Tokenomics of (Token)_ ](https:/
 
 ### Address <a href="#_2jrhe975kffo" id="_2jrhe975kffo"></a>
 
-This chart is from the dashboard[ _Address Analysis of GameFi Project_](https://www.footprint.network/@DeFi360/Address-Analysis-of-GameFi-Project?defi\_name=hundred\_finance), showing new users by month, where you can see the changes of the daily average of new users by month as well as new users by month.
+This chart is from the dashboard [_Address Analysis of GameFi Project_](https://www.footprint.network/@rogerD/Address-Analysis-of-GameFi-Project?protocol\_name=decentral-games\&date\_range=past90days), showing new users by month, where you can see the changes of the daily average of new users by month as well as new users by month.
 
-This chart is from the dashboard of _Chain Overview_, showing the number of protocols by chain.
+This chart is from the dashboard of[ _Chain Overview_](https://www.footprint.network/@DamonSalvatore/Chain-Overview?date\_filter=past90days), showing the number of protocols by chain.
 
 ![The image above shows a row chart detailing the number of protocols by chain](<.gitbook/assets/2 (18)>)
 
@@ -34,7 +34,6 @@ This chart is from the dashboard of _Chain Overview_, showing the number of prot
 * ****[Liquidity Monitoring - STETH](https://www.footprint.network/guest/dashboard/07a52995-6b0a-4970-8e14-ae414e4e72da?date\_range=past14days\&contract\_address=0xdc24316b9ae028f1497c275eb9192a3ea0f67022\&token\_of\_pool=ETH\&token\_of\_pool=stETH\&token\_of\_price=Ethereum\(ETH\)\&token\_of\_price=Lido%20Staked%20Ether\(STETH\))
 * [Stablecoin Monitoring Dashboard](https://www.footprint.network/guest/dashboard/3c8f255a-120f-4c1b-8e2c-2314f5cba5a3?date=past90days\~)
 * [Token Net Flow Analysis-new](https://www.footprint.network/guest/dashboard/c1a76dd2-18a6-4a90-860c-e3df624f6bd0?token\_=STEPN\(GMT\)\&date\_=past30days)
-* [Curve\_stETH](https://www.footprint.network/guest/dashboard/b0f7ecbd-374e-471c-bfc9-ab6ab0f81c17)
 * [Tron & USDD Dashboard](https://www.footprint.network/guest/dashboard/9629bda2-7ae4-48a2-8976-6a461a7cbba9?date=past90days\&chain=Tron\&symbol=trx)
 
 ### GameFi <a href="#_gu57b4mu338c" id="_gu57b4mu338c"></a>
