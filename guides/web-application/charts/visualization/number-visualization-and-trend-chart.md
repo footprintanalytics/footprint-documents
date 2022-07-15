@@ -6,7 +6,7 @@ In order to see the full picture, it's best to look at a dashboard, such as Curv
 
 This guide will show you how to make a Number Visualization and Trend Chart, as well as each of their use cases.
 
-![Number and Trend visualisations](<../../../../.gitbook/assets/0 (12) (1) (1)>)
+![Number and Trend visualisations](<../../../../.gitbook/assets/0 (12) (1) (2)>)
 
 ### Numbers visualisation <a href="#_6tqc66sid5af" id="_6tqc66sid5af"></a>
 
@@ -30,13 +30,13 @@ Step 1：Click on **Create** and select **New chart**.
 
 Step 2：Search for **TVL** in the search box and select the data table **defi\_daily\_stats**
 
-![This image demonstrates step 1 and step 2.](<../../../../.gitbook/assets/1 (9) (1)>)
+![This image demonstrates step 1 and step 2.](<../../../../.gitbook/assets/3 (13)>)
 
 The gif above demonstrates Step 1 and Step 2.
 
 Step3：Click **Filter**, select **name**, then search for **Curve** in the search box.
 
-![](<../../../../.gitbook/assets/2 (11) (1)>)
+![](<../../../../.gitbook/assets/4 (5)>)
 
 The gif above demonstrates Step 3, choosing Curve in the search box.
 
@@ -44,13 +44,13 @@ Step 4: Click on **Summarize.** As Footprint defaults to counting the records, c
 
 Step 5: Grouping the TVL by days is on our next list. In the Group by section, hover over the **Day** field, then click on the **by day** to add the grouping, and finally click on **Done**.
 
-![](<../../../../.gitbook/assets/3 (4) (2)>)
+![](<../../../../.gitbook/assets/5 (15)>)
 
 The gif above demonstrates Step 4 and Step 5.
 
 Step 6: Click on **Visualization** in the top right to bring up the Visualization sidebar. Choose **Number**, then click on Formatting, and select the **Field to show** as the **Sum of TVL**. You can choose to condense the larger number by clicking on **Display**, and under **Value formatting**, select **Compact** and click **Done**.
 
-![](<../../../../.gitbook/assets/4 (13)>)
+![](<../../../../.gitbook/assets/6 (11)>)
 
 The gif above demonstrates Step 6 for setting and formatting your Number Visualization.
 

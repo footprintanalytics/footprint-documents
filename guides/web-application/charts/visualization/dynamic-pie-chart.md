@@ -69,7 +69,7 @@ In this use case, we choose
 * **y-axis** = sum of tvl;
 * **category** = chain;
 
-![](<../../../../.gitbook/assets/6 (12) (1)>)
+![](<../../../../.gitbook/assets/6 (12) (1) (1)>)
 
 The gif above demonstrates Step 7 to set up the Dynamic Pie Chart visualization settings.
 
