@@ -41,7 +41,7 @@
     * [Design](guides/web-application/dashboards/how-to-create-a-new-dashboard-1.md)
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
-* [Jupiter notebook](guides/jupiter-notebook.md)
+* [Jupyter notebook](guides/jupiter-notebook.md)
 * [API](guides/api/README.md)
   * [⚙ Upload API](guides/api/api.md)
   * [🔩 Data API](guides/api/download-data.md)
