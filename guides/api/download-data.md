@@ -1,12 +1,12 @@
 # 🔩 Data API
 
 ## Free access to Footprint Data APIs:
-   1. Please open and complete this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenL75F10ItZ1PJM8op7fksuqJb0qZsAlFqIcCXEiQGycdrHA/viewform) to apply for the API key.  
-   2. Footprint will deliver your own API-KEY to your email address after the verification within T+1.  
-   3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply to the above official email address if such requirements cannot be satisfied.  
-   4. Now the API supports 1 chain(Ethereum), 3 marketplaces(LooksRare, OpenSea,X2Y2),15700+ collections of data in the NFT domain. Other domains and more NFT data are in progress. We will adjust the launch date of other APIs according to users' needs.  
 
-    
+1. Please open and complete this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSenL75F10ItZ1PJM8op7fksuqJb0qZsAlFqIcCXEiQGycdrHA/viewform) to apply for the API key.
+2. Footprint will deliver your own API-KEY to your email address after the verification within T+1.
+3. Free account can authorize up to 1000 calls per day for each domain, and you may however list your reasons to reply to the above official email address if such requirements cannot be satisfied.
+4. Now the API supports 1 chain(Ethereum), 3 marketplaces(LooksRare, OpenSea,X2Y2),15700+ collections of data in the NFT domain. Other domains and more NFT data are in progress. We will adjust the launch date of other APIs according to users' needs.
+
 ## API Models & Enum
 
 **Chain Enum**
@@ -100,7 +100,7 @@
 
 ## NFT
 
-### Get the detail daily stats of each NFT Collection
+### Get the detail daily stats of each NFT Collection(in beta status, not prod ready)
 
 Method: GET\
 Path: /api/v1/nft/{chain}/nft\_collection\_daily\_stats/{contract\_address}?on\_date={on\_date}\
@@ -187,7 +187,7 @@ Result
 }
 ```
 
-### Get the metrics for different nft
+### Get the metrics for different nft(in beta status, not prod ready)
 
 Method: GET\
 Path: /api/v1/nft/{chain}/nft\_latest\_stats/{contract\_address}?limit={limit}\&offset={offset}\
