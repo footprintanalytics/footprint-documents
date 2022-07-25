@@ -111,7 +111,7 @@ Example：[DeFi Data Analytics Dashboard](https://www.footprint.network/@SimonJo
 
 This is the dashboard about DeFi Data Analytics, in which you can also check general metrics such as TVL and Transaction.
 
-![](<.gitbook/assets/image (59).png>)
+![](<.gitbook/assets/image (59) (1).png>)
 
 **Other examples:**
 
