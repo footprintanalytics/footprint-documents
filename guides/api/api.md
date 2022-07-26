@@ -3,7 +3,7 @@
 ## **Generate developer auth key**
 
 1. **Generate an auth key**\
-   On the top right hand-side of the website, click on **your profile.** A pop-up menu will appear. And then click on **Account Settings.**
+   On the top right hand-side of the website, click on **Your profile.** A pop-up menu will appear. And then click on **Account Settings.**
 
 ![](<../../.gitbook/assets/0 (6)>)
 
