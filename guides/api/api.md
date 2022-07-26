@@ -12,7 +12,7 @@
 ![](<../../.gitbook/assets/1 (5)>)
 
 3\. Use the auth key\
-Add the authentication: auth key to the header, for example:
+Add the authentication: auth key to the **header**, for example:
 
 ```json
 {
