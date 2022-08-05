@@ -27,6 +27,7 @@
   * [📊 Charts](guides/web-application/charts/README.md)
     * [No code](guides/web-application/charts/get-started-with-creating-a-chart.md)
     * [SQL](guides/web-application/charts/sql/README.md)
+      * [Best Practices to Write SQL Code](guides/web-application/charts/sql/best-practices-to-write-sql-code.md)
       * [Upgrade from 26.05.2022](guides/web-application/charts/sql/upgrade-from-26.05.2022.md)
     * [Visualisations](guides/web-application/charts/visualization/README.md)
       * [Tables](guides/web-application/charts/visualization/tables.md)

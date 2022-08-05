@@ -81,16 +81,6 @@ This is a dashboard about Curve, in which all of the important metrics have been
 * [BSC GameFi Tracker](https://www.footprint.network/guest/dashboard/2d160924-cc78-4c80-906d-e25b7679c843?chain=BSC\&date\_filter=past30days)
 * [GameFi User vs Token Price Analysis](https://www.footprint.network/guest/dashboard/2a4be75a-710f-49c5-8dd2-4463e29cb68c?date=past365days\~\&game\_name=My%20DeFi%20Pet\&protocol\_type=GameFi)
 
-### Sector <a href="#_1gxuova099h4" id="_1gxuova099h4"></a>
-
-Sector Dashboards allow you to glance at an entire sector of our new Economy and analyze what's happening in real time. The example we will be looking at here is the DEX Industry Dashboard.
-
-Example：[DEX Industry Dashboard](https://www.footprint.network/guest/dashboard/DEX-Industry-Dashboard-fp-4934074b-d945-4ddd-b818-829cb37947e8?date=past60days)
-
-This is a dashboard about the DEX industry. It includes an analysis of Volume and Number of Transactions.
-
-![The image above shows a dashboard about the DEX Industry that updates in real time](<.gitbook/assets/6 (7)>)
-
 ### Ecosystem <a href="#_n0lv613tob6" id="_n0lv613tob6"></a>
 
 Since Footprint Analytics has all the data in one place, you can also check more general metrics, such as the Polygon Dashboard.
