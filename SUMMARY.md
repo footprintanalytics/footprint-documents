@@ -17,9 +17,10 @@
 
 ## DATA
 
-* [Sources](data/data-sources.md)
+* [Design concept](data/design-concept.md)
 * [Naming convention](data/naming-convention.md)
-* [Levels](data/data-structure.md)
+* [Sources](data/data-sources.md)
+* [Layers](data/data-structure.md)
 * [Domains](data/data-domains.md)
 * [Interfaces](data/data-access.md)
 
