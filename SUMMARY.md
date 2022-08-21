@@ -3,6 +3,7 @@
 * [👣 Get started](README.md)
 * [💡 Use cases](use-case.md)
 * [🛠 Changelog](changelog/README.md)
+  * [August 19, 2022](changelog/august-19-2022.md)
   * [August 12, 2022](changelog/august-12-2022.md)
   * [August 5, 2022](changelog/august-5-2022.md)
   * [July 29, 2022](changelog/july-29-2022.md)
