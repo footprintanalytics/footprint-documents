@@ -19,7 +19,6 @@
 ## DATA
 
 * [Design concept](data/design-concept.md)
-* [Naming convention](data/naming-convention.md)
 * [Sources](data/data-sources.md)
 * [Layers](data/data-structure.md)
 * [Domains](data/data-domains.md)
