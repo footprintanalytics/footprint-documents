@@ -17,9 +17,9 @@ We have added some useful and important visual indicators to the charts:
 * Dataset used in the chart and their status, such as `ud`, `beta`, `deprecated`
 * The last update time of the chart cache and the last update time of the dataset referenced by the chart
 
-![](<../../.gitbook/assets/image (3) (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
-![](<../../.gitbook/assets/image (4) (3).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ## New data
 
@@ -29,4 +29,4 @@ We have added some useful and important visual indicators to the charts:
 
 * Dataset `token_info` has been updated. We have collated information on over 4000 Tokens to make them standardised and easy to understand and use.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5).png>)

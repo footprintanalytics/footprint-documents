@@ -59,8 +59,8 @@
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
 * [Jupyter notebook](guides/jupiter-notebook.md)
 * [API](guides/api/README.md)
-  * [⚙ Upload API](guides/api/api.md)
-  * [🔩 Data API](guides/api/download-data.md)
+  * [Upload API](guides/api/api.md)
+  * [Data API](https://api.footprint.network/api-doc/)
 
 ***
 

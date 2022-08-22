@@ -1,4 +1,4 @@
-# ⚙ Upload API
+# Upload API
 
 ## **Generate developer auth key**
 
