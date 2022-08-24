@@ -29,10 +29,10 @@
 ## DATA
 
 * [Design concept](data/design-concept.md)
-* [Sources](data/data-sources.md)
 * [Layers](data/data-structure.md)
 * [Domains](data/data-domains.md)
 * [Interfaces](data/data-access.md)
+* [🕸 Sources](data/data-sources.md)
 
 ## Guides
 
@@ -58,9 +58,11 @@
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
 * [Jupyter notebook](guides/jupiter-notebook.md)
-* [API](guides/api/README.md)
-  * [Upload API](guides/api/api.md)
-  * [Data API](https://api.footprint.network/api-doc/)
+
+## API
+
+* [⏬ Data API](https://api.footprint.network/api-doc/)
+* [⏫ Upload API](api/api.md)
 
 ***
 
