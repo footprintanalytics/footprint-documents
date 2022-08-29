@@ -4,6 +4,7 @@
 * [💡 Use cases](use-case.md)
 * [🛠 Changelog](changelog/README.md)
   * [UI](changelog/ui/README.md)
+    * [August 26, 2022](changelog/ui/august-26-2022.md)
     * [August 19, 2022](changelog/ui/august-19-2022.md)
     * [August 12, 2022](changelog/ui/august-12-2022.md)
     * [August 5, 2022](changelog/ui/august-5-2022.md)
@@ -25,6 +26,13 @@
     * [gamefi\_protocol\_daily\_stats](changelog/tables/gamefi\_protocol\_daily\_stats.md)
     * [eos\_token\_transfers](changelog/tables/eos\_token\_transfers.md)
     * [eos\_transactions](changelog/tables/eos\_transactions.md)
+    * [nft\_collection\_info](changelog/tables/nft\_collection\_info.md)
+    * [nft\_info](changelog/tables/nft\_info.md)
+    * [nft\_token\_attributes](changelog/tables/nft\_token\_attributes.md)
+    * [nft\_transactions](changelog/tables/nft\_transactions.md)
+    * [nft\_transfers](changelog/tables/nft\_transfers.md)
+    * [nft\_collection\_transfers\_daily\_stats](changelog/tables/nft\_collection\_transfers\_daily\_stats.md)
+    * [marketplace\_nft\_collection\_daily\_stats](changelog/tables/marketplace\_nft\_collection\_daily\_stats.md)
 
 ## DATA
 
