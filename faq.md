@@ -2,14 +2,6 @@
 
 <details>
 
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
 <summary><strong>Are there any documents about the data source?</strong></summary>
 
 There are 3 data sources:
@@ -32,17 +24,17 @@ If your project is on one of our launched chains, you can submit your contract a
 
 <summary><strong>What's the difference between competitors and Footprint Analytics?</strong></summary>
 
-1. No code experience, users can easily analyse the data on the chain without writing SQL
-2. Cross-chain analysis supported
-3. Combination of on-chain and off-chain data analysis supported
-4. Ability to upload own data
-5. Semantic data, and users can quickly understand the complex data on the chain.
+* No code experience, users can easily analyse the data on the chain without writing SQL
+* Cross-chain analysis supported
+* Combination of on-chain and off-chain data analysis supported
+* Ability to upload own data
+* Semantic data, and users can quickly understand the complex data on the chain.
 
 </details>
 
 <details>
 
-<summary><strong>What dialect of SQL does Footprint use (e.g., postgresql, mysql, etc.)?</strong></summary>
+<summary><strong>What dialect of SQL does Footprint use?</strong></summary>
 
 For fast querying, we use Doris (an OLAP DB), which supports the American National Standards Institute (ANSI).
 
@@ -52,7 +44,7 @@ For fast querying, we use Doris (an OLAP DB), which supports the American Nation
 
 <summary><strong>How can I know the time range of each data table?</strong></summary>
 
-You can open the[ Footprint Datasets & Data Dictionary](https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary) dashboard and see the 'Time Period'and 'Table Description' for each data table. You can click on the hyperlink for each data table to see the details.
+You can open the[ Footprint Datasets & Data Dictionary](https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary) dashboard and see the `Time period` and `Table Description` for each data table. You can click on the hyperlink for each data table to see the details.
 
 </details>
 
@@ -77,8 +69,46 @@ We do have these data tables, but the amount of raw data is too large and not ye
 
 <details>
 
-<summary><strong>Which field can we use to distinguish between ERC20 / 721 / 1155 standards? Which public chains are supported?</strong></summary>
+<summary>How do we monitor the addition of new contracts?</summary>
 
-We don't currently distinguish between ERC20 / 721 / 1155, we are already working on it.
+Getting new contract addresses from external sources was our early practice, and we have now iterated to an automated solution that identifies contract addresses from our own foundation tables (`transactions`, `token_transfers` and etc.). When incremental node data is found to contain contract addresses that are not included in the database yet, the mechanism will automatically collect them.
+
+</details>
+
+<details>
+
+<summary><strong>What do you mean by NFT aggregators? How can you define volume from different marketplaces?</strong></summary>
+
+An NFT marketplace aggregator consolidates the listing inventory of multiple different marketplaces, allowing users to gain full transparency of the market and also buy and sell NFTs in bulk without having to interact with each separate marketplace. We regard NFT aggregators as a marketplace from the event parsing process.&#x20;
+
+Aggregators transactions will not only have the marketplace name, but the aggregator name will be included too. In special cases( such as more than 2 aggregators are involved) we will just display the name of the first aggregator trigger the trade.
+
+</details>
+
+<details>
+
+<summary><strong>Why do users use the API and not use the Footprint front-end directly?</strong></summary>
+
+Footprint's front-end UI is very powerful in terms of analytics and can meet most data analysis and visualization needs. The API service is mainly for enterprise level customers, who have higher requirements for data, data analysis or simply want to use the programming interface to integrate the data from Footprint to the applications.
+
+</details>
+
+<details>
+
+<summary>How do we verify the quality of data?</summary>
+
+There are several strategies that we use to validate data:
+
+**Basic validation**
+
+No unusual data is present. Different traditional statistical methods are used for verification. No gaps in time between data are present.
+
+**Logical (internal) validation**
+
+The data makes sense in terms of business metrics. For instance, most lending protocols usually require overcollateralization. Therefore the net deposit amount should be higher than net borrowing amount.
+
+**Cross-validation**
+
+Finally we compare the calculated metrics like TVL and MC with other data platforms
 
 </details>
