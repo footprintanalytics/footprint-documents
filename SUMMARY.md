@@ -36,7 +36,7 @@
 
 ## DATA
 
-* [Design concept](data/design-concept.md)
+* [🏗 Design concept](data/design-concept.md)
 * [Layers](data/data-structure.md)
 * [Domains](data/data-domains.md)
 * [Interfaces](data/data-access.md)
