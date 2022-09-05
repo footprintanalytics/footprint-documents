@@ -1,4 +1,4 @@
-# Levels
+# 🥇 Layers
 
 ![Footprint data layers](<../.gitbook/assets/Footprint data layer.jpg>)
 

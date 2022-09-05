@@ -2,7 +2,7 @@
 description: This chapter is dedicated to describing how to create charts in footprints
 ---
 
-# 📊 Charts
+# Charts
 
 Although the volumes handled by Footprint are enormous and require a very sophisticated technical solution to ensure sufficient performance in processing queries, Footprint has a relational database under the hood. Data retrieval from the relational database is done via SQL. Thus, the process of forming a data query is as follows:
 

@@ -1,4 +1,4 @@
-# Domains
+# 🗄 Domains
 
 Footprint has richest blockchain data, including chains, contracts, protocols, NFT collections, address, tokens, labels and etc. Get started with [Footprint Data Overview](https://www.footprint.network/@Footprint/Footprint-Data-Overview) dashboard to obtain the understanding what data are we having. Be sure to switch between the categories that are displayed in the top.
 

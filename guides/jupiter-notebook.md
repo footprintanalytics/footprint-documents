@@ -1,4 +1,4 @@
-# Jupiter notebook
+# 📓 Jupyter notebook
 
 ## Get started
 
