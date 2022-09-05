@@ -37,15 +37,15 @@
 ## DATA
 
 * [🏗 Design concept](data/design-concept.md)
-* [Layers](data/data-structure.md)
-* [Domains](data/data-domains.md)
-* [Interfaces](data/data-access.md)
+* [🥇 Layers](data/data-structure.md)
+* [🗄 Domains](data/data-domains.md)
+* [👁🗨 Interfaces](data/data-access.md)
 * [🕸 Sources](data/data-sources.md)
 
 ## Guides
 
-* [Web application](guides/web-application/README.md)
-  * [📊 Charts](guides/web-application/charts/README.md)
+* [🖥 Web application](guides/web-application/README.md)
+  * [Charts](guides/web-application/charts/README.md)
     * [No code](guides/web-application/charts/get-started-with-creating-a-chart.md)
     * [SQL](guides/web-application/charts/sql/README.md)
       * [Best Practices to Write SQL Code](guides/web-application/charts/sql/best-practices-to-write-sql-code.md)
@@ -59,13 +59,13 @@
       * [Dynamic Pie](guides/web-application/charts/visualization/dynamic-pie-chart.md)
       * [Line and Row Races](guides/web-application/charts/visualization/line-race-and-row-race.md)
       * [Advanced. Pie Chart Rose, Nested Pies, Sunburst and Treemap](guides/web-application/charts/visualization/advanced-use-of-the-pie-chart-rose-nested-pies-sunburst-and-treemap.md)
-  * [🖥 Dashboards](guides/web-application/dashboards/README.md)
+  * [Dashboards](guides/web-application/dashboards/README.md)
     * [Creation](guides/web-application/dashboards/how-to-create-a-new-dashboard.md)
     * [Forks (templates)](guides/web-application/dashboards/get-started-with-creating-a-chart.md)
     * [Design](guides/web-application/dashboards/how-to-create-a-new-dashboard-1.md)
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
-* [Jupyter notebook](guides/jupiter-notebook.md)
+* [📓 Jupyter notebook](guides/jupiter-notebook.md)
 
 ## API
 
