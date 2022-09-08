@@ -46,7 +46,7 @@
 
 ## Guides
 
-* [Web application](guides/web-application/README.md)
+* [🖥 Web application](guides/web-application/README.md)
   * [Charts](guides/web-application/charts/README.md)
     * [No code](guides/web-application/charts/get-started-with-creating-a-chart.md)
     * [SQL](guides/web-application/charts/sql/README.md)
@@ -72,7 +72,7 @@
   * [Data API](guides/api/data-api.md)
   * [⏬ Data API](https://api.footprint.network/api-doc/)
   * [⏫ Upload API](guides/api/api.md)
-* [Jupyter notebook](guides/jupiter-notebook.md)
+* [📓 Jupyter notebook](guides/jupiter-notebook.md)
 
 ## Community
 
