@@ -1,7 +1,5 @@
 # 🏗 Design concept
 
-## **Data model**
-
 Building ETL processes for blockchains involves processing huge amounts of unstructured data. Accordingly, designing a database is a non-trivial task. In the initial design of the data model, we pursued the following goals:
 
 1. **Reduce the number table joins**. With the most frequently used combination of slug+chain, you can quickly find the data you want in multiple tables.
@@ -12,42 +10,40 @@ Building ETL processes for blockchains involves processing huge amounts of unstr
 6. **Keep the data model as simple as possible**. This is necessary to ensure that it can be easily extended and maintained.
 7. **Solve the problem of unassociated data.** Provide basic information tables with `_info` suffix to association of internal and external table data.
 
-## **Naming convention**
-
-### **Common - tables and fields**
-
-1. Table name and fields name are in lowercase
-2. Underscores separate the distinct terms as per the standard conventions
-3. All table names are in plural form&#x20;
-4. Table names are only having the following characters:&#x20;
-   1. a to z / A to Z
-   2. 0 to 9
-   3. underscore (`_`) instead of spaces&#x20;
-5. Table names may have multiple underscores
-
-### **Tables**
-
-#### **Prefixes**
-
-`ud_`: means user define, data contributed by the community.
-
-#### Suffixes
-
-`_info` : represents the base information table maintained by Footprint and can be used as a hub for data association
-
-`_daily_stats`. Data in the table are aggregated by day.
-
-`_token_transfers`. Flow records of data chain tokens.
-
-`_transactions`. Represents transaction that occurs on the blockchain, and the hash value represents its uniqueness.
-
-`_deprecated`. Table is no longer relevant.
+With these goals in mind, we used the following approaches to organise the data:
 
 {% hint style="info" %}
-* Same `{table}` may be deprecated several times. Following popular naming convention, the deprecated tables will have the autoincrimenting number appended so that the table name will look like following: `{table}_depecated_{copy_number}`
-* Deprecated tables will only be for 30 days. Users having the charts that are based on deprecated tables will be guided to use new updated tables instead
+The quick answer is that we have a special approach to data organisation, as well as an architecture that uses the most relevant data science tools and approaches
 {% endhint %}
 
-#### Special marks
+**Lego**
 
-`Beta`**:** data accuracy, stability, data period, update frequency and other important metrics are still being tested
+Footprint defines a DeFi Lego hierarchy with a business logic abstraction layer, based on traditional financial instrument hierarchy and smart contract characteristics. It tags on-chain transactions with this Lego hierarchy and transforms unstructured data split out from smart contracts into structured and meaningful data. We designed the database with different business domains and different components for each domain, which can be combined like Lego - through the combination we can quickly parse on-chain data and bring it into a structure and standard data tables. Take a look at the following examples:
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-05 at 11.50.58 (1).png" alt=""><figcaption><p>NFT Lego hierarchy</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-05 at 11.55.24.png" alt=""><figcaption><p>Defi Lego hierarchy</p></figcaption></figure>
+
+**Layering**
+
+Also we have an important additional step - tiering of tables. We divide tables from different domains into bronze, silver and gold. See more in [data-structure.md](data-structure.md "mention") and [data-domains.md](data-domains.md "mention").
+
+**Semantic categorisation**
+
+There are different ways how the event could be called and infinite ways how it could be named.  We do not find it a good experience for analysts to go read a smart contract code to understand at what exact point the event was emitted so that it is clear what business knowledge could be extracted. No matter what the code for minting a NFT on a specific chain looks like, one needs to find a way to put all of this data into one category, called `Minting`.&#x20;
+
+It is this organization of data that allows you to achieve the following:
+
+#### Footprint is much faster
+
+Whereas other popular solutions need to recompute high level indicators every time from raw event data, in Footprint with the data layers abstraction layers (silver and gold), the amount of work is significantly reduced to query key information. Ultimately, user requests are completed in milliseconds, where similar requests can take minutes on other platforms.
+
+![Footprint abstract overview](https://static.footprint.network/card\_images/d411037b-7258-436c-b696-5bc7c10e8e13.jpg)
+
+With the sophisticated architecture in the background come the caching mechanisms that greatly reduce redundant work and computing resource from O(n) to O(1). Dataset previously queried will be saved in cache and will be used during the next query execution. That way, users get their requests fast and our network don’t experience overloads so other users are not affected.
+
+#### Several interfaces
+
+The slow execution of requests completely closes access to the DBaaS model through various APIs. With the speed of query execution and the amount of data provided, we are leaders in providing and keeping data up-to-date to our partners. Check out [api](../guides/api/ "mention") for more.
+
+It cleans and integrates on-chain data so users of any experience level can quickly start researching tokens, projects and protocols. With over a thousand dashboard templates plus a drag-and-drop interface, anyone can build their own customised charts in minutes. Uncover blockchain data and discover the value trend behind the project.

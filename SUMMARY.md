@@ -42,10 +42,11 @@
 * [🗄 Domains](data/data-domains.md)
 * [👁🗨 Interfaces](data/data-access.md)
 * [🕸 Sources](data/data-sources.md)
+* [🪧 Naming convention](data/naming-convention.md)
 
 ## Guides
 
-* [🖥 Web application](guides/web-application/README.md)
+* [Web application](guides/web-application/README.md)
   * [Charts](guides/web-application/charts/README.md)
     * [No code](guides/web-application/charts/get-started-with-creating-a-chart.md)
     * [SQL](guides/web-application/charts/sql/README.md)
@@ -67,20 +68,16 @@
     * [Design](guides/web-application/dashboards/how-to-create-a-new-dashboard-1.md)
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
-* [📓 Jupyter notebook](guides/jupiter-notebook.md)
-
-## API
-
-* [⏬ Data API](https://api.footprint.network/api-doc/)
-* [⏫ Upload API](api/api.md)
-
-***
-
-* [❓ FAQ](faq.md)
-* [🏷 PRICING](https://www.footprint.network/pricing)
+* [🤖 API](guides/api/README.md)
+  * [Data API](guides/api/data-api.md)
+  * [⏬ Data API](https://api.footprint.network/api-doc/)
+  * [⏫ Upload API](guides/api/api.md)
+* [Jupyter notebook](guides/jupiter-notebook.md)
 
 ## Community
 
+* [❓ FAQ](community/faq.md)
+* [🏷 PRICING](https://www.footprint.network/pricing)
 * [🤖 Discord](ttps://discord.gg/3HYaR6USM7)
 * [🐦 Twitter](https://twitter.com/Footprint\_Data)
 * [🚀 Telegram](https://t.me/Footprint\_Analytics)

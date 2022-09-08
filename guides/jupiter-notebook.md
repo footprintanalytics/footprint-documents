@@ -1,4 +1,4 @@
-# 📓 Jupyter notebook
+# Jupyter notebook
 
 ## Get started
 
