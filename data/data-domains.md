@@ -26,16 +26,8 @@ Solana data pipeline
 
 ## Chains
 
-### Common
-
 {% embed url="https://github.com/footprintanalytics/data-design/blob/main/dataflow/out/chain/chain/chain.png?raw=true" %}
 Common chain data pipeline
-{% endembed %}
-
-### EOS
-
-{% embed url="https://github.com/footprintanalytics/data-design/blob/main/dataflow/out/chain/eos/eos.png?raw=true" %}
-EOS data pipeline
 {% endembed %}
 
 ## Address
