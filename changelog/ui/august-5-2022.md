@@ -8,7 +8,7 @@ Auto-renewable subscriptions is now available on Footprint Analytics.
 
 Now you can have continuous access to services and advanced features without having to take action. If you want to cancel auto-renewal, you can do it by clicking **"**_Cancel Automatic Renewal_**"** on  my profile page.
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 ### More chart information
 
@@ -29,4 +29,4 @@ We have added some useful and important visual indicators to the charts:
 
 * Dataset `token_info` has been updated. We have collated information on over 4000 Tokens to make them standardised and easy to understand and use.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
