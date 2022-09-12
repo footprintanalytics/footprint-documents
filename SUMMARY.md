@@ -69,9 +69,8 @@
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
 * [🤖 API](guides/api/README.md)
-  * [Data API](guides/api/data-api.md)
-  * [⏬ Data API](https://api.footprint.network/api-doc/)
-  * [⏫ Upload API](guides/api/api.md)
+  * [⏬ Data API](https://fp-api.readme.io/reference/welcome)
+  * [⏫ Upload API](api/api.md)
 * [📓 Jupyter notebook](guides/jupiter-notebook.md)
 
 ## Community
