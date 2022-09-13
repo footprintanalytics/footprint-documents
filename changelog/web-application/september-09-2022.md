@@ -2,9 +2,9 @@
 
 ## Features
 
-### Footprint Analytics NFT Can Be Minted! 🔥
+### Footprint Analytics NFT minting is now open! 🔥
 
-Check [**Moon Men**](https://www.footprint.network/moon-men) **** and participate in the activities, you will be surprised. When you participate in mint nft, you will get very lovely footprint nft, look forward to more interested nft to be tapped.
+Check [**Moon Men**](https://www.footprint.network/moon-men) **** and participate in the activities, you will be surprised. When you participate in mint NFT, you will get very lovely Footprint NFT, look forward to more interested nft to be minted.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
