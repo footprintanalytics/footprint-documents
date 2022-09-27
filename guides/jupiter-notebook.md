@@ -24,9 +24,9 @@ The sample code could be found in `/GCS/101/data-explorer.ipynb`. Here you you w
 
 **Save to CSV**
 
-1. Run **/GCS/101/fp-demo-csv.ipynb**.
-2. Find **/tmp/fp-demo.csv** in the address bar.
-3. Download csv.
+1. Run `/GCS/101/fp-demo-csv.ipynb`.
+2. Find `/tmp/fp-demo.csv` in the address bar.
+3. Download a `.csv` file.
 
 <img src="https://static.footprint.network/gitbook/image-python4.png" alt="" data-size="original">
 
