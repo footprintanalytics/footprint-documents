@@ -4,8 +4,6 @@ description: Guide for the Footprint web application accessible from www.footpri
 
 # 🖥 Web application
 
-##
-
 1. Footprint lets users convert raw data tables into charts without any code with an easy-to-use drag-and-drop interface.
 2. Anyone to get started with blockchain analytics quickly; Footprint provides thousands of datasets that encourage curiosity, creativity and data-driven decision making.
 3. Users can find the dashboard they need based on topic, chain, or category of data. Footprint supports forking any open analytics table on the platform with one click, helping users create and manage personalised dashboards easily.
