@@ -9,7 +9,7 @@
 * Second, set the parameters in the right sidebar.
 * Third, you must select the variable type as `field filter` and select the associated field.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Finally, you can associate the filter field of the chart in the dashboard.
 
