@@ -57,6 +57,7 @@
       * [Best Practices to Write SQL Code](guides/web-application/charts/sql/best-practices-to-write-sql-code.md)
       * [Upgrade from 26.05.2022](guides/web-application/charts/sql/upgrade-from-26.05.2022.md)
       * [Filters for charts built with SQL](guides/web-application/charts/sql/filters-for-charts-built-with-sql.md)
+    * [No code -> SQL](guides/web-application/charts/no-code-greater-than-sql.md)
     * [Visualisations](guides/web-application/charts/visualization/README.md)
       * [Tables](guides/web-application/charts/visualization/tables.md)
       * [Pivot Tables](guides/web-application/charts/visualization/guide-to-pivot-tables.md)
@@ -73,7 +74,8 @@
     * [Create embed link](guides/web-application/dashboards/four-steps-to-embed-public-link.md)
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
 * [🤖 API](guides/api/README.md)
-  * [⏬ Data API](https://fp-api.readme.io/reference/welcome)
+  * [SQL API](guides/api/sql-api.md)
+  * [REST API](https://fp-api.readme.io/reference/welcome)
   * [⏫ Upload API](api/api.md)
 * [📓 Jupyter notebook](guides/jupiter-notebook.md)
 

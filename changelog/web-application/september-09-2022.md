@@ -12,7 +12,7 @@ Check [**Moon Men**](https://www.footprint.network/moon-men) **** and participat
 
 Report exceptions due to dropped table fields can be **better** found and attempted to be modified based on prompts, improving efficiency.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Performance optimisation
 
