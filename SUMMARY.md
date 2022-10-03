@@ -4,6 +4,7 @@
 * [💡 Use cases](use-case.md)
 * [🛠 Changelog](changelog/README.md)
   * [Web application](changelog/ui/README.md)
+    * [September 30, 2022](changelog/web-application/september-30-2022.md)
     * [September 23, 2022](changelog/web-application/september-23-2022.md)
     * [September 16, 2022](changelog/web-application/september-16-2022.md)
     * [September 09, 2022](changelog/web-application/september-09-2022.md)
