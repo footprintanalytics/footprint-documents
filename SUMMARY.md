@@ -76,7 +76,7 @@
 * [🤖 API](guides/api/README.md)
   * [SQL API](guides/api/sql-api.md)
   * [REST API](https://fp-api.readme.io/reference/welcome)
-  * [⏫ Upload API](api/api.md)
+  * [Upload API](api/api.md)
 * [📓 Jupyter notebook](guides/jupiter-notebook.md)
 
 ## Community
