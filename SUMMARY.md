@@ -75,7 +75,7 @@
     * [Share](guides/web-application/dashboards/share-your-dashboards.md)
 * [🤖 API](guides/api/README.md)
   * [SQL API](guides/api/sql-api.md)
-  * [REST API](https://fp-api.readme.io/reference/welcome)
+  * [REST API](https://fp-api.readme.io/reference/introduction)
   * [Upload API](api/api.md)
 * [📓 Jupyter notebook](guides/jupiter-notebook.md)
 
